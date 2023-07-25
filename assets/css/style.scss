@@ -5,3 +5,38 @@
 @import "variables";
 @import "bootstrap/scss/bootstrap";
 @import "bootstrap-icons";
+
+body {
+	font-family: "Helvetica";
+}
+
+header {
+	background-color: $wlu-blue !important;
+	border-bottom: none;
+	color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Baskerville";
+}
+
+footer {
+	background-color: $wlu-blue;
+	color: #0076aa;
+	font-size: large;
+	padding: 25px;
+}
+
+footer a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color: #1468a0;
+}
+
+
+footer img {
+	max-width:60%
+}

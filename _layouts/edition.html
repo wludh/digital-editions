@@ -1,0 +1,50 @@
+{%- assign url = '/' | prepend: site.baseurl | prepend: site.url -%}
+{%- assign title = site.title -%}
+{%- assign description = site.description -%}
+{%- assign image = '/assets/img/image.jpg' | prepend: site.baseurl | prepend: site.url -%}
+
+{%- if page.url != '/' -%}
+  {%- if page.url -%}
+    {%- assign url = page.url | prepend: site.baseurl | prepend: site.url -%}
+  {%- endif -%}
+  {%- if page.title -%}
+    {%- assign title = page.title | append: ' | ' | append: site.title  -%}
+  {%- endif -%}
+  {%- if page.description -%}
+    {%- assign description = page.description -%}
+  {%- endif -%}
+{%- endif -%}
+
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+  <body>
+    <header class="navbar navbar-dark">
+      <div class="container">
+        <a class="navbar-brand text-white" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a>
+      
+      </div>
+    </header>
+    <div class="container-md">
+      <h1 class="display-2">{{ page.title }}</h1>
+    <div id="TEI"></div>
+  </div>
+    {% include footer.html %}
+    <script src="{{ '/assets/js/CETEI.js' | prepend: site.baseurl }}"></script>
+
+
+  <script>
+      var CETEIcean = new CETEI();
+      CETEIcean.getHTML5('v1-redhouse.xml', function(data) {
+        document.getElementById("TEI").innerHTML = "";
+        document.getElementById("TEI").appendChild(data);
+      });
+
+      // Alternatively, use then()
+      // (new CETEI).getHTML5('testTEI.xml').then(function(data){
+      //   document.getElementById("TEI").appendChild(data);
+      // });
+    </script>
+   <script src="{{ '/assets/js/script.js' | prepend: site.baseurl }}"></script>     
+  </body>
+</html>
