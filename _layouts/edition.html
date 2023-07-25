@@ -22,18 +22,25 @@
     <header class="navbar navbar-dark">
       <div class="container">
         <a class="navbar-brand text-white" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a>
-      
       </div>
     </header>
     <div class="container-md">
-      <h1 class="display-2">{{ page.title }}</h1>
-    <div id="TEI"></div>
-  </div>
+      
+      <div class="lead">
+        <h1><span class="display-1">{{ page.initial }}</span><span class="display-6">{{ page.rest }}</span></h1>
+        <h2>{{ page.author }}</h2>
+      </div>
+      
+      <div class="row">
+        <div class="col-8" id="TEI"></div>
+        <div class="col-4" id="notes"></div>
+      </div>
+    </div>
+    
+
     {% include footer.html %}
     <script src="{{ '/assets/js/CETEI.js' | prepend: site.baseurl }}"></script>
-
-
-  <script>
+    <script>
       var CETEIcean = new CETEI();
       CETEIcean.getHTML5('v1-redhouse.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
