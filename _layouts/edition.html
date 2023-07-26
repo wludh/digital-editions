@@ -42,7 +42,7 @@
     <script src="{{ '/assets/js/CETEI.js' | prepend: site.baseurl }}"></script>
     <script>
       var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('v1-redhouse.xml', function(data) {
+      CETEIcean.getHTML5('{{ page.file }}', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
       });
