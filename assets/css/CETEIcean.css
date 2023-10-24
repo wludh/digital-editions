@@ -171,6 +171,14 @@ tei-birth {
 tei-birth:before {
   content: "Birth: ";
 }
+tei-p > tei-note:before {
+  content: "("attr(n)")";
+}
+
+tei-p > tei-note {
+  display: inline;
+
+}
 /* c */
 tei-cRefPattern {
   display: none;
@@ -559,6 +567,10 @@ tei-musicNotation:before {
 tei-node {
   display: none;
 }
+
+teinote {
+  display:block;
+}
 tei-notesstmt {
   display: none;
 }
@@ -614,10 +626,10 @@ tei-principal:before {
   content: "Principal: ";
 }
 tei-profiledesc {
-  display: none;
+  display: ;
 }
 tei-publicationstmt > * {
-  display: none;
+  display: block;
 }
 tei-publicationstmt {
   display: block;
@@ -625,11 +637,12 @@ tei-publicationstmt {
   margin-bottom: 1em;
 }
 tei-publicationstmt > date {
-  display: none;
+  display: block;
 }
 tei-publicationstmt > publisher {
-  display: none;
+  display: block ;
 }
+
 
 /* q */
 tei-q {
@@ -778,7 +791,7 @@ tei-source {
   margin-bottom: 0;
 }
 tei-sourcedesc {
-  display: none;
+  display: ;
 }
 tei-space:before {
   font-weight: bold;
@@ -848,8 +861,8 @@ tei-table > tei-head {
 }
 tei-teiheader {
   display: block;
-  margin-top: 2em;
-  margin-bottom: 2em;
+/* margin-top: 2em;
+  margin-bottom: 2em;*/
 }
 tei-tei > tei-text {
   display: block;
@@ -885,10 +898,10 @@ tei-title[level=m] {
 }
 tei-titlestmt > tei-title {
   display: block;
-  font-family: Arvo, sans-serif;
+/*  font-family: Arvo, sans-serif; 
   font-weight: normal;
   font-weight: bold !important;
-  font-size: 150%;
+  font-size: 150%;*/
 }
 tei-typedesc {
   display: none;

@@ -2,7 +2,7 @@
 title: Digital Editions at W&L
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wludh.github.io/digital-editions" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -10,6 +10,15 @@ markdown: kramdown
 # SASS
 sass:
   style: :compressed
+
+collections_dir: editions
+
+collections:
+  proceedings:
+    output: true
+    sort_by: order
+  texts:
+    output: true
 
 # Defaults
 defaults:

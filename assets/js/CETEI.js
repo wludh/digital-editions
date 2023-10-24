@@ -212,35 +212,35 @@ var CETEI = (function () {
           return dl;
         }
       ]],
-      "note": [
+//      "note": [
         // Make endnotes
-        ["[place=end]", function(elt){
-          if (!this.noteIndex){
-            this["noteIndex"] = 1;
-          } else {
-            this.noteIndex++;
-          }
-          let id = "_note_" + this.noteIndex;
-          let link = document.createElement("a");
-          link.setAttribute("id", "src" + id);
-          link.setAttribute("href", "#" + id);
-          link.innerHTML = this.noteIndex;
-          let content = document.createElement("sup");
-          content.appendChild(link);
-          let notes = this.dom.querySelector("ol.notes");
-          if (!notes) {
-            notes = document.createElement("ol");
-            notes.setAttribute("class", "notes");
-            this.dom.appendChild(notes);
-          }
-          let note = document.createElement("li");
-          note.id = id;
-          note.innerHTML = elt.innerHTML;
-          notes.appendChild(note);
-          return content;
-        }],
-        ["_", ["(",")"]]
-      ],
+//        ["[place=end]", function(elt){
+//          if (!this.noteIndex){
+//            this["noteIndex"] = 1;
+//          } else {
+//            this.noteIndex++;
+//          }
+//          let id = "_note_" + this.noteIndex;
+//          let link = document.createElement("a");
+//          link.setAttribute("id", "src" + id);
+//          link.setAttribute("href", "#" + id);
+//          link.innerHTML = this.noteIndex;
+//          let content = document.createElement("sup");
+//          content.appendChild(link);
+//          let notes = this.dom.querySelector("ol.notes");
+//          if (!notes) {
+//            notes = document.createElement("ol");
+//            notes.setAttribute("class", "notes");
+//            this.dom.appendChild(notes);
+//         }
+//          let note = document.createElement("li");
+//          note.id = id;
+//          note.innerHTML = elt.innerHTML;
+//          notes.appendChild(note);
+//          return content;
+//        }],
+//        ["_", ["(",")"]]
+//      ],
       "table": function(elt) {
         let table = document.createElement("table");
         table.innerHTML = elt.innerHTML;
@@ -272,9 +272,9 @@ var CETEI = (function () {
         }
         return table;
       },
-      "teiHeader": function(e) {
-        this.hideContent(e, false);
-      },
+//      "teiHeader": function(e) {
+//        this.hideContent(e, false);
+//      },
       "title": [
         ["tei-titlestmt>tei-title", function(elt) {
           let title = document.createElement("title");

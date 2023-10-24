@@ -6,12 +6,13 @@
 @import "bootstrap/scss/bootstrap";
 @import "bootstrap-icons";
 
+
 body {
 	font-family: "Helvetica";
 	font-size: 14pt;
 }
 
-header {
+header, nav {
 	background-color: $wlu-blue !important;
 	border-bottom: none;
 	color: #fff;
@@ -27,11 +28,22 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: "Baskerville";
 }
 
+h1 {
+	margin-top: 3rem;
+	line-height: 2;
+}
+
+.row > .card {
+	padding: 0px;
+}
+
 footer {
 	background-color: $wlu-blue;
 	color: #0076aa;
 	font-size: large;
 	padding: 25px;
+	width:100%;
+	margin-top: 5rem;
 }
 
 footer a {
@@ -39,6 +51,9 @@ footer a {
 	text-decoration: none;
 }
 
+footer > a:link, a:hover, a:visited {
+	color: #fff;
+}
 footer a:hover {
 	color: #1468a0;
 }
@@ -54,4 +69,54 @@ footer img {
 
 .container-md {
 	max-width: 1000px;
+}
+
+.navbar-brand {
+	width:80%;
+}
+
+#navbarSupportedContent {
+	width:20%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-brand img {
+width: 30px;
+}
+
+
+.dropdown-item > a:link, a:visited {
+ color:#000;
+ text-decoration:none
+}
+
+blockquote {
+	font-family: "Baskerville";
+	font-size: x-large;
+	font-style: italic;
+	margin-left: 7rem;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+
+#blockquoteCitation {
+	font-style: normal;
+	font-size: medium;
+}
+#teiheader {
+	border-bottom: 1px solid darkgray;
+	margin-top: 1rem;
+}
+tei-note {
+	display: block;
+	margin: 1em 0 1em 0;
+}
+
+tei-note:before {
+content: attr(n)": ";
 }

@@ -27,9 +27,12 @@
         <h2>{{ page.author }}</h2>
       </div>
       
-      <div class="row">
+      <div class="row gx-5">
         <div class="col-8" id="TEI"></div>
-        <div class="col-4" id="notes"></div>
+        <div class="col-4" id="side">
+          <div id="teiheader"></div>
+          <div id="notes"></div>
+        </div>
       </div>
     </div>
     
@@ -37,11 +40,49 @@
     {% include footer.html %}
     <script src="{{ '/assets/js/CETEI.js' | prepend: site.baseurl }}"></script>
     <script>
-      var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('{{ page.file }}', function(data) {
+
+
+var CETEIcean = new CETEI();
+
+  CETEIcean.addBehaviors({"tei":{
+        // Overrides the default ptr behavior, displaying a short link
+        "persName": [
+          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+        ],
+        "placeName": [
+          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+        ],
+
+     }});
+
+  CETEIcean.getHTML5("{{ page.file }}", function(data) {
+    var text = data.querySelector("tei-body")
         document.getElementById("TEI").innerHTML = "";
-        document.getElementById("TEI").appendChild(data);
-      });
+        document.getElementById("TEI").appendChild(text);
+        CETEIcean.addStyle(document, data)
+  });
+
+  CETEIcean.getHTML5("{{ page.file }}", function(data) {
+    var header = data.querySelector("tei-teiheader")
+        document.getElementById("teiheader").innerHTML = "";
+        document.getElementById("teiheader").appendChild(header);
+        CETEIcean.addStyle(document, data)
+  });
+
+  CETEIcean.getHTML5("{{ page.file }}", function(data) { 
+
+  // to get note IDs RAFF 10/19
+  var visible_ids = Array.from(data.querySelectorAll('tei-note')).map(function(n) {return n.getAttribute('n')})
+
+/// Raff 10/19
+    visible_ids.forEach(function (id) {
+      if (id){
+        var note = data.querySelector('tei-note');
+        document.getElementById('notes').appendChild(note);
+      }
+    });
+  });
+
 
       // Alternatively, use then()
       // (new CETEI).getHTML5('testTEI.xml').then(function(data){

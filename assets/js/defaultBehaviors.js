@@ -13,6 +13,8 @@ export default {
     "ref": [
       ["[target]", ["<a href=\"$rw@target\">","</a>"]]
     ],
+
+    
     "graphic": function(elt) {
       let content = new Image();
       content.src = this.rw(elt.getAttribute("url"));
@@ -74,9 +76,9 @@ export default {
       }],
       ["_", ["(",")"]]
     ],
-    "teiHeader": function(e) {
-      this.hideContent(e, false);
-    },
+   // "teiHeader": function(e) {
+   //   this.hideContent(e, false);
+   // },
     "title": [
       ["tei-titlestmt>tei-title", function(elt) {
         let title = document.createElement("title");
@@ -85,6 +87,8 @@ export default {
       }]
     ],
   },
+
+  
   "teieg": {
     "egXML": function(elt) {
       let pre = document.createElement("pre");
