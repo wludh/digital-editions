@@ -1,6 +1,6 @@
 ---
 layout: edition
-title:"1939 Remembered: Some Oral History of Fifty Years Ago"
+title: "1939 Remembered : Some Oral History of Fifty Years Ago"
 initial: "1939"
 rest: "Remembered: Some Oral History of Fifty Years Ago"
 file: vol-10-1939remembered.xml
