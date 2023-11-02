@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>The Great Flu Pandemic of 1918-19 in Rockbridge County, Virginia: A Digital Edition</title>
+            <author>Eileen T. Hinks</author>
+            <editor>Robert S. Keefe</editor>
+            <sponsor>Rockbridge Historical Society</sponsor>
+            <respStmt>
+                <resp>Encoding by: </resp><name>Kaitlyn Chalker '24</name>
+            </respStmt>
+        </titleStmt>
+        <extent><!-- add XML File Size when complete --></extent>
+        <publicationStmt>
+            <publisher>Rockbridge Historical Society</publisher>
+            <distributor>Rockbridge Historical Society</distributor>
+            <distributor>Washington and Lee University</distributor>
+            <pubPlace>Lexington, Virginia</pubPlace>
+            <date>2009</date>
+            <idno type="ISBN">978-0-9777220-2-0</idno>
+            <availability>
+            <p>© 2009</p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt> 
+            <title>Proceedings of the Rockbridge Historical Society</title>
+            <biblScope unit="volume">XIII</biblScope>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>
+                <!-- Add Later -->
+            </bibl>
+        </sourceDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Text encoded as part of DCI 295D: Digital Editions, Fall 2023</p>
+            </projectDesc>
+            <editorialDecl>TBD</editorialDecl>
+            <tagsDecl>TBD</tagsDecl>
+        </encodingDesc>
+    </fileDesc>
+</teiHeader>
+</TEI>
