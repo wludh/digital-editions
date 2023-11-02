@@ -1,8 +1,8 @@
 # Site settings
 title: Digital Editions at W&L
 description: Digital Editions at W&L
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wludh.github.io/digital-editions" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/digital-editions" # the subpath of your site, e.g. /blog
+url: "https://wludh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
