@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>
+      <!-- title of the resource -->
+   </title>
+  </titleStmt>
+  <editionStmt>
+
+  </editionStmt>
+  <extent>
+<!-- description of the size of the resource -->
+  </extent>
+  <publicationStmt>
+
+  </publicationStmt>
+  <seriesStmt> 
+
+  </seriesStmt>
+  <notesStmt>
+   <note>
+<!-- notes on other aspects of the resource -->
+   </note>
+  </notesStmt>
+  <sourceDesc>
+
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+</TEI>
+
+                
