@@ -5,8 +5,8 @@
    <title>
          Buckle Down Winsocki: Washington and Lee during World War II
    </title>
-   <author> Taylor Sanders </author>
-   <editor> Rockbridge Historical Society </editor>
+   <author> I. Taylor Sanders II</author>
+   <editor> Larry I. Bland </editor>
    <sponsor> Rockbridge Historical Society </sponsor>
    <respStmt>
       <resp> Encoding by: </resp><name>
@@ -24,7 +24,8 @@
    <distributer>Rockbridge Historical Society</distributer>
    <distributer> Washington and Lee University</distributer>
    <pubPlace>Lexington, Virginia</pubPlace>
-   <date>2004</date>
+   <date>2003</date>
+   <idno type="ISSN">0080-3383</idno>
    <availability> 
       <p> Proceedings of the Rockbridge Historical Society, Volume 12.
 Copyright @ 2003</p>
@@ -48,5 +49,3 @@ Copyright @ 2003</p>
  </fileDesc>
 </teiHeader>
 </TEI>
-
-                
