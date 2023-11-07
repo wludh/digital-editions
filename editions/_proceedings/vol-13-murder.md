@@ -3,7 +3,7 @@ layout: edition
 title: The House Mountain Tragedy of 1846
 initial: "T"
 rest: "he House Mountain Tragedy of 1846"
-file: vol-13-redhouse.xml
+file: vol-13-murder.xml
 volume: thirteen
 order: 01
 author: Doug Harwood
