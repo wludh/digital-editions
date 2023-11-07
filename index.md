@@ -9,6 +9,7 @@ layout: default
 
 Digital Editions at W&L is an effort of [Leyburn Library](http://library.wlu.edu), [Digital Humanities](http://digitalhumanities.wlu.edu), and the [Digital Culture and Information minor](http://go.wlu.edu/dci) to publish edited and annotated texts from our Special Collections and Archives and the collections of our community partners. 
 <div class="row">
+
 {% assign featured = site.documents | where:"featured","true"  %}
 
   {% for card in featured  %}

@@ -130,7 +130,7 @@ tei-publicationstmt > tei-availability {
 }
 tei-publicationstmt > tei-availability:before {
   font-weight: bold;
-  content: "Availability: ";
+
 }
 tei-publicationstmt > tei-availability[data-tei-status]:before {
   font-weight: bold;
@@ -811,7 +811,7 @@ tei-sponsor {
 }
 tei-sponsor:before {
   font-weight: bold;
-  content: "Sponsor:";
+  content: "Sponsor: ";
 }
 tei-stage {
   display: block;

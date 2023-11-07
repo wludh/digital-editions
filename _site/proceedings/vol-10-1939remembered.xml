@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title><p>1939 Remembered: Some Oral History of Fifty Years Ago - Digital Edition</p>
+   </title>
+
+   <author>Hunter McClung</author>
+   <author>Mary Hope Pusey</author>
+   <author>Buck Buchanan</author>
+   <author>Bob Hunter</author>
+   <author>Mary Frances Cummings</author>
+   <editor>Larry I. Bland</editor>
+   <sponsor>Rockbridge Historical Society</sponsor>
+   <respStmt>
+      <resp>Encoding by:</resp><name>Jeniffer Ventura '25</name>
+   </respStmt>
+  </titleStmt>
+  
+  <editionStmt>
+  </editionStmt>
+  <extent>31 KB</extent> <!-- It is going to change the extent of xml file -->
+  <publicationStmt>
+   <publisher>Rockbridge Historical Society</publisher>
+   <distributor>Washington and Lee University</distributor>
+   <distributor>Rockbridge Historical Society</distributor>
+   <pubPlace>Lexington, Virginia</pubPlace>
+   <date>1990</date>
+   <avilability>
+      <p>Copyright© 1990 by the Rockbridge Historical Society</p>
+   </avilability>
+   <seriesStmt>Proceedings of the Rockbridge Historical Society</seriesStmt>
+      <biblScope unit="volume">X</biblScope>
+      <idno type="ISSN">0080-3383</idno>
+</publicationStmt>
+  </publicationStmt>
+  <seriesStmt> 
+
+  </seriesStmt>
+  <notesStmt>
+   <note>Text encoded as part of DCI 250D: Digital Editions, Fall 2023</note>
+   <note>This text was written from an oral history from different people</note>
+  </notesStmt>
+  <sourceDesc>
+   <bibl></bibl>
+   <encodingDesc>
+         <projectDesc><p>Text encoded as part of DCI 250D: Digital Editions, Fall 2023</p></projectDesc>
+         <editorialDecl><p>TBD</p></editorialDecl>
+         <tagsDecl><p>TBD</p></tagsDecl>
+   </encodingDesc>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+</TEI>
+

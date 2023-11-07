@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>A Twentieth Century Highway Story: A Digital Edition</title>
+   <author>Gen. James A. Anderson</author>
+   <editor>Rockbridge Historical Society</editor>
+   <sponsor>Rockbridge Historical Society</sponsor>
+   <respStmt>
+      <resp>Encoding by: </resp><name>
+      Zach Cruet '27</name>
+   </respStmt>
+  </titleStmt>
+  <extent>
+<!-- Extent of digital XML file--></extent>
+  <publicationStmt>
+      <publisher>Rockbridge Historical Society</publisher>
+      <distributor>Rockbridge Historical Society</distributor>
+      <distributor>Washington and Lee University</distributor>
+      <pubPlace>Lexington, Virginia</pubPlace>
+      <date>1961</date>
+      <availability>Rockbridge Historical Society</availability>
+  </publicationStmt>
+  <seriesStmt> 
+      <title>Proceedings of the Rockbridge Historical Society</title>
+      <biblScope unit="volume">5</biblScope>
+  </seriesStmt>
+  <sourceDesc>
+   <bibl>
+      
+   </bibl>
+  </sourceDesc>
+  <encodingDesc>
+     <projectDesc><p>Text encoded as part of DCI295D: Digital Editions, Fall 2023</p></projectDesc>
+     <editorialDecl>TBD</editorialDecl>
+     <tagsDecl>TBD</tagsDecl>
+  </encodingDesc>
+ </fileDesc>
+</teiHeader>
+</TEI>

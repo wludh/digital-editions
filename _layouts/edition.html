@@ -27,10 +27,23 @@
         <h2>{{ page.author }}</h2>
       </div>
       
+    <div class="accordion" id="accordionExample">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            Metadata
+          </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+          <div class="accordion-body" id="teiheader">
+          </div>
+        </div>
+      </div> 
+    </div>
+
       <div class="row gx-5">
         <div class="col-8" id="TEI"></div>
         <div class="col-4" id="side">
-          <div id="teiheader"></div>
           <div id="notes"></div>
         </div>
       </div>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>
+      The House Mountain Tragedy of 1846: A Digital Edition 
+   </title>
+   <author> Douglas J. Harwood</author>
+   <editor> Robert S. Keefe</editor>
+   <sponsors>Rockbridge Historical Society</sponsors>
+      <respStmt>
+         <resp>Encoded by: </resp><name>Toni-Marie Alibah '27</name>
+      </respStmt>
+  </titleStmt>
+  <extent>
+   1 KB
+  </extent>
+  <publicationStmt>
+   <publisher> 
+      Rockbridge Historiical Society</publisher>>
+      <distributor>  Rockbridge Historical Society</distributor><distributor> Washington and Lee University</distributor>
+      <pubPlace> Lexington Virginia </pubPlace>>
+         <date>2009</date>
+      <idno typle="ISBN">978-0-9777220-2-0</idno>
+      <availbility> <p>© 2009 by the Rockbridge Historical Society</p></availbility>
+  </publicationStmt>
+  <seriesStmt> 
+      <title> Proceedings of the Rockbridge Historical Society</title>
+      <respStmt></respStmt>
+      <bibScope unit="volume">XIII</bibScope>
+  </seriesStmt>
+  <sourceDesc>
+      <bibl> 
+
+      </bibl>
+
+  </sourceDesc>
+  <encodingDesc>
+      <projectDesc><p>Text encoded as part of DCI 295D: Dogotal Editions, Fall 2023</p></projectDesc>
+      <editorialDecl>TBD</editorialDecl>
+      <tagsDecl>TBD</tagsDecl>
+  </encodingDesc>
+ </fileDesc>
+</teiHeader>
+</TEI>
+
+                
