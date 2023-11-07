@@ -1,5 +1,5 @@
 ---
-layout: editions
+layout: edition
 title: A Twentieth-Century Highway Story
 initial: "A"
 rest: "Twentieth-Century Highway Story"
