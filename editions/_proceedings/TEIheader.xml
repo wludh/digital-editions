@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>
+         Buckle Down Winsocki: Washington and Lee during World War II
+   </title>
+   <author> I. Taylor Sanders II</author>
+   <editor> Larry I. Bland </editor>
+   <sponsor> Rockbridge Historical Society </sponsor>
+   <respStmt>
+      <resp> Encoding by: </resp><name>
+      Michael Schoenberg '27</name>
+   </respStmt>
+  </titleStmt>
+  <editionStmt>
+
+  </editionStmt>
+  <extent>
+      extent of digital XML file
+  </extent>
+  <publicationStmt>
+   <publisher>Rockbridge Historical Society</publisher>
+   <distributer>Rockbridge Historical Society</distributer>
+   <distributer> Washington and Lee University</distributer>
+   <pubPlace>Lexington, Virginia</pubPlace>
+   <date>2003</date>
+   <idno type="ISSN">0080-3383</idno>
+   <availability> 
+      <p> Proceedings of the Rockbridge Historical Society, Volume 12.
+Copyright @ 2003</p>
+</availability>
+  </publicationStmt>
+  <seriesStmt>
+   <title> Proceedings of the Rockbridge Historical Society</title>
+</seriesStmt>
+  <noteStmt> 
+   <note> Text encoded as part of DCI 295D: Digital Editions, Fall 2023</note>
+
+  </noteStmt>
+  <notesStmt>
+   <note>
+<!-- notes on other aspects of the resource -->
+   </note>
+  </notesStmt>
+  <sourceDesc>
+
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+</TEI>
+
+                
