@@ -1,7 +1,7 @@
 ---
 layout: edition
 title: A Twentieth-Century Highway Story
-initial: "A"
+initial: "A "
 rest: "Twentieth-Century Highway Story"
 file: vol-05-highwaystory.xml
 volume: five
