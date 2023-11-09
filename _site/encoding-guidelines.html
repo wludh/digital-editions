@@ -76,41 +76,155 @@
 
 <h3 id="page-numbers">Page Numbers</h3>
 
+<p>Encode page number of original text as printed. This is a empty element.</p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;pb n="67"/&gt;</code></p>
+
 <h3 id="drop-caps">Drop Caps</h3>
+
+<p>Do not encode in TEI. Prof. Brooks could style with CSS if she finds the time.</p>
 
 <h3 id="italics">Italics</h3>
 
+<p>When the italics are referencing text in another language, use:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;foreign xml:lang="it"&gt;influenza di freddo&lt;/foreign&gt;</code></p>
+
+<p>When the italics are referencing a book or newspaper’s title:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;bibl&gt;Tufte's &lt;title&gt;Envisioning Information&lt;/title&gt;&lt;/bibl&gt;</code></p>
+
 <h3 id="headingssections">Headings/sections</h3>
+
+<p>Sections and subsections should be handled by nesting divs with the <code class="language-plaintext highlighter-rouge">@type</code> attribute and the <code class="language-plaintext highlighter-rouge">@n</code> attribute.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	&lt;div type="section" n="1"&gt;
+		&lt;div type="subsection" n="1"&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+</code></pre></div></div>
 
 <h2 id="content">Content</h2>
 
 <h3 id="abbreviations">Abbreviations</h3>
 
+<p>Abbreviations should be encoded, along with the expansion or full text of the abbreviation when it comes to organizations. Initials and titles do not need to be expanded.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;choice&gt;
+ &lt;expan&gt;World Wide Web Consortium&lt;/expan&gt;
+ &lt;abbr&gt;W3C&lt;/abbr&gt;
+&lt;/choice&gt;
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;abbr&gt;Mr.&lt;/abbr&gt;</code></p>
+
 <h3 id="numbers">Numbers</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;num value="33"&gt;xxxiii&lt;/num&gt;
+&lt;num type="cardinal" value="21"&gt;twenty-one&lt;/num&gt;
+&lt;num type="percentage" value="10"&gt;ten percent&lt;/num&gt;
+&lt;num type="percentage" value="10"&gt;10%&lt;/num&gt;
+&lt;num type="ordinal" value="5"&gt;5th&lt;/num&gt;
+&lt;num type="fraction" value="0.5"&gt;one half&lt;/num&gt;
+</code></pre></div></div>
+
+<h3 id="dates">Dates</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;date when="1980-02-12"&gt;12/2/1980&lt;/date&gt;
+
+</code></pre></div></div>
 
 <h3 id="people">People</h3>
 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;persName id="#RHS-0001"&gt; &lt;/persName&gt;
+</code></pre></div></div>
+
+<p>After your teiHeader, include of a List of Persons in the <code class="language-plaintext highlighter-rouge">&lt;standoff&gt;</code> tag.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;standOff&gt;
+ &lt;listPerson&gt;
+  &lt;person xml:id="RHS-0001"&gt;
+   &lt;persName&gt;Adam Schiff&lt;/persName&gt;
+   &lt;occupation&gt;District Attorney&lt;/occupation&gt;
+   &lt;note&gt;District Attorney for &lt;placeName&gt;Manhattan&lt;/placeName&gt; in
+       seasons 1 to 10 of &lt;title&gt;Law and Order&lt;/title&gt;.&lt;/note&gt;
+  &lt;/person&gt;
+  &lt;person xml:id="RHS-0002"&gt;
+   &lt;persName&gt;Mike Logan&lt;/persName&gt;
+   &lt;note&gt;
+    &lt;choice&gt;
+     &lt;abbr&gt;NYPD&lt;/abbr&gt;
+     &lt;expan&gt;New York Police
+           Department&lt;/expan&gt;
+    &lt;/choice&gt; Detective regularly appearing in
+       seasons 1 to 5 of &lt;title&gt;Law and Order&lt;/title&gt; and seasons 5 to 7
+       of &lt;title&gt;Law and Order: Criminal Intent&lt;/title&gt;.&lt;/note&gt;
+  &lt;/person&gt;
+</code></pre></div></div>
+
 <h3 id="places">Places</h3>
+
+<p>Encode place names in the text like this: 
+<code class="language-plaintext highlighter-rouge">&lt;placeName id="#LEX1"&gt;Lexington, Virginia&lt;/placeName&gt;</code></p>
+
+<p>In the <code class="language-plaintext highlighter-rouge">standOff</code> section between the <code class="language-plaintext highlighter-rouge">teiHeader</code> and <code class="language-plaintext highlighter-rouge">text</code>.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;place xml:id="LEX1" type="city"&gt;
+ &lt;placeName notBefore="1400"&gt;Lyon&lt;/placeName&gt;
+ &lt;placeName notAfter="0640"&gt;Lugdunum&lt;/placeName&gt;
+ &lt;location&gt;
+  &lt;geo&gt;37.784039624349134, -79.4452526675777&lt;/geo&gt;
+ &lt;/location&gt;
+&lt;/place&gt;
+</code></pre></div></div>
 
 <h3 id="organizations">Organizations</h3>
 
+<p><code class="language-plaintext highlighter-rouge">&lt;org&gt;Kappa Alpha&lt;/org&gt;</code></p>
+
 <h3 id="quotations">Quotations</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;q&gt;Here is a thing someone is saying.&lt;/q&gt;</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;soCalled&gt;&lt;/soCalled&gt;</code></p>
 
 <h3 id="images">Images</h3>
 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>figure&gt;
+ &lt;graphic url="fig1.png"/&gt;
+ &lt;head&gt;Figure One: The View from the Bridge&lt;/head&gt;
+ &lt;figDesc&gt;A Whistleresque view showing four or five sailing boats in the foreground, and a
+   series of buoys strung out between them.&lt;/figDesc&gt;
+&lt;/figure&gt;
+</code></pre></div></div>
+
 <h3 id="graphs">Graphs</h3>
+
+<p>Treat like images.</p>
 
 <h3 id="horizontal-rule">Horizontal Rule</h3>
 
 <h2 id="metadata">Metadata</h2>
 
-<h2 id="author-bio">Author bio</h2>
+<h3 id="author-bio">Author bio</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;text&gt;
+	&lt;front&gt;
+		Author bio from first page
+	&lt;/front&gt;
+	&lt;body&gt;
+		Blah blah
+	&lt;/body&gt;
+&lt;/text&gt;
+</code></pre></div></div>
 
 <h2 id="notes-and-annotations">Notes and Annotations</h2>
 
 <h3 id="authors-notes">Author’s notes</h3>
 
 <h3 id="student-annotations">Student Annotations</h3>
+
+<note></note>
 
 <h3 id="references">References</h3>
 

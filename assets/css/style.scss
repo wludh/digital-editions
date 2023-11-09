@@ -132,6 +132,10 @@ tei-date::before {
 tei-distributor::before {
 	content: "Distributor: ";
 	font-weight: bold;
+
+	tei-foreign {
+	text-decoration:italic;
+	}
 }
 tei-pubPlace::before {
 	content: "Place of Publication: ";
