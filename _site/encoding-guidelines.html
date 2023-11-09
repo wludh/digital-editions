@@ -1,25 +1,25 @@
 <!doctype html>
 <html lang="en">
-  <head>
+   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="title" content="Red House | Digital Editions at W&amp;L">
-    <meta name="description" content="Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.">
+    <meta name="title" content="Encoding Guidelines | Digital Editions at W&amp;L">
+    <meta name="description" content="Digital Editions at W&amp;L">
     <meta name="image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Digital Editions at W&amp;L">
-    <meta property="og:url" content="http://localhost:4000/digital-editions/proceedings/vol-01-redhouse.html">
-    <meta property="og:title" content="Red House | Digital Editions at W&amp;L">
-    <meta property="og:description" content="Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.">
+    <meta property="og:url" content="http://localhost:4000/digital-editions/encoding-guidelines.html">
+    <meta property="og:title" content="Encoding Guidelines | Digital Editions at W&amp;L">
+    <meta property="og:description" content="Digital Editions at W&amp;L">
     <meta property="og:image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:image:alt" content="Digital Editions at W&amp;L">
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="http://localhost:4000/digital-editions/proceedings/vol-01-redhouse.html">
-    <meta property="twitter:title" content="Red House | Digital Editions at W&amp;L">
-    <meta property="twitter:description" content="Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.">
+    <meta property="twitter:url" content="http://localhost:4000/digital-editions/encoding-guidelines.html">
+    <meta property="twitter:title" content="Encoding Guidelines | Digital Editions at W&amp;L">
+    <meta property="twitter:description" content="Digital Editions at W&amp;L">
     <meta property="twitter:site" content="@">
     <meta property="twitter:image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <link rel="shortcut icon" href="/digital-editions/favicon.ico">
@@ -29,7 +29,7 @@
 
     <link rel="stylesheet" href="/digital-editions/assets/css/CETEIcean.css">
     
-    <title>Digital Editions at W&L | Red House</title>
+    <title>Digital Editions at W&L | Encoding Guidelines</title>
   
 
   </head>
@@ -71,36 +71,13 @@
 </nav>
 
     <div class="container-md">
-      
-      <div class="lead">
-        <h1><span class="display-1">R</span><span class="display-6">ed House</span></h1>
-        <h2>Dr. Francis Lee Thurman</h2>
-      </div>
-      
-    <div class="accordion" id="accordionExample">
-      <div class="accordion-item">
-        <h2 class="accordion-header">
-          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            Metadata
-          </button>
-        </h2>
-        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-          <div class="accordion-body" id="teiheader">
-          </div>
-        </div>
-      </div> 
-    </div>
+      <h1>Encoding Guidelines</h1>
+    <h2 id="structure">Structure</h2>
 
-      <div class="row gx-5">
-        <div class="col-8" id="TEI"></div>
-        <div class="col-4" id="side">
-          <div id="notes"></div>
-        </div>
-      </div>
-    </div>
-    
+<h2 id="people">People</h2>
 
-    <footer class="">
+  </div>
+<footer class="">
   <div class="container-fluid">
     <div class="row">
       <div class="col-4">
@@ -120,57 +97,6 @@
     </div>
   </div>
 </footer>
-    <script src="/digital-editions/assets/js/CETEI.js"></script>
-    <script>
-
-
-var CETEIcean = new CETEI();
-
-  CETEIcean.addBehaviors({"tei":{
-        // Overrides the default ptr behavior, displaying a short link
-        "persName": [
-          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
-        ],
-        "placeName": [
-          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
-        ],
-
-     }});
-
-  CETEIcean.getHTML5("vol-01-redhouse.xml", function(data) {
-    var text = data.querySelector("tei-body")
-        document.getElementById("TEI").innerHTML = "";
-        document.getElementById("TEI").appendChild(text);
-        CETEIcean.addStyle(document, data)
-  });
-
-  CETEIcean.getHTML5("vol-01-redhouse.xml", function(data) {
-    var header = data.querySelector("tei-teiheader")
-        document.getElementById("teiheader").innerHTML = "";
-        document.getElementById("teiheader").appendChild(header);
-        CETEIcean.addStyle(document, data)
-  });
-
-  CETEIcean.getHTML5("vol-01-redhouse.xml", function(data) { 
-
-  // to get note IDs RAFF 10/19
-  var visible_ids = Array.from(data.querySelectorAll('tei-note')).map(function(n) {return n.getAttribute('n')})
-
-/// Raff 10/19
-    visible_ids.forEach(function (id) {
-      if (id){
-        var note = data.querySelector('tei-note');
-        document.getElementById('notes').appendChild(note);
-      }
-    });
-  });
-
-
-      // Alternatively, use then()
-      // (new CETEI).getHTML5('testTEI.xml').then(function(data){
-      //   document.getElementById("TEI").appendChild(data);
-      // });
-    </script>
-   <script src="/digital-editions/assets/js/script.js"></script>     
+    <script src="/digital-editions/assets/js/script.js"></script>
   </body>
 </html>
