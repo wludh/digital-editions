@@ -1,43 +1,1616 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>The Great Flu Pandemic of 1918-19 in Rockbridge County, Virginia: A Digital Edition</title>
-            <author>Eileen T. Hinks</author>
-            <editor>Robert S. Keefe</editor>
-            <sponsor>Rockbridge Historical Society</sponsor>
-            <respStmt>
-                <resp>Encoding by: </resp><name>Kaitlyn Chalker '24</name>
-            </respStmt>
-        </titleStmt>
-        <extent><!-- add XML File Size when complete --></extent>
-        <publicationStmt>
-            <publisher>Rockbridge Historical Society</publisher>
-            <distributor>Rockbridge Historical Society</distributor>
-            <distributor>Washington and Lee University</distributor>
-            <pubPlace>Lexington, Virginia</pubPlace>
-            <date>2009</date>
-            <idno type="ISBN">978-0-9777220-2-0</idno>
-            <availability>
-            <p>© 2009</p>
-            </availability>
-        </publicationStmt>
-        <seriesStmt> 
-            <title>Proceedings of the Rockbridge Historical Society</title>
-            <biblScope unit="volume">XIII</biblScope>
-        </seriesStmt>
-        <sourceDesc>
-            <bibl>
-                <!-- Add Later -->
-            </bibl>
-        </sourceDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>Text encoded as part of DCI 295D: Digital Editions, Fall 2023</p>
-            </projectDesc>
-            <editorialDecl>TBD</editorialDecl>
-            <tagsDecl>TBD</tagsDecl>
-        </encodingDesc>
-    </fileDesc>
-</teiHeader>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Great Flu Pandemic of 1918-19 in Rockbridge County, Virginia: A Digital Edition</title>
+                <author>Eileen T. Hinks</author>
+                <editor>Robert S. Keefe</editor>
+                <sponsor>Rockbridge Historical Society</sponsor>
+                <respStmt>
+                    <resp>Encoding by: </resp><name>Kaitlyn Chalker '24</name>
+                </respStmt>
+            </titleStmt>
+            <extent><!-- add XML File Size when complete --></extent>
+            <publicationStmt>
+                <publisher>Rockbridge Historical Society</publisher>
+                <distributor>Rockbridge Historical Society</distributor>
+                <distributor>Washington and Lee University</distributor>
+                <pubPlace>Lexington, Virginia</pubPlace>
+                <date>2009</date>
+                <idno type="ISBN">978-0-9777220-2-0</idno>
+                <availability>
+                <p>© 2009</p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt> 
+                <title>Proceedings of the Rockbridge Historical Society</title>
+                <biblScope unit="volume">XIII</biblScope>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <!-- Add Later -->
+                </bibl>
+            </sourceDesc>
+            <encodingDesc>
+                <projectDesc>
+                    <p>Text encoded as part of DCI 295D: Digital Editions, Fall 2023</p>
+                </projectDesc>
+                <editorialDecl>TBD</editorialDecl>
+                <tagsDecl>TBD</tagsDecl>
+            </encodingDesc>
+        </fileDesc>
+    </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="RHS-0001">
+                <persName>Eileen T. Hinks</persName>
+                <occupation>Professor</occupation>
+                <note>Chemistry and biology professor at Virginia Military Institute that was the author of this article</note>
+            </person>
+            <person xml:id="RHS-0002">
+                <persName>Private Turner</persName>
+                <occupation>Private in the US Military</occupation>
+                <note>A twenty-one-year-old who died from unspecified pneumonia while serving at <placeName id="#RHSP-0001">Camp Greene, North Carolina</placeName></note>
+            </person>
+            <person xml:id="RHS-0003">
+                <persName><abbr>Dr.</abbr> Robert Glasgow</persName>
+                <occupation>Doctor</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0004">
+                <persName><abbr>Dr.</abbr> Reuben Frank Davis</persName>
+                <occupation>Doctor</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0005">
+                <persName><abbr>Dr.</abbr> Ennion G. Williams</persName>
+                <occupation>Virginia State Health Commissioner</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0006">
+                <persName><abbr>Dr.</abbr> O. Hunter McClung</persName>
+                <occupation>Post Physician</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0007">
+                <persName>General Edward W. Nichols</persName>
+                <occupation>Virginia Military Institute Superintendent</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0008">
+                <persName>Owen Mason Morris</persName>
+                <occupation>Soldier</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0009">
+                <persName>James Franklin Bane</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0010">
+                <persName>President Henry Lewis Smith</persName>
+                <occupation>President of Washington and Lee University</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0011">
+                <persName><abbr>Mrs.</abbr> Merrill Mills</persName>
+                <occupation>Lexington Red Cross Organizer</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0012">
+                <persName>Miss Annie Jo White</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0013">
+                <persName><abbr>Dr.</abbr> James Harmanson Mapp</persName>
+                <occupation>Board of Health President</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0014">
+                <persName>Grover Cleveland Cummings</persName>
+                <occupation>Traveling Insurance Man</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0015">
+                <persName>Robert Agnor</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0016">
+                <persName>Lee Starke</persName>
+                <occupation>Religious Leader</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0017">
+                <persName><abbr>Dr.</abbr> Richard Garnett</persName>
+                <occupation>Assistant Commissioner of Health</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0018">
+                <persName>Samuel P. Gibson</persName>
+                <occupation>Land Assessor and City Registrar</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0019">
+                <persName>Cleveland Davis</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0020">
+                <persName><abbr>Dr.</abbr> Charles H. Davidson</persName>
+                <occupation>Rcokbridge County Health</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0021">
+                <persName>Eugenia Harman McClung</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0022">
+                <persName>Judge Henry Holt</persName>
+                <occupation>Judge</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0023">
+                <persName>A. Terry Shields</persName>
+                <occupation>County Clerk</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0024">
+                <persName><abbr>Dr.</abbr> Royal S. Copeland</persName>
+                <occupation>Health Commissioner of New York City</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0025">
+                <persName><abbr>Dr.</abbr> R. H. Morrison</persName>
+                <occupation>Doctor</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0026">
+                <persName>Nathan Gooch</persName>
+                <occupation>Soldier</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0027">
+                <persName>James Hostetter</persName>
+                <occupation>Soldier</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0028">
+                <persName>Graham Robinson</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0029">
+                <persName>Bruce Updike</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0030">
+                <persName>John Ward Child</persName>
+                <occupation>Student</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0031">
+                <persName>Thomas Armstrong</persName>
+                <occupation>Student</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0032">
+                <persName>Nathan Hickman</persName>
+                <occupation>Student</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0033">
+                <persName>Private Holtz</persName>
+                <occupation>Soldier</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0034">
+                <persName>Eva Cox Markham</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0035">
+                <persName>Harry Markham</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0036">
+                <persName>Harry M. Paxton</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0037">
+                <persName>Lena W. Frye</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0038">
+                <persName>Rowena Ramsey</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0039">
+                <persName>Verdrey Tolley</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0040">
+                <persName>Frank Lee Wagner</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0041">
+                <persName>Mary Crump Davis</persName>
+                <occupation>Nurse</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0042">
+                <persName><abbr>Prof.</abbr> John W. Kern</persName>
+                <occupation>Professor</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0043">
+                <persName>James Buchanan</persName>
+                <occupation>Soldier</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0044">
+                <persName>Donald Spotts</persName>
+                <occupation>Student</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0045">
+                <persName>Carl Taylor</persName>
+                <occupation>Postmaster and Railway Agent</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0046">
+                <persName>Bertha Cassandra Slusser</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0047">
+                <persName>Harry Coe Slusser</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0048">
+                <persName><abbr>Dr.</abbr> William O. Beazley</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0049">
+                <persName><abbr>Mrs.</abbr> Walter Beard</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0050">
+                <persName><abbr>Mrs.</abbr> Hite</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0051">
+                <persName><abbr>Mrs.</abbr> Russel</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0052">
+                <persName><abbr>Mrs.</abbr> Wm Cunningham</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0053">
+                <persName><abbr>Mr.</abbr> S V Watts</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0054">
+                <persName>Rupert Blue</persName>
+                <occupation>U.S. Surgeon-General</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0055">
+                <persName><abbr>Dr.</abbr> Emmett McCorkle</persName>
+                <occupation>Pastor</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0056">
+                <persName><abbr>Mrs.</abbr> Bessie Whitmore Nicely</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0057">
+                <persName>Clifford Berryman</persName>
+                <occupation>Cartoonist</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0058">
+                <persName>Miss Truslow</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0059">
+                <persName><abbr>Mrs.</abbr> Foster</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0060">
+                <persName><abbr>Mrs.</abbr> Downey</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0061">
+                <persName><abbr>Mrs.</abbr> Walter Murray</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0062">
+                <persName>Andrew Nicely</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0063">
+                <persName>Edward Shewey</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0064">
+                <persName>Virginia Steele</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0065">
+                <persName>Lieutenant J. Henry Smith</persName>
+                <occupation>Lieutenant</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0066">
+                <persName>Lillie Downey</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0067">
+                <persName>Miss Annie Marie Fitzgerald</persName>
+                <occupation>Nurse</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0068">
+                <persName>Thomas Agree Smith</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0069">
+                <persName>John McGee</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0070">
+                <persName><abbr>Dr.</abbr> Lloyd</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+                <person xml:id="RHS-0071">
+                <persName>Otho C. Jackson</persName>
+                <occupation>Lexington Mayor</occupation>
+                <note></note>
+            </person>
+                <person xml:id="RHS-0072">
+                <persName>Lucy Preston Smith</persName>
+                <occupation>Nurse</occupation>
+                <note></note>
+            </person>
+                <person xml:id="RHS-0073">
+                <persName>General Preston Smith</persName>
+                <occupation>Former Virginia Military Institute Superintendent</occupation>
+                <note></note>
+            </person>
+                <person xml:id="RHS-0074">
+                <persName><abbr>Dr.</abbr> Livingston Waddell</persName>
+                <occupation>Doctor</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0075">
+                <persName>Crosby</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0076">
+                <persName>James Wilson Morrison</persName>
+                <occupation>Game Warden for Rockbridge County</occupation>
+                <note></note>
+            </person>
+            <person xml:id="RHS-0077">
+                <persName><abbr>Mrs.</abbr> O'Neal Moses</persName>
+                <occupation></occupation>
+                <note></note>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="RHSP-0001" type="Military-Facility">
+                <placeName>Camp Greene, North Carolina</placeName>
+                <location>
+                    <geo>35.2370, 80.8878</geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0002" type="County">
+                <placeName>Rockbridge County, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0003" type="City">
+                <placeName>Lexington, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0004" type="City">
+                <placeName>Buena Vista, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0005" type="City">
+                <placeName>Staunton, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0006" type="College">
+                <placeName>Virginia Military Institute</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0007" type="College">
+                <placeName>Washington and Lee University</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0008" type="College">
+                <placeName>Mary Baldwin College</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0009" type="College">
+                <placeName>Temple University School of Medicine</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0010" type="Building">
+                <placeName>Nichols Hall, Virginia Military Institute</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0011" type="Country">
+                <placeName>United States of America</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0012" type="County">
+                <placeName>Haskell County, Kansas</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0013" type="Military-Facility">
+                <placeName>Camp Funston, Kansas</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0014" type="Military-Facility">
+                <placeName>Camp Lee, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0015" type="City">
+                <placeName>Richmond, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+                <place xml:id="RHSP-0016" type="Continent">
+                <placeName>Europe</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0017" type="Country">
+                <placeName>Spain</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0018" type="Building">
+                <placeName>Fancy Hill, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0019" type="Building">
+                <placeName>San Quentin State Prison, California</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0020" type="City">
+                <placeName>Boston, Massachusetts</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0021" type="City">
+                <placeName>Freeport, Sierra Leone</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0022" type="City">
+                <placeName>Brest, France</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0023" type="Military-Facility">
+                <placeName>Camp Devens, Massachusetts</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0024" type="Building">
+                <placeName>Doremus Gymnasium, Washington and Lee University</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0025" type="Building">
+                <placeName notBefore="1940">Graham-Lees Hall, Washington and Lee University</placeName>
+                <placeName notAfter="1940">Lees Dormitory, Washington and Lee University</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0026" type="Building">
+                <placeName>Castle Hill, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0027" type="Country">
+                <placeName>France</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0028" type="Military-Facility">
+                <placeName>Camp Dix, New Jersey</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0029" type="City">
+                <placeName>Chicago, Illinois</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0030" type="Military-Facility">
+                <placeName>Great Lakes Naval Training Station, Illinois</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0031" type="">
+                <placeName>Brattons Run, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0032" type="State">
+                <placeName>Virginia, United States</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0033" type="Military-Facility">
+                <placeName notBefore="1935">Fort Belvoir, Virginia</placeName>
+                <placeName notAfter="1935">Fort Humphreys, Virginia</placeName>
+                <placeName notAfter="1922">Camp A. A. Humphreys, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0034" type="Building">
+                <placeName>13 University Place, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0035" type="Street">
+                <placeName>South Main Street, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0036" type="Region">
+                <placeName>Picardy, France</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0037" type="Building">
+                <placeName>Lyric Theatre, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0038" type="Street">
+                <placeName>Randolph Street, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0039" type="Building">
+                <placeName>St. John's Methodist Church</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0040" type="State">
+                <placeName>New York, United States</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0041" type="City">
+                <placeName>Washington, <choice><expan>District of Columbia</expan><abbr>D.C.</abbr></choice></placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0042" type="Building">
+                <placeName>McCrum Drug Company, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0043" type="Building">
+                <placeName>Wayland’s Drug Store</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0044" type="City">
+                <placeName>Lynchburg, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0045" type="City">
+                <placeName>Covington, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0046" type="College">
+                <placeName>Southern Seminary College</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0047" type="City">
+                <placeName>Baltimore, Maryland</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0048" type="State">
+                <placeName>North Carolina, United States</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0049" type="City">
+                <placeName>New York, New York</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0050" type="City">
+                <placeName>Rockbridge Baths, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0051" type="City">
+                <placeName>Charlotte, North Carolina</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0052" type="City">
+                <placeName>Philadelphia, Pennsylvania</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0053" type="Water">
+                <placeName>Irish Creek, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0054" type="State">
+                <placeName>West Virginia, United States</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0055" type="College">
+                <placeName>Virginia Polytechnic Institute</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0056" type="Army-Facility">
+                <placeName>Camp Grant, Illinois</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0057" type="City">
+                <placeName>Collierstown, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0058" type="City">
+                <placeName>Natural Bridge, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0059" type="Building">
+                <placeName>Jackson Hospital, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0060" type="County">
+                <placeName>Albemarle County, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0061" type="City">
+                <placeName>Kerrs Creek, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0062" type="City">
+                <placeName>Dublin, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0063" type="City">
+                <placeName>Decatur, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0064" type="Building">
+                <placeName>Lexington Baptist Church, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0065" type="Street">
+                <placeName>White Street, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0066" type="Country">
+                <placeName>Canada</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0067" type="City">
+                <placeName>Hopewell, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0068" type="City">
+                <placeName>Petersburg, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0069" type="City">
+                <placeName>Covington, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0070" type="County">
+                <placeName>Alleghany County, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0071" type="Country">
+                <placeName>Sierra Leone</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0072" type="Continent">
+                <placeName>Africa</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0073" type="Building">
+                <placeName>Bethesda Church, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0074" type="Building">
+                <placeName>Shirey and Brown, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0075" type="Street">
+                <placeName>Jefferson Street, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0076" type="Water">
+                <placeName>James River</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0077" type="Landmark">
+                <placeName>Arnold's Valley, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0078" type="Building">
+                <placeName>Waterloo School, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0079" type="Water">
+                <placeName>Buffalo Creek</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0080" type="City">
+                <placeName>Clifton Forge, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0081" type="City">
+                <placeName>Steeles Tavern, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0082" type="Military-Facility">
+                <placeName>Camp Taylor, Kentucky</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0083" type="City">
+                <placeName>Louisville, Kentucky</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0084" type="City">
+                <placeName>Brownsburg, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0085" type="">
+                <placeName>Timber Ridge</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0086" type="City">
+                <placeName>Raphine, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0087" type="City">
+                <placeName>Glasgow, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0088" type="Street">
+                <placeName>Main Street, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0089" type="Continent">
+                <placeName>Europe</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0090" type="City">
+                <placeName>Roanoke, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0091" type="County">
+                <placeName>Roanoke County, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0091" type="County">
+                <placeName>Augusta County, Virginia</placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+            <place xml:id="RHSP-0091" type="">
+                <placeName></placeName>
+                <location>
+                    <geo></geo>
+                </location>
+            </place>
+        </listPlace>
+    </standOff>
+    <text>
+        <pb n="235"/>
+        <front>
+            The Great Flu Pandemic of 1918-19 in Rockbridge County, Virginia
+            <persName id="#RHS-0001">Eileen T. Hinks</persName>
+            <!--Intro Paragraph-->The influenza pandemic of 1918-19 affected even those living in rural areas such as Rockbridge County and its two cities, Lexington and Buena Vista. Local newspapers and other local sources were used to construct a chronology of events. Concomitant national and global events are included in order to visualize how local history fit into those events. Morbidity and mortality rates were estimated using vital statistics and local sources. Relevance of local 1918 events to future pandemic preparations is also discussed.<!--Intro Paragraph-->
+            <!--Author Bio--><persName id="#RHS-0001">Eileen Hinks</persName> is an instructor in the chemistry and biology departments at Virginia Military Institute and an adjunct assistant professor of health care administration at Mary Baldwin College in Staunton, Virginia. She earned her doctorate in microbiology and immunology from the Temple University School of Medicine. She presented this paper at the Society’s meeting of November 21, 2005, in Nichols Hall at Virginia Military Institute.<!--Author Bio End-->
+        </front>
+        <body>
+            <div type="section" n="1">
+                History of Influenza and Pandemics
+                The word “influenza” comes from the Italian <foreign xml:lang="it">influenza di freddo</foreign>, “influence of the cold,” referring to the usual cases that occur each winter.1 Symptoms2 of “the flu” (or “the <foreign xml:lang="it">grippe</foreign>”) come on suddenly, within a day or two after contact, and include high fever (sometimes with delirium), headache, respiratory symptoms, and muscle and bone aches.
+                Certain high-risk groups are susceptible to more severe complications and even death. Before 1918, influenza was viewed by the medical community as an inconvenience.3 When it killed, the cause was most often opportunistic bacterial invaders that caused pneumonia, especially in the elderly and the weak.
+                The pandemic of 1918 changed that view of influenza. Unlike other outbreaks before it, the 1918 virus preyed on the young and healthy and 
+                without regard to skin color or socioeconomic status. More than half of 
+                all deaths occurred in young adults between the ages of twenty and forty, and the worst mortality figures were in the twenty- to thirty-year-old cohort4 — the group that included soldiers and young parents. The Rockbridge County experience was no different.
+                Pandemics, by definition, involve the whole world.5 A pandemic implies a novel virus strain, serious ill effects, and sustained person-to-person transmission. Because little or no immunity to the new strain exists, individuals are very susceptible to it. Because the incubation period of influenza is so short, it spreads quickly. High levels of ill
+                <pb n="236"/>
+                ness, death, social disruption, and economic loss are associated with any pandemic.6
+                There were three major pandemics of influenza in the twentieth century: the 1968-69 Hong Kong flu (750,000 deaths worldwide); the 1957-58 Asian flu (1 million deaths worldwide); and the 1918-19 Spanish flu, with an estimated <num type="cardinal" value="50000000">fifty million</num> to <num type="cardinal" value="100000000">one hundred million</num> deaths worldwide.7 Further, some 1918 residents of Rockbridge County would have remembered, or may even have been exposed to, the Russian flu of 1889-90.
+                In 1918, nearly a third of the world’s population, including that of the United States, had symptoms.* About <num type="percentage" value="40">forty percent</num> percent of Navy personnel and <num type="percentage" value="36">thirty-six percent</num> percent of Army soldiers became ill.9 Over all, an estimated <num type="cardinal" value="675000">six hundred seventy-five thousand</num> Americans died;10 nearly half of all U.S. deaths in 1918 were due to influenza.11 Influenza affected life span statistics dramatically: In 1917, the life expectancy of the average American was fifty-one years; in 1918, it was thirty-nine years.12
+                Unique to the 1918 strain, death rates reached <num type="percentage" value="2.5">two and a half percent</num> percent to <num type="percentage" value="5">five percent</num> percent,13 up to fifty times the mortality seen in other influenza outbreaks. In some locations in the world, even those death rates were greatly exceeded.14
+                Influenza deaths obtained from the Department of Vital Statistics for Virginia for the years 1913 through 1928 are shown in Figure 1. There was an approximately seventeen-fold increase in the number of deaths from 1917 to 1918. The number of deaths did not return to pre-1918 levels until 1921. The tail end of the pandemic of 1918-19 occurred in 1920.
+                <div/>
+                <div type="section" n="2">
+                Rockbridge and the Pandemic
+                Three newspapers in Rockbridge County at the time served as sources of information about the war and local news: the <bibl><title>Rockbridge County News</title></bibl>,the <bibl><title>Lexington Gazette</title></bibl>, and the <bibl><title>Buena Vista Weekly</title></bibl>. A railroad depot in Buena Vista served as a hub for travel to and from locations outside the county.
+                Rockbridge County did not escape the terrible impact of the “mother of all pandemics.”15 Yet the impact of the first wave in the spring was minimal to nonexistent. As in the rest of the world the fall 1918 wave was horrific.16 The local newspapers reported that the effects of the pandemic continued to be felt in early 1919 and again in early 1920.
+                <div type="subsection" n="1">
+                    The First Wave
+                    As it did in many parts of the country,17 the year 1918 started ominously in Rockbridge County. The weather in January was unprecedented, with
+                    <!--Footnote-->* Influenza mortality statistics are certainly underestimated because no formal surveillance or reporting systems existed. This was true even in the United States,8where infectious diseases and vital statistics were often not recorded accurately except in major cities. In the rest of the world, records were all but nonexistent.<!--Footnote-->
+                    <pb n="237"/>
+                    deep snow and thick ice everywhere. Activities of all kinds were paralyzed.18 On January 1, it was four degrees below zero. Fuel was scarce. Businesses were closed on Mondays to save fuel. There was a sugar shortage.
+                    Residents of Rockbridge County had no idea that the first wave of the pandemic had already begun; they were spared its fury. In late January, while they were coping with record cold temperatures, unusually virulent cases of influenza were observed halfway across the country in Haskell County, Kansas.19 By April, thousands were sick at Camp Funston, Kansas, where it was extremely cold and very overcrowded. 
+                    Locally, March was a “smiling and beautiful month.” Now that the weather was better, Rockbridge County parents visited their sons in military camps, especially Camp Lee, near Richmond. County residents were preoccupied with the war and with buying Liberty Bonds. A great crowd, including <num type="cardinal" value="5000">five thousand</num> visitors from all over the county and Buena Vista, gathered in Lexington on Saturday, April 6, to participate in the Liberty Loan parade, described by the <bibl><title>Gazette</title></bibl> as a “monster parade.”
+                    Attention was directed to getting huge numbers of American troops to Europe.20 Outbreaks all over Europe were epidemiologically associated 
+                    with U.S. troop embarkations.21 The flu was very contagious among the 
+                    troops and was called “three-day fever” in Europe.22 The name “Spanish 
+                    <!--Graph-->
+                    Thousands of deaths
+                    FIGURE 1
+                    Influenza Deaths in Virginia, 1913-28
+                    Source: Department of Vital Statistics, 
+                    “Virginia Health Bulletin”
+                    <!--Graph-->
+                    <pb n="238"/>
+                    influenza” stuck — not because the epidemic started in Spain, but because Spain, being neutral, did not censor news reports about the seriousness of the outbreaks.23
+                    A number of crowded military camps experienced epidemics in March and April. In mid-April, Rockbridge County residents read about the death of a <persName id="#RHS-0002">Private Turner</persName>, age twenty-one, of Fancy Hill, from unspecified pneumonia while at Camp Greene, North Carolina. Of interest, there were still no reported cases of flu or pneumonia among Rockbridge County residents. 
+                    Little attention was paid in general to outbreaks of the flu in the United States — in <num type="cardinal" value="1000">one thousand</num> Ford Motor <choice><expan>Company</expan><abbr>Co.</abbr></choice> workers, in <num type="cardinal" value="500">five hundred</num> prisoners at San Quentin, or in many other population centers all over the nation.24 The spring epidemic was not even mentioned in the <bibl><title>Journal of the American Medical Association</title></bibl>.25
+                    Unknown to Rockbridge County residents, however, physicians elsewhere were beginning to observe26 that influenza-related pneumonia was killing an unusually large number of young adults. At the same time, there was a substantial increase in symptoms such as blackened lips and hemorrhaging from the nose, and also in quick death and unusual autopsy findings. The significance of these phenomena would not be appreciated until many more examples were seen in “the terrible autumn” of 1918. 
+                    As of July 22, Rockbridge County had <num type="cardinal" value="677">six hundred seventy-seven</num> men in the armed forces. By August, the Spanish Flu had probably killed tens of thousands worldwide, but local residents were exposed only to the heat in early August: <num type="cardinal" value="101">one hudnred one</num> degrees in Lexington.27
+                <div/>
+                <div type="subsection" n="2">
+                    The Second Wave
+                    In the latter part of August, the influenza virus mutated, resulting in explosive epidemics in three port cities thousands of miles apart28 — locations marked by mixing of military and local populations. One of these port cities was in the United States, where flu surfaced in Boston on August 27. (The other port cities were Freeport in Sierra Leone and Brest in France.) Flu struck Camp Devens, thirty miles west of Boston, on September 7, then spread to other installations, including Camp Lee in Virginia. By September 23, influenza was reported among civilians throughout the mid-Atlantic states, with scattered cases elsewhere throughout the country. 
+                    Meanwhile, early September was quiet in Lexington. Appeals from the government to save gasoline because of shortages resulted in quiet Sundays in Lexington.29 If the Rockbridge County newspapers had been the only news sources, residents would not have known that the second — and more deadly — wave of influenza was already heading their way. 
+                    And the war in Europe continued. By September 12, a total of <num type="cardinal" value="2590">two thousand five hundred ninety</num>
+                    <pb n="239"/>
+                    county men had registered for the draft.30 At the beginning of September, the War Department designated Washington and Lee University and Virginia Military Institute as military training schools for officers.31 Units of the Student Army Training Corps, or <choice><expan>Student Army Training Corps</expan><abbr>S.A.T.C.</abbr></choice>, were established under military command. The law school at Washington and Lee was temporarily suspended and “war courses,” including chemistry and French, were substituted for “superfluous” literature and philosophy courses. Washington and Lee was ready and willing to receive as many as 600 matriculates.32
+                    The university registrar’s office opened on September 24, a day earlier than usual, with 146 young men enrolling on that first day. <persName id="#RHS-0003"><abbr>Drs.</abbr> Robert Glasgow</persName> and <persName id="#RHS-0004">Reuben Frank Davis</persName>, Lexington physicians, performed physicals on more than 500 men who poured into Lexington throughout the week. Slightly more than <num type="cardinal" value="400">four hundred</num> men were admitted to the <choice><expan>Student Army Training Corps</expan><abbr>S.A.T.C.</abbr></choice> By the 26th, Lexington’s streets were “wonderfully enlivened with young men.”33
+                    The Washington and Lee corps was organized into companies based on age. About <num type="cardinal" value="150">one hundred and fifty</num> twenty-year-olds, Company A, were housed on the main floor of the Doremus gym; about <num type="cardinal" value="120">one hundred and twenty</num> nineteen-year-olds, Company B, in the Lees dormitory; and about <num type="cardinal" value="140">one hundred and forty</num> eighteen-year-olds, Company C, initially in Castle Hill, a hotel on U.S. Route 60, west of the campus.34
+                    At <choice><expan>Virginia Military Institute</expan><abbr></abbr></choice>, <num type="cardinal" value="610">six hundred ten</num> young men presented themselves for duty early in September.35
+                <div/>
+                <div type="subsection" n="3">
+                    An Early Warning
+                    An early reference to the Spanish “enfluenza,” as it was spelled, appeared in the <bibl><title>Rockbridge County News</title></bibl> on September 26, 1918. Thus did most local residents first become aware of the extent of the epidemic, particularly in the camps:
+                    The disease known as Spanish enfluenza, so prevalent in Spain early in the year and which has effected many of our soldiers in France has become widely prevalent in this country . . . . The influenza first appeared at Camp Lee on Sept. 13; Sept. 21st, a week later, <num type="cardinal" value="1539">one thousand five hundred thirty-nine</num> cases had been reported. The majority of the men who first contracted it had already recovered and returned to duty. But six had died from pneumonia which had set in after the enfluenza. Saturday there was also reported fourteen deaths, as a result of the enfluenza at Camp Dix, N.J., and at Camp Devins, Mass., two officers and sixteen privates died the same day from the same disease. The enfluenza has spread to the West and Saturday about <num type="cardinal" value="2000">two thousand</num> men at the Great Lakes station near Chicago . . . .
+                    The civilian population is of course liable to be attacked by the germ of this disease. State Health Commissioner <persName id="#RHS-0005">Williams</persName> urges that as a preventative to its spread, persons shall not put their fingers in their mouth and shall cover the face when sneezing. . . . 
+                    <pb n="240"/>
+                    Influenza Comes to Lexington and Rockbridge County
+                    October — the terrible month — came in with “pleasant, bright beautiful days,” and was warmer than September. The corn crop was excellent, except on Brattons Run, which had already experienced frost damage.36
+                    On October 1, <choice><expan>Student Army Training Corps</expan><abbr>S.A.T.C.</abbr></choice> students at both Washington and Lee and <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> were inducted into military service.37 <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> inductions proceeded more slowly because of the illness of the post physician, <persName id="#RHS-0006"><abbr>Dr.</abbr> O. Hunter McClung</persName>.38 <persName id="#RHS-0004"><abbr>Dr.</abbr> Reuben Davis</persName> of Lexington was also ill, so <persName id="#RHS-0007">General Edward W. Nichols</persName>, <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice>’s superintendent, requested that the war department assign a surgeon to the institute.39 Influenza had finally come to Lexington.
+                    On October 2, the <bibl><title>Lexington Gazette</title></bibl> published a front-page article under the headline, “Ravages of Influenza — Dread Disease Spreading Fast and Claiming Many Victims in Camps.” The article said
+                    Spanish influenza, rapidly spreading throughout the country, is . . . a highly infectious disease caused by a particularly energetic germ. . . . It is in enormous numbers in the bronchial mucus, whence it is coughed up to renew its pernicious work. . . . It exerts such a general devitalizing effect on the tissue that other dangerous micro-organisms which ordinarily are held in check run riot and catarrh, pneumonia, and similar conditions develop. It particularly attacks overworked and weakened organs such as the heart and lungs. For this reason, rest, nutrition, warmth and tonics are important factors in its treatment.
+                    The September 28 <bibl><title>Staunton Daily News</title></bibl> published a colorful and “important statement” from the state health commissioner in response to the “alarming increase” of cases in Virginia: “Don’t spit in anybody’s face and don’t let anybody spit in yours!” In addition, “Better by far if they whacked us on the head with a stick instead of spraying us with his disease-producing spit . . . . And may we also be saved from the common drinking cup — another menace almost as bad as the coughers and sneezers.” 
+                    The <bibl><title>Rockbridge County News</title></bibl> reported on October 3 that the epidemic in the camps was growing and that the pneumonia and death rate would increase in the coming week. There were urgent calls from the camps for more physicians and nurses. Medical assistance was being recruited from the civilian population. The Army surgeon general reported a total of <num type="cardinal" value="88461">eighty-eight thousand four hundred sixty-one</num> cases since September 13, when the fall epidemic was first noted. There were <num type="cardinal" value="6769">six thousand seven hundred sixty-nine</num> cases of pneumonia with <num type="cardinal" value="1877">one thousand eight hundred seventy-seven</num> deaths. At Camp Lee, where a number of Rockbridge men were stationed, conditions were “growing worse.” Because of quarantines, a private at Camp Lee was married with his bride standing thirty feet away.40
+                    On the local front, the deaths of two young Rockbridge County men from influenza was reported in the same newspaper. On September 28,
+                    <pb n="241"/>
+                    <persName id="#RHS-0008">Owen Mason Morris</persName>, 21, a “promising young farmer, intelligent, energetic, and popular,” died “quickly” of pneumonia three weeks after arriving at Camp Lee. Two days later, <persName id="#RHS-0009">James Franklin Bane</persName>, “a sturdy young man,” died of pneumonia at the engineers facility at Camp A. A. Humphreys, now Fort Belvoir. This scenario was being repeated in camps all over the United States: Young men in the prime of their life were dying of influenza.41
+                <div/>
+                <div type="subsection" n="4">
+                    A Blow Strikes Washington and Lee 
+                    “Spanish influenza” appeared among Washington and Lee students in the last week of September.42 According to W&amp;L <persName id="#RHS-0010">President Henry Lewis Smith</persName>, “In the midst of the confusion of the opening, with government cots, blankets, etc. on the way, and with no surgeons yet formally appointed, the ‘Flu’ epidemic arrived with the first registrants and struck the assembled student body with the suddenness of a blow.” By October 3, Jackson Memorial Hospital “with its roomy porches was full to the limit,” with thirty-eight students sick enough to be admitted. The Lexington Red Cross was organized under <persName id="#RHS-0011"><abbr>Mrs.</abbr> Merrill Mills</persName> to help meet the emergency. <persName id="#RHS-0004"><abbr>Drs.</abbr> Reuben Frank Davis</persName>, not yet ill, and <persName id="#RHS-0003">Robert Glasgow</persName> “met the new call with tireless energy and unselfish devotion.”43
+                    Cases developed so rapidly that <persName id="#RHS-0012">Miss Annie Jo White</persName>’s home at 13 University Place was secured as a hospital for twenty patients and staffed 
+                    with Red Cross helpers. About twenty more cases were segregated and 
+                    cared for on the “commodious first floor” of Castle Hill, the hotel west of the campus. A few weeks later, the Blue Hotel, also called East Dormitory, became a fourth hospital organized under the Red Cross. The <choice><expan>Student Army Training Corps</expan><abbr>S.A.T.C.</abbr></choice> men themselves helped as hospital orderlies, working four-hour shifts day and night in all four hospitals.44 Students with less-pronounced symptoms were treated in their dormitories.45
+                    Some cases were reported among Lexington residents. Initially, no cases were reported among <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> cadets, as they had been quarantined when the first W&amp;amp;L cases were observed.46
+                <div/>
+                <div type="subsection" n="5">
+                    The First Flu Victims
+                    Although ill himself, <persName id="#RHS-0004"><abbr>Dr.</abbr> Davis</persName> worked tirelessly among the sick W&amp;amp;L students. At the young age of thirty-two, he became one of the first victims of the deadly flu in Lexington. He “was taken to his bed with a severe case of grip, and in a few days pneumonia set in, which developed rapidly and resulted in his death” on October 5 at his home on South Main Street.47Because of the epidemic, funeral services were held only at graveside. This practice would continue for several weeks during the fall influenza wave. According to the Washington and Lee yearbook, <persName id="#RHS-0004"><abbr>Dr.</abbr> Davis</persName>’s “work was as truly heroic as that of any soldier who made the supreme sacrifice
+                    <pb n="242"/>
+                    on the shell-torn fields of Picardy.”48 <persName id="#RHS-0010">President Smith</persName>, in his annual report, referred to <persName id="#RHS-0004"><abbr>Dr.</abbr> Davis</persName> “as truly a martyr in the cause of his country.” <persName id="#RHS-0004"><abbr>Dr.</abbr> Davis</persName>, a flu victim, became a war casualty.
+                    Meanwhile, another popular Lexington physician, <persName id="#RHS-0006"><abbr>Dr.</abbr> O. Hunter McClung</persName>, and two of his children were still sick with the flu.
+                <div/>
+                <div type="subsection" n="6"> 
+                    Local Response
+                    On the day <persName id="#RHS-0004"><abbr>Dr.</abbr> Davis</persName> died, the Buena Vista city council met to discuss the flu situation. <persName id="#RHS-0013"><abbr>Dr.</abbr> James Harmanson Mapp</persName>, board of health president, did not recommend closing schools or churches. On the other hand, <persName id="#RHS-0003"><abbr>Dr.</abbr> Robert Glasgow</persName>, board of health officer for Lexington, took immediate action closing Lexington’s churches, schools, billiard rooms, and the “picture shows” at the Lyric Theatre as a “precautionary measure on account of the prevalence of Spanish influenza in the community.”49 The <bibl><title>County News</title></bibl> quoted him:50
+                    This order of the board of health was neither due to the presence of a plague nor a panic in Lexington. It was taken simply as a means of wise precaution in view of the spread of an infectious disease, Spanish influenza, over the land which, in cases particularly of the infirm or bodily defective or depleted people and people who do not take proper care of themselves, has been resulting in a per centage of pneumonia, part of the cases of which result fatally.
+                    The <bibl><title>County News</title></bibl> reported that on Sunday, October 6, “for the first time that the oldest inhabitant can remember not a church bell sounded a call to worship in Lexington . . . . There were neither church services nor Sunday schools.” Few people ventured out. “It was thought by some that congregating at soda fountains should be prohibited, since the crowds thus assembled were regarded as excellent mediums for the diffusion of the disease.” On that same day, <persName id="#RHS-0014">Grover Cleveland Cummings</persName>, thirty-three, a traveling insurance man, died of pneumonia at the Randolph Street home of <persName id="#RHS-0015">Robert Agnor</persName>.51
+                    In Buena Vista, by contrast, on that Sunday, a great religious revival took place at St. John’s Methodist Church. Led by Evangelist <persName id="#RHS-0016">Lee Starke</persName> of New York, it resulted in “more than <num type="cardinal" value="300">three hundred</num> conversions and reclamations.” The meeting concluded a two-week revival, and “every seat in the church was packed, standing room at a premium and hundreds turned away for lack of room, the most remarkable religious service in the history of Buena Vista. . . . The various churches of Buena Vista united in the services. Music was a special feature, the large chorus choir being composed of the different choirs of the city.”52
+                    The next day, the Buena Vista school board voted to close the schools for one week; in the end, schools did not re-open until November 12.
+                    <pb n="243"/>
+                    With separate health boards and temporary health officers, differences in response to the epidemic in Rockbridge County, Lexington, and Buena Vista were typical at the time because of the lack of an organized public health infrastructure at local, state, or federal levels. The influenza epidemic would soon lead to efforts by the state board of health to improve public health capabilities of local jurisdictions.53 <persName id="#RHS-0017"><abbr>Dr.</abbr> Richard Garnett</persName>, assistant commissioner of health, traveled to Lexington on November 19 to propose the establishment of a permanent centralized county health department to replace the three health boards of Lexington, Buena Vista, and Rockbridge County. A large population increase was projected for the area, and the establishment of a permanent department, consisting of a salaried physician, nurses, and sanitation inspectors, would safeguard health in the future. The department would emphasize disease prevention rather than reacting to outbreaks, as was then-current practice. In spite of strong support shown by the women of Lexington, the proposal would later be turned down by the County Board of Supervisors.
+                <div/>
+                <div type="subsection" n="7">
+                    News from Buena Vista
+                    The diary of <persName id="#RHS-0018">Samuel P. Gibson</persName> (1882 -1934), land assessor and city registrar, is a collection of ledgers with daily one- or two-line comments — accurate records of deaths, sickness, marriages, fires, accidents, and unusual
+                    <!--Figure-->
+                    FIGURE 2
+                    Excerpt from the Diary of <persName id="#RHS-0018">Samuel P. Gibson</persName>, 1918
+                    Source: <persName id="#RHS-0018">Gibson</persName> diary, private collection
+                    <!--Figure-->
+                    <pb n="244"/>
+                    weather in Buena Vista and some events of national interest.54 The <persName id="#RHS-0018">Gibson</persName> diary is an important source of information about influenza events in Buena Vista from mid-September 1918 through March 1919, as no copies of the Buena Vista newspaper are known to exist for that period. Figure 2 is an example from the diary. (Note references to the Spanish flu, which he spelled “flue.”) The selection is transcribed here to show the misspellings, characteristic ledger-like spacing, and lack of punctuation:
+                    Sep 27 A little girl of Mrs Sorrels died last night
+                    Oct 3 The Spanish flue is raging all over the country something like Grip
+                    Oct 6 Several cases of the flue in B.V.
+                    " 7 The Schools closed on a/c of flue
+                    Oct 10 The Epidemick is raging hear hole families laid up with it
+                <div/>
+                <div type="subsection" n="8">
+                    The Situation Worsens
+                    The word “fear” appeared frequently: “many county people feared to come to town”; people “feared to mingle with others”; “children were kept at home by parents for fear that the disease had not entirely been stamped out”; “fear of influenza” increased with bad weather. The lack of news from reliable public health sources during wartime contributed to the fear. The lack of knowledge about the cause of influenza led to much speculation. For example, it was “generally accepted” that “the epidemic was originally caused by the bringing of Chinese coolies to do manual labor in the war zone in France.”55
+                    Washington and Lee students were quarantined effective October 7 and were not allowed to go to stores or gather in the streets.56 Throughout the quarantine period in October, the <choice><expan>Student Army Training Corps</expan><abbr>S.A.T.C.</abbr></choice> battalion continued to drill every afternoon for two hours, “the exercise being considered conducive to healthfulness to void off the influenza.” The battalion marched to the post office at 1 p.m. daily and the men entered the post office “in small relays” to get their mail. There were “no longer any student crowds about the post office.”57
+                    With the death of one physician, <persName id="#RHS-0004"><abbr>Dr.</abbr> Davis</persName>, and illness of another, 
+                    <persName id="#RHS-0006"><abbr>Dr.</abbr> McClung</persName>, many afflicted persons could not get proper medical attention.58 <persName id="#RHS-0003"><abbr>Dr.</abbr> Robert Glasgow</persName>, the Lexington health officer, wired Washington, <choice><expan>District of Columbia</expan><abbr>D.C.</abbr></choice>, for help to care for the university students, but every area of the country was in the same predicament. A September 21 article in the <bibl><title>Staunton Daily News</title></bibl> reported that only a third of the county and state physicians remained back at the home front. In Lexington, services were severely limited, especially telephone service, with half of the operators sick (Figure 3). McCrum Drug Company and Wayland’s Drug Store were without pharmacists and were short of clerks. <persName id="#RHS-0019">Cleveland Davis</persName>, engaged
+                    <pb n="245">
+                    in “war work” in Williamsburg, came back to Lexington to assist in the prescription department at McCrum’s.59 Healthy members of the Rockbridge Red Cross chapter continued to meet to make surgical dressings, an activity approved by Lexington’s health officer.60 The war effort superseded influenza.
+                    On Wednesday, October 9, all public schools in Rockbridge County were ordered closed by <persName id="#RHS-0020"><abbr>Dr.</abbr> Charles H. Davidson</persName>, who acted as the county’s health officer when needed. The Spanish influenza outbreak prompted the county board of supervisors to renew his contract until New Year’s, at $500 a year. Cases of influenza were reported throughout the county and a number of schools were already closed because of student and teacher illness. It was reported that infection seemed to have spread in the county by persons who attended the fairs in Lynchburg and Covington.
+                    Occasionally, a small news item about Buena Vista appeared in the Rockbridge County or Lexington newspaper. According to these brief reports, schools were closed, Southern Seminary college was quarantined, and the “moving picture show” was closed. Several industries were “seriously handicapped” by the sickness of employees.61
+                    <persName id="#RHS-0021">Eugenia Harman McClung</persName>, thirty-seven, wife of <persName id="#RHS-0006"><abbr>Dr.</abbr> O. Hunter McClung</persName> and mother of three little children, died from pneumonia of “a most alarming form” on October 9. <persName id="#RHS-0006"><abbr>Dr.</abbr> McClung</persName> and two of the children had been ill with influenza first.62
+                    Of interest, an article in the October 16 edition of the <bibl><title>Lexington Gazette</title></bibl> gave the “average man” advice on how to “win the war” by consuming as little as necessary. This appeared to contradict the advice offered by the State Board of Health to eat plenty of simple, nourishing food. By order of the board of health, the sale of all soft drinks was forbidden, effective October 14, as a precaution against the spread of influenza.63
+                    Advice from the State Board of Health to avoid alcoholic beverages was contradicted by the prevailing local belief that alcohol was useful 
+                    for medicinal purposes, as affirmed in a headline in the same issue of 
+                    the <bibl><title>Gazette</title></bibl>: “Booze Knocks Out Flu.” Nearly all Army camps had ordered 
+                    <!--Figure-->
+                    FIGURE 3
+                    Source: <bibl><title>Lexington Gazette</title></bibl>,
+                    October 9, 1918.
+                    <!--Figure-->
+                    <pb n="246">
+                    whisky and alcohol from Baltimore in barrel lots to aid in the treatment of the epidemic. Internal revenue agents in North Carolina and Virginia who had confiscated liquor were expected to turn it over to hospitals, physicians, and health officers.
+                    Furthermore, Prohibition commissioners continued to approve recommendations from judges to dispense confiscated liquor. Rockbridge <persName id="#RHS-0022">Judge Henry Holt</persName> instructed county clerk <persName id="#RHS-0023">A. Terry Shields</persName> to release liquor held in custody of the court for local physicians to use in treating influenza cases: “Recently there was an unexpected raid upon it [three gallons of “ardent spirits” kept in a steel vault] which the clerk was powerless to resist. Under orders from the judge physicians came and demanded it for use in influenza cases. . . . The clerk had to yield to the public necessity.”64 Of note, on October 21, <persName id="#RHS-0024"><abbr>Dr.</abbr> Royal S. Copeland</persName>, health commissioner of New York City, issued a warning against the use of alcoholic beverages by Spanish influenza victims because it “tended to increase the danger from the disease.” 
+                    By October 10, there were eighty cases of influenza among W&amp;amp;L men. Since Rockbridge Baths had escaped the influenza so far, <persName id="#RHS-0025"><abbr>Dr.</abbr> R. H. Morrison</persName> of that community volunteered his services to the university and to the private practices of the Lexington physicians. By the time the fall outbreak ended at Washington and Lee, there had been more than <num type="cardinal" value="150">one hundred fifty</num> cases recorded, with two deaths attributed to influenza or pneumonia. 
+                    <persName id="#RHS-0007">General Nichols</persName> reported the first flu case at <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> on October 11. By October 17, there were three cases among cadets. <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> attempted to restrict the spread of infection through strict quarantine at first. The <bibl><title>Lexington Gazette</title></bibl> reported that the situation was never “very serious” at <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice>, with few cases because of the quick response and decision to quarantine early in the outbreak. A different picture emerges, however, from the 1918-19 report to the board of visitors, in which <persName id="#RHS-0007">General Nichols</persName> downplayed the epidemic, saying there were “no fatalities, though there were a number quite sick.”65 According to <persName id="#RHS-0007">General Nichols</persName>, the flu was brought back to the barracks when cadets were granted furloughs to visit parents and others at home who had the illness. Absent from <persName id="#RHS-0007"><abbr>Gen.</abbr> Nichols</persName>’s report was any consideration of the fact that sick faculty and staff members on post may have been sources of infection. In short, it is questionable whether quarantine of cadets was an effective strategy at <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice>
+                    Because the <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> hospital was filled with sick cadets, an adjoining vacant house was requisitioned for hospital purposes.66 According to the Superintendent’s 1918-19 annual report, “the conditions occasioned an unusual expense in medical attention and in the number of nurses required,” and an Army doctor was procured. <persName id="#RHS-0007">General Nichols</persName> continued: “Our academic, military, and administrative staffs were also affected. As
+                    <pb n="247">
+                    we have no supernumerary force, such a condition presents complications not a little embarrassing. Absences of instructors, whether by reason of sickness or for other reasons, should be avoided in every possible way.” <persName id="#RHS-0006"><abbr>Dr.</abbr> O. Hunter McClung</persName>’s annual surgeon’s report stated simply: “We had an unusual number of men throughout the year at sick calls and on the sick list. . . . The prevailing illness was influenza and its attendant maladies.”67
+                    Two more Rockbridge County men died in Army camps on October 10: <persName id="#RHS-0026">Nathan Gooch</persName>, “colored,” at Camp Greene in Charlotte, North Carolina, and <persName id="#RHS-0027">James Hostetter</persName> at Camp Humphries. Sporadic reports of deaths of Rockbridge County men from disease in camps appear throughout the October newspapers. Young women who were teachers in other parts of the country returned to their Lexington and Rockbridge County homes because the schools where they taught were closed. Parents who were able to do so traveled elsewhere to help care for sick children and relatives. <persName id="#RHS-0028">Graham Robinson</persName> was called to Philadelphia, in the middle of that city’s crisis68 on October 12 by news that his son, a chemist at an iron works there, was sick with pneumonia. News of these travels appeared throughout the fall wave.
+                    The first death in Buena Vista specifically from influenza was documented on October 12 by <persName id="#RHS-0018">Samuel Gibson</persName>: “<persName id="#RHS-0029">Bruce Updike</persName> died today first death from flue.” (The <persName id="#RHS-0018">Gibson</persName> diary rarely gave the ages of residents who died.)
+                    During the peak of the fall epidemic, court was held, but no juries were called to “prevent the gathering of crowds at the court house during the term, which it is desired to avoid by reason of the influenza epidemic.”69
+                    On October 15, six deserters were caught hiding out in their homes in Irish Creek. Several of them had been in training at Camp Lee and were home on furlough, but refused to return to camp “on account of the influenza.”70 One of the deserters was shot and “left lying on the ground supposed to be dead, and was found in this condition the following morning.”71
+                    The <bibl><title>Lexington Gazette</title></bibl> (October 16 and 23) and the <bibl><title>County News</title></bibl> (October 17 and 24) were full of influenza death news. Two Washington and Lee students, both in Company A, housed in Doremus Gymnasium, died on October 15. The first, <persName id="#RHS-0030">John Ward Child</persName> of West Virginia, nineteen years old, a second-year student, a “youth of much promise,” died of pneumonia. The second, <persName id="#RHS-0031">Thomas Armstrong</persName>, twenty-one, took his influenza home with him. <persName id="#RHS-0032">Nathan Hickman</persName>, a Virginia Polytechnic Institute cadet from Natural Bridge, “a young man of unusual equipment,” died of influenza complications. <persName id="#RHS-0033">Private Holtz</persName>, twenty-five, a soldier at Camp Grant in Illinois, was buried in the “colored” cemetery in Collierstown, his hometown.
+                    <persName id="#RHS-0034">Eva Cox Markham</persName>, wife of <persName id="#RHS-0035">Harry Markham</persName> and mother of a fourteen-year-old boy, died at Jackson Hospital. Her son, a “delicate child,”
+                    <pb n="248"/>
+                    would die in November from influenza. Other local dead also included <persName id="#RHS-0036">Harry M. Paxton</persName>, thirty-seven, taken ill in Baltimore; <persName id="#RHS-0037">Lena W. Frye</persName>, young wife and mother; <persName id="#RHS-0038">Rowena Ramsey</persName>, thirty-one, mother of five; <persName id="#RHS-0039">Verdrey Tolley</persName>, eighteen; <persName id="#RHS-0040">Frank Lee Wagner</persName>, twenty-seven, a railroad man; and <persName id="#RHS-0041">Mary Crump Davis</persName>, twenty-eight, a trained nurse from Albemarle County, who came to Lexington to care for a visiting aunt in the home of her uncle, <persName id="#RHS-0042"><abbr>Prof.</abbr> John W. Kern</persName>. <persName id="#RHS-0041">Miss Davis</persName> became ill with influenza and “after a period of harrowing suspense the end came with pneumonia” on October 17. The day before, another Rockbridge County soldier, <persName id="#RHS-0043">James Buchanan</persName>, had died at Camp Lee. The youthfulness of the victims was probably most alarming to local residents. 
+                    A report from the Kerrs Creek area of the county read, “We are lonesome out here; every one stays at home, although the flu hasn’t struck many as yet.”72 The full force of the epidemic would not hit there until later.
+                    “In the midst of general uneasiness” about influenza, a “robust” and apparently healthy nineteen-year-old W&amp;amp;L student, <persName id="#RHS-0044">Donald Spotts</persName>, from Dublin, Virginia, died of a ruptured blood vessel in the brain, called apoplexy at that time. He was leaving the chemistry lab, where he had been working late, and was walking on campus near the library when he suddenly exclaimed, “Who struck me in the head?” Many students ran to his aid and carried him to the hospital. He died within thirty minutes.73 Of interest, editors of the 1918-19 yearbook included <persName id="#RHS-0044">Donald Spotts</persName> among the fatal influenza cases among students: “Of the more than a hundred and fifty cases of the ‘flu’ only three cases resulted fatally.”74 In actuality, only two students died of influenza.
+                    Influenza continued to claim the young, including <persName id="#RHS-0045">Carl Taylor</persName>, thirty-two, postmaster and railway agent at Decatur in northeastern Rockbridge County; <persName id="#RHS-0046">Bertha Cassandra Slusser</persName>, thirty-one, mother of six young children and wife of <persName id="#RHS-0047">Harry Coe Slusser</persName>, a Lexington meat merchant; and <persName id="#RHS-0048"><abbr>Dr.</abbr> William O. Beazley</persName>, thirty-six, pastor of the Lexington Baptist Church, who died at the Baptist parsonage on White Street from pneumonia. 
+                    On October 20, Buena Vista improvised a hospital on the second floor of the firehouse to accommodate thirty patients. <persName id="#RHS-0018">Samuel Gibson</persName> made these notes in his diary:
+                    Oct 20 They opened a Hospital at the Fire House to day for the Sick
+                    Oct 21 A man died at the Hospital last night and <persName id="#RHS-0049"><abbr>Mrs</abbr> Walter Beard</persName> died at her Home this morning
+                    <pb n="249"/>
+                    Oct 22 Their has been <num type="cardinal" value="6">six</num> deaths in the last <num type="cardinal" value="24">twenty-four</num> hours <num type="cardinal" value="2">two</num> Wheelers a man by the name of Covington <persName id="#RHS-0050"><abbr>Mrs</abbr> Hite <persName id="#RHS-0051"><abbr>Mrs</abbr> Russel</persName> and one other
+                    Oct 23 <persName id="#RHS-0052"><abbr>Mrs</abbr> Wm Cunningham</persName> died at 12 to day
+                    Oct 23 <persName id="#RHS-0053"><abbr>Mr</abbr> S V Watts</persName> died at 3 this evening
+                    The county health officer, <persName id="#RHS-0020"><abbr>Dr.</abbr> Davidson</persName>, encouraged people to stay at home and appealed to all residents to help enforce the ban on public gatherings: “The present epidemic of influenza is spread by human contact along lines of travel. . . . Every man, woman, and child can help by staying at home as much as possible.”75 Nevertheless, news items about local happenings reported that residents were continuing to travel elsewhere to care for sick family members and relatives. In addition, family members were coming to Rockbridge County to convalesce. Influenza did not stop people from traveling.
+                    U.S. Surgeon-General <persName id="#RHS-0054">Rupert Blue</persName> urged home flu treatment in an effort to reduce unnecessary calls on overworked physicians.76 Commented <persName id="#RHS-0054">Blue</persName>: “The present generation has been spoiled by having had expert medical and nursing care readily available.” He recommended basic nursing care, that gauze masks be worn when caring for sick patients, and that the doctor be called only when the patient was “very sick, coughs up pinkish sputum, or breathes rapidly and painfully.” The Virginia State Board of Health recommended that masks be “made of four layers of cheese cloth, five by six inches, hemmed and stitched across, with tape at each corner for tying behind the neck.”77
+                    The sale of Liberty Bonds appeared to have exceeded expectations even though “the influenza materially interfered with anything spectacular in the way of a campaign.”78 In the midst of death and in spite of <persName id="#RHS-0020"><abbr>Dr.</abbr> Davidson</persName>’s reminder that “all public gatherings of every description are prohibited,”79 the annual cup handicap golf match was held at the Lexington Golf Club.80
+                    The October 24 issue of the <bibl><title>County News</title></bibl> carried figures made public by Washington, the first local reporting of influenza’s impact on American and Canadian civilians. “Twenty-seven states reported . . . that influenza was still spreading”; in Canada, a third of the population was down with the illness. In Chicago, residents were being treated with experimental antitoxin and were advised to not shake hands in saluting each other.81 The news from Virginia was equally grim, with Hopewell and Petersburg sending out urgent calls for nurses and doctors. Nearby Covington in Alleghany County had fifteen deaths and the high school was converted into a hospital, with four wards for fifty people on the third floor. 
+                    The report from Washington indicated that since September 13, there had been 290,447 flu cases among soldiers, with <num type="cardinal" value="46055">forty-six thousand fifty-five</num> cases of 
+                    <pb n="250"/>
+                    pneumonia and <num type="cardinal" value="15070">fifteen thousand seventy</num> deaths — a <num type="percentage" value="5.2">five and two tenths percent</num> fatality rate among soldiers. In Sierra Leone, about <num type="cardinal" value="1000">one thousand</num> deaths a week were being reported. The news article also said that the illness had “spread to the interior” of Africa and that “chimpanzees and monkies [sic] who have very weak chests, are dying like flies.”82
+                    <persName id="#RHS-0055"><abbr>Dr.</abbr> Emmett McCorkle</persName>, pastor of Bethesda Church at Rockbridge Baths, published an appeal for united prayer in every family in the October 24 <bibl><title>Rockbridge County News</title></bibl>. <persName id="#RHS-0055"><abbr>Dr.</abbr> McCorkle</persName>’s prayer implored God to “look down with infinite pity and compassion” on the sick and “all who sorrow for their dead” and asked to “free us from this sickness with which we are afflicted.” Figure <num type="cardinal" value="4">four</num> shows a portion of <persName id="#RHS-0055"><abbr>Dr.</abbr> McCorkle</persName>’s appeal.
+                    A small notice on October 31 in the <bibl><title>County News</title></bibl> warned the public about “sure cures” for influenza. Pepto-Mangan, a “Red Blood Builder,” was advertised under the headline “Influenza Weakens the Blood — Breaks Your Vitality — Leaves You Helpless When Exposed to Other Germs.” Advertisements in the Staunton newspaper suggested that taking Indian Kidney and Liver Tonic would prevent influenza. Papa’s Cold Compound claimed to relieve the misery of colds and the grippe. “Flu capsules” were available in Staunton pharmacies. It is likely that Lexington drug stores also stocked these “remedies.” Shirey and Brown, a Buena Vista drug store, offered sample bottles of Boschee’s German Syrup, “a soothing and healing remedy for all lung troubles . . . gives the patient a good night’s rest free from coughing, with free expectoration in the morning.”83 Figure <num type="cardinal" value="5">five</num> is an example of an advertisement” that appeared in local newspapers.
+                <div/>
+                <div type="subsection" n="9">
+                    The Epidemic Begins to Subside
+                    By October 24, <persName id="#RHS-0003"><abbr>Dr.</abbr> Robert Glasgow</persName> reported a marked decrease in the number of new cases in Lexington. Although there were still some serious cases, <persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> reassured the public that pneumonia associated with influenza was not always fatal.84
+                    At Camp Lee, the quarantine was lifted on the 26th. The number of cases in the camp from September 13 through October 24 was <num type="cardinal" value="11527">eleven thousand five hundred twenty-seven</num>, with <num type="cardinal" value="655">six hundred fifty-five</num> deaths from pneumonia. A nurse who was married to a 1916 <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> 
+                    <!--Figure-->
+                    FIGURE 4
+                    Source: <bibl><title>Rockbridge County News</title></bibl>,
+                    October 24, 1918.
+                    <!--Figure-->
+                    <pb n="251"/>
+                    graduate was among the dead.85 A case fatality rate of <num type="percentage" value="5.7">five and seven tenths percent</num> percent was calculated for Camp Lee. In comparison, a case fatality rate of <num type="percentage" value="2.5">two and a half percent</num> percent was later estimated for the civilian population in the United States.86
+                    On October 28, <persName id="#RHS-0056"><abbr>Mrs.</abbr> Bessie Whitmore Nicely</persName>, twenty-six, a “sweet and lovely young mother” of three children, died of pneumonia at her home on Jefferson Street. Her illness “followed the alarming illness, from the same cause of her husband, now happily convalescent.”87
+                    The situation among Washington and Lee students improved as well, prompting <persName id="#RHS-0010">President Smith</persName> to announce, “The epidemic may be officially declared a thing of the past.”88 The university’s emergency hospitals — East dormitory, <persName id="#RHS-0012">Miss Annie White</persName>’s home, and Castle Hill — were closed. Fewer than a dozen students were at Jackson Hospital. Physicians noted that W&amp;amp;L had acted wisely in keeping the students at school rather than permitting them to return home: “The moving of people affected with influenza has often aggravated the disease and brought about fatal results.”89
+                    <persName id="#RHS-0010">President Smith</persName> expressed his “heartfelt appreciation of the unselfish courage and zeal of the ladies of Lexington Red Cross, many of whom contracted the disease while taking the places of absent and anxious mothers at the bedside of the boys away from home. Their courage and unselfishness were worthy of any battlefront, and will not soon be forgotten.”90
+                    The situation improved somewhat in Buena Vista near the end of October;91 yet <persName id="#RHS-0018">Samuel Gibson</persName> reported several more deaths in his October 26 diary entry. The firehouse hospital, which had accommodated over thirty patients,92 closed on November 1 (“They closed the Hospital this morning”). The last hospital death occurred on October 30 (“Miss Truslow died at the Hospital this morning”).93
+                    By early November, the state board of health decided that although 
+                    the danger of spread of influenza was not entirely over, restrictions could largely be lifted in most communities. The board warned that public gath-
+                    <!--Figure-->
+                    FIGURE 5
+                    Source: <bibl><title>Rockbridge County News</title></bibl>,
+                    November 7, 1918.
+                    <!--Figure-->
+                    <pb n="252"/>
+                    erings were still dangerous and that close personal contact should be avoided. It called attention to the law prohibiting use of common drinking cups, which included the common communion wine cup: “All churches using the latter are offenders against the statutes of this commonwealth . . . preachers and church officers are cautioned.”94
+                    By the end of October, influenza had just about disappeared in Lexington. The Lexington board of health lifted the quarantine effective Friday, November 8.95 <persName id="#RHS-0020"><abbr>Dr.</abbr> Davidson</persName>, county health officer, announced that quarantine regulations would be raised Saturday, November 9, at midnight. Schools and churches would reopen and public gatherings would be permitted. When the Lyric Theater opened for the first time in nearly a month, it placed a typical post-epidemic newspaper advertisement (Figure <num type="cardinal" value="6">six</num>).
+                    <persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> reported that there were “only eleven deaths” from pneumonia in Lexington.96 The word “only” misrepresents the magnitude of the epidemic, because eleven deaths from influenza, mainly as a complication of pneumonia, would have been much higher than the usual annual number of deaths from pneumonia (two to four) reported in previous years. Note that no deaths were associated with a <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> flu outbreak that occurred in 1916.97 Although several cases were observed among “colored people” in Lexington, very few deaths occurred98 — consistent with general observations of lower death rates in black Americans during the pandemic.99 Unfortunately, there are no firm statistics tracking flu cases by race in Lexington.
+                    Lexington schools reopened on Friday, November 8. Attendance was “fairly good, although some children were kept at home by parents for fear that the disease had not entirely been stamped out.” Drug stores were permitted to sell drinks and pool rooms were open for business. Quarantines having been lifted at the colleges, <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> cadets and the men of the <choice><expan>Student Army Training Corps</expan><abbr>S.A.T.C.</abbr></choice> at Washington and Lee crowded the streets on Saturday.
+                    <!--Figure-->
+                    FIGURE 6
+                    Source: <bibl><title>Rockbridge County News</title></bibl>, 
+                    November 7, 1918.
+                    <!--Figure-->
+                    <pb n="253"/>
+                    According to the <bibl><title>Lexington Gazette</title></bibl> of November 13:
+                    It is of striking significance that the situation has always been well in hand at these two schools. The <choice><expan>Virginia Military Institute</expan><abbr>VMI</abbr></choice> took precautions at the very beginning of the epidemic, and when the young men complained of colds or other infirmities they were most carefully looked after. In consequence there were the fewest number of cases of “flu” at that institution, and the young men emerged from the quarantine healthy and happy. The confinement was a little trying on their spirits but they recognized the wisdom of the precaution. 
+                    Some residents remained reluctant to gather in public spaces. “The increased attendance of county people on the streets was noticeable . . . . [Yet] many county people feared to come to town, and as a precaution they remained at home.” On Sunday the 10th, churches re-opened after <num type="cardinal" value="5">five</num> weeks of closed doors. “Fairly good congregations attended services. Many people, however, seemed to fear to mingle with others, and in consequence remained at home.”100 Businesses appeared eager to move on, as Figure <num type="cardinal" value="7">seven</num> shows.101
+                <div/>
+                <div type="subsection" n="10">
+                    Influenza Hits the County
+                    In contrast to conditions in Lexington and Buena Vista, the news from the county was not as good. “There have been so many cases of influenza and deaths . . . in Arnold’s Valley and along the James River that it is almost impossible for a correspondent to keep up with and record all of them.”102 “Distressing” news included the death of a widow, <abbr>Mrs.</abbr> Foster, her married daughter, and the daughter’s twelve-year-old son. By November 13, twenty new cases of influenza were reported in Natural Bridge. The epidemic was still in full force, bringing whole families down. The South River Lumber company shut down its sawmill because so many employees were sick.
+                    “The angel of death visited many homes in the valley, leaving sore and lonely hearts.”103 The deaths of three babies were noted. Statewide vital statistics records showed increased numbers of in infant deaths in 1918 (Figure <num type="cardinal" value="8">eight</num>).
+                    <!--Figure-->
+                    FIGURE 7
+                    Source: <bibl><title>Lexington Gazette</title></bibl>,
+                    November 6, 1918.
+                    <!--Figure-->
+                    <pb n="254"/>
+                    Cases of influenza continued to occur in the county from mid-November through January. <persName id="#RHS-0020"><abbr>Dr.</abbr> Davidson</persName> was called to a secluded hollow of Kerrs Creek to look into an outbreak that affected the teachers and nearly all the pupils of the Waterloo school there. The outbreak was traced to a local resident, one <abbr>Mrs.</abbr> Downey, whose visiting son and wife, residents of Covington and recently ill with influenza, had brought the illness to <abbr>Mrs.</abbr> Downey’s younger children, who were pupils at Waterloo.104 As many as thirty-nine cases necessitated judicial enforcement of a strict quarantine involving twelve families. 
+                    An even more serious outbreak extended along Buffalo Creek, with an estimated <num type="cardinal" value="100">one hundred</num> cases of influenza, eight cases of pneumonia, and several deaths. It was reported that this outbreak was brought in by young people of the locality visiting at Clifton Forge.105 And the influenza finally appeared in Rockbridge Baths, causing students to “abandon the school and it was closed.” Nearly all the twenty cases there started with one family, the head of which returned from West Virginia with the flu. Several county schools were closed as a precaution. Shocking deaths included those of <abbr>Mrs.</abbr> Walter Murray, twenty-nine, mother of five children, all sick with influenza when she died; Edward Shewey, “a young man of fine physical powers”; Andrew Nicely, forty-five, and two of his young daughters, ages four and six; and Virginia Steele of Steeles Tavern, “just beginning to enter into the joys and pleasures of girlhood.”106 In early December, Lieutenant J. Henry Smith, twenty-one, eldest son of Washington and Lee <persName id="#RHS-0010">President Henry Louis Smith</persName>, died at Camp Taylor in Louisville, Kentucky, of pneumonia. Lt. Smith had been a “splendid specimen of physical manhood” and the “picture of health” when he was on leave in Lexington two months before.107
+                    Christmas Day 1918 was rather somber: cloudy, with a cold wind, and “remarkably drippy.”108 In Lexington, “cash sales were remarkably large, a natural consequence of the abundance of money.” Schools in Lexington re-opened on December 31 to make up for days lost due to influenza, but a number of schools in the county stayed closed because of “the continuance of influenza.”109
+                    <!--Figure-->
+                    FIGURE 8
+                    Impact of Influenza on 
+                    Infant Deaths, 1918
+                    Source: Virginia Department of Health, 
+                    Office of Vital Records
+                    <!--Figure-->
+                    <pb n="255"/>
+                    A steady downpour of rain with mild temperatures greeted the New Year, in contrast to the hard freeze of the previous year. By January 2, a severe outbreak of influenza was reported in the Brownsburg area, and no physician was available. Deaths were still occurring in Natural Bridge and at Timber Ridge. A report from Raphine in northern Rockbridge spoke of the new year’s “melodious notes of universal peace, but mingled with ‘sorrow’ in the homes all over the land, caused by the pestilence that walketh at noonday.”110 Cases were reported from Glasgow in mid-January; a thirteen-year-old girl, Lillie Downey, died and “six little girls, her schoolmates were the pallbearers, and four others carried the flowers, which were very beautiful. A very distressing feature of this death was that her mother and three other children were sick in bed at the time.”111
+                <div/>
+                <div type="subsection" n="11">
+                    A Third Wave 
+                    In Lexington, the women’s club held a meeting January 6: “Their pleasant and instructive sessions were interrupted in the fall by the influenza epidemic and the call of war work for women.”112
+                    In Lexington, there were two deaths on January 10 owing to unusual complications: Miss Annie Marie Fitzgerald, fifty-nine, a nurse living on Main Street who had contracted the disease in the autumn “and was never well afterwards”; and three-year-old Thomas Agree Smith of Jefferson Street, who died with diabetes following an influenza infection.
+                    A January 16 report said that “influenza and colds are largely prevalent in this town and county. . . . Physicians constantly on the go; many calls to Lexington physicians coming from far out in the county.”113 “The ‘flu’ situation . . . is reported serious . . . whole families being laid-up . . . individual cases are not so serious . . . but the present epidemic seems to be more widely diffused.”114
+                    In Natural Bridge, John McGee, thirty-eight, “the picture of health,” died on January 15, eight days after driving to Lexington in a buggy to “attend to some business.” He left behind a widow and eight children, ages one to seventeen.115 <abbr>Dr.</abbr> Lloyd was “going night and day,” the only physician in the whole district. “For the last few days business of all kinds have been paralyzed and at this time the end is not in sight.”116 Because recovery from influenza was slow, the report from Natural Bridge suggested that schools not reopen until April 1: “Even those pupils that have recovered . . . are not strong and in no condition to study.”117
+                <div/>
+                <div type="subsection" n="12">
+                    Casualties of War 
+                    Even “in the face of an influenza epidemic disturbing the town and county,” Lee-Jackson Day was celebrated in Lexington on January 20. “The most idle came to attention when <persName id="#RHS-0007">General Nichols</persName>, rising to his feet at the 
+                    <pb n="256"/>
+                    call of the toastmaster, read in measured terms the men from Rockbridge who had made, ‘The Supreme Sacrifice in the World War’.”118 <persName id="#RHS-0007">General Nichols</persName> cited thirteen men who died in battle, seventeen who died of disease, and two who died in accidents. Of interest, of those who died of disease, fifteen had died in the United States, not in Europe; eleven of them had died in the camps — four at Camp Lee alone. Influenza was a likely cause of death in at least eleven of the men, based on dates of death. 
+                    Deaths of local men from combat, disease, and other causes were compared to national estimates from papers published locally early in 1919 and to official statistics available later from the War Department.119 The Rockbridge County statistics are very similar to official War Department statistics that link <num type="percentage" value="50">fifty percent</num> percent or more of World War I deaths to disease (Figures 9 and 10).
+                    <!--Figure-->
+                    FIGURE 9
+                    World War I Deaths by Cause — Local Reports
+                    Source: Local newspapers
+                    <!--Figure-->
+                    <!--Figure-->
+                    FIGURE 10
+                    World War I Deaths by Cause — War Department
+                    Source: U.S. War Department
+                    <!--Figure-->
+                    <pb n="257"/>
+                    Lexington mayor Otho C. Jackson “brought the company back to the present as he spoke of the South and the World war . . . he gloried in the unity of the people of the United States in which the spirit of the South had been conspicuous.”
+                    The <bibl><title>Rockbridge County News</title></bibl> noted the impact of the epidemic among Washington and Lee alumni serving in the war: Of twenty-seven men who died, eight were killed in action (<num type="percentage" value="30">thirty percent</num>), four (<num type="percentage" value="15">fifteen percent</num> percent) died of wounds, and fifteen (<num type="percentage" value="56">fifty-six percent</num> percent) “died of disease”120 — roughly in line with the War Department and local civilian statistics. Of interest, even though most W&amp;amp;L alumni casualties were the result of disease, those victims were described as “men who made the supreme sacrifice for their country in the great war.”
+                <div/>
+                <div type="subsection" n="13">
+                    A Respite
+                    The last reported local deaths of the 1918-19 pandemic included those in February of a twenty-one-year-old mother of an infant son and Lucy Preston Smith, who had taken up nursing duties in the <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> hospital in the emergency, “bringing her skill to bear for the help of ill cadets.” (Miss Preston was the granddaughter of former <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> superintendent General Francis Smith and <abbr>Dr.</abbr> Livingston Waddell.) In May, James Wilson Morrison, game warden for Rockbridge County, died of influenza.121
+                    By October, there had been a notable near-absence of death notices for weeks. An October 23 news article said, “Records show remarkable and gratifying health conditions. Scarcely a death reported.”122 Influenza seemed to have disappeared.
+                <div/>
+                <div type="subsection" n="14">
+                    Final Curtain Call
+                    The virus rallied in January and February of 1920 but mortality did not reach 1918-19 levels.123 By this time, the populace, including that in Rockbridge County, was more resistant than in 1918 and 1919. 
+                    The medical and scientific establishments were “baffled” (Figure <num type="cardinal" value="11">eleven</num>).124
+                    In Virginia, the epidemic was “tightening its grip on Roanoke,” but over all, cases in Virginia seemed to be of a milder nature.125 Locally, <persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> reported an increase in number of influenza cases in Lexington and Rockbridge County — but of a milder strain. By early February, sixty-five mild cases had been reported in Lexington, ten of them in W&amp;amp;L students and twenty in <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> cadets. Jackson Hospital
+                    <!--Figure-->
+                    FIGURE 11
+                    Source: <bibl><title>Lexington Gazette</title></bibl>,
+                    January 28, 1920.
+                    <!--Figure-->
+                    <pb n="258"/>
+                    had only one nurse capable of duty for twenty patients. Nursing needs were met by family, friends, and neighbors “coming to the rescue.” Some schools in the county closed, and attendance at open schools was small because of “fear of influenza with bad weather.”126 The annual Fancy Dress Ball at Washington and Lee, scheduled for February 10, was called off because of influenza.
+                    A flareup occurred in mid-February.127 Exact numbers of cases were not known: “Physicians seem to be too busy to make reports.” The offices of the telephone company were found “in a bad situation,” with most of the “young lady operators” unable to report for duty. The company appealed to the public to “use the line only when necessary,” just as it had in 1918. By February 19, the flu was even more widespread, with every neighborhood “spotted with cases of the disease.” Though the cases were mild, every community had “cases of pneumonia to which frail people, particularly, were succumbing.” <persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> estimated that Lexington had as many as <num type="cardinal" value="250">two hundred fifty</num> cases. W&amp;amp;L had a total of twenty-eight sick, fourteen of whom were in the hospital, one seriously ill. <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> had fifteen cases in the hospital. Cadets were quarantined from February 1 to 11.128
+                    As in the previous winter, businesses were affected; Figure <num type="cardinal" value="12">twelve</num> shows one advertisement from 1920.129
+                    Government operations felt the impact; the jailer, two deputy sheriffs, a deputy clerk, and the treasurer were all affected.130
+                    A number of unexpected and shocking deaths occurred in February. <abbr>Mrs.</abbr> O’Neal Moses, age thirty-one, mother, trained soprano, and member of the Lexington Presbyterian choir, died in less than a week from influenza and pneumonia.131 The young Mayor Jackson, who had spoken so passionately on Lee-Jackson Day the year before, died of heart failure following what appeared to be a mild case of influenza.132 Deaths of parent-child pairs and “husband and wife buried in same grave in Staunton” were reported.133 There was “much sickness in Natural Bridge,” and <abbr>Dr.</abbr> Lloyd was busy with <num type="cardinal" value="100">one hundred</num> cases. “Last winter the colored people were almost exempt from influenza, but this time many of this race are down with it.”134
+                    The flu subsided in early March, coincident with the arrival of two blizzards and 8-degree weather.135 Perhaps the blizzards helped by forcing everyone to stay 
+                    inside.
+                    <!--Figure-->
+                    FIGURE 12
+                    Source: <bibl><title>Rockbridge County News</title></bibl>,
+                    February 19, 1920
+                    <!--Figure-->
+                    <pb n="259"/>
+                    Age statistics for the 1920 influenza season were published in the <bibl><title>Rockbridge Year Book</title></bibl> after the year’s end (Figure <num type="cardinal" value="13">thirteen</num>).136 The greatest number of deaths occurred among the nineteen- to forty-five-year-olds. These statistics were similar to national data showing that about half the influenza deaths in 1918-19 occurred among the twenty- to forty-year-old cohort.137
+                <div/>
+            <div/>
+            <div type="section" n="2">
+                Educating the Public
+                The importance of respiratory etiquette and crowd avoidance was well known at the time of the pandemic. The viral nature of the illness, however, was not demonstrated until many years later; it was thought that influenza was caused by bacteria.
+                The U.S. Public Health Service predicted that influenza would “lurk for months” and that respiratory diseases would increase.138 The Bureau of Public Health created an educational poster with a cartoon drawn by a well-known Washington cartoonist, Clifford Berryman, in an attempt to teach respiratory etiquette to “the man in the street, the plain citizen, and the many millions who toil for their living” who had 
+                <!--Figure-->
+                FIGURE 13
+                Influenza Deaths in Rockbridge by Age, 1920
+                Source: <bibl><title>Rockbridge Year Book</title></bibl>, 1920
+                <!--Figure-->
+                <!--Figure-->
+                FIGURE 14
+                Source: <bibl><title>Lexington Gazette</title></bibl>, from Bureau of Public Health (U.S. Public Health Service).
+                Respiratory Etiquette
+                <!--Figure-->
+                <pb n="260"/>
+                “no time and no desire to wade through the technical phraseology” (Figure <num type="cardinal" value="14">fourteen</num>).139
+                In 1918, the <bibl><title>Rockbridge County News</title></bibl> brought frontpage news about the “Spanish Influenza” from <persName id="#RHS-0054"><abbr>Dr.</abbr> Rupert Blue</persName>, surgeon general of the U.S. Public Health Service, as well as advice offered by the State Board of Health, “How to Save Yourself and Others from Influenza,” reproduced in Figure <num type="cardinal" value="15">fifteen</num>.140
+                The article ended with this useful advice: “Cover up each cough and sneeze / If you don’t you’ll spread disease.” 
+                Separately, the surgeon general of the Army issued these rules:141
+                ■ Avoid needless crowding — influenza is a crowd disease.
+                ■ Smother your coughs and sneezes — others do not want the 
+                germs which you would throw away.
+                ■ Your nose, not your mouth, was made to breathe through.
+                ■ Remember the three “Cs” — a clean mouth, clean skin, and 
+                clean clothes.
+                ■ Try to keep cool when you walk, and warm when you ride and sleep.
+                ■ Open the windows — always at home at night; at the office 
+                when practicable.
+                ■ Food will win the war if you give it a chance — help by choosing 
+                and chewing your food well.
+                ■ Your fate may be in your own hands — wash your hands before 
+                eating.
+                ■ Don’t let the waste products of digestion accumulate — drink a 
+                glass or two of water on getting up.
+                ■ Don’t use a napkin, towel, spoon, fork, glass, or cup which has 
+                been used by another person and not washed.
+                ■ Avoid tight clothes, tight shoes, tight gloves — seek to make 
+                nature your ally, not your prisoner.
+                ■ When the air is pure, breathe all of it you can — breathe deeply.
+                <!--Figure-->
+                FIGURE 15
+                Source: <bibl><title>Rockbridge County News</title></bibl>,
+                October 10, 1918.
+                <!--Figure-->
+                <pb n="261"/>
+                Also in 1918, the state board of health announced that it would “take advantage for education purposes, of the favorable psychological atmosphere created by the epidemic of influenza”142 by publishing an “Influenza Catechism” for distribution to schoolchildren.
+            <div/>
+            <div type="section" n="3">
+                Morbidity and Mortality Statistics
+                Morbidity and mortality statistics were inadequately recorded in most areas of the United States.143 It is therefore likely that state and county figures are underestimates.
+                The 1918 report of the Virginia State Commissioner of Health summarized the impact of the 1918 pandemic in the U.S. and in Virginia: “Owing to the great epidemic of influenza which began to rage during the latter part of September and reached its height in October, all previous death rates were far surpassed.” 
+                In a December 1919 diary entry, <persName id="#RHS-0018">Samuel Gibson</persName> of Buena Vista wrote, “We had <num type="cardinal" value="43">forty-three</num> white and <num type="cardinal" value="5">five</num> colored deaths from influenza this Fall.” Comparing those figures with the overall Buena Vista population shows a death rate of <num type="percentage" value="1.4">one and four tenths percent</num> percent for whites and <num type="percentage" value="1.3">one and three tenths percent</num> percent for blacks.144 Crosby observed that African American civilians had higher death rates from respiratory disease than whites except for the period during the pandemic.145 The Buena Vista mortality rates for blacks and whites, however, appeared to be similar.
+                <persName id="#RHS-0018">Gibson</persName> kept a running tally of deaths since 1890. The numbers used in Figure <num type="cardinal" value="16">sixteen</num> are rough, as he did not compile his tally on the same day every year. About two-thirds of the deaths he reported in 1918 resulted from influenza — a <num type="cardinal" value="2.5">two and a half</num>-fold increase over the figure for 1917.
+                <!--Figure-->
+                FIGURE 16
+                Deaths in Buena Vista, 1916-23
+                Source: <persName id="#RHS-0018">Samuel P. Gibson</persName> diary
+                <!--Figure-->
+                <pb n="262"/>
+                <persName id="#RHS-0003"><abbr>Dr.</abbr> Robert Glasgow</persName>, Lexington’s health officer, reported vital statistics for Lexington for 1919 and compared them with those of 1918. Deaths were higher in 1918 for both whites and blacks, although causes of death were not given.146 The 1919 population was <num type="cardinal" value="3250">three thousand two hundred fifty</num>. The numbers of deaths were sixteen whites and nine “colored”; in 1918, comparable numbers were forty and twenty-three — also a <num type="cardinal" value="2.5">two and a half</num>-fold increase in deaths for each race.
+                Reported influenza deaths from the State of Virginia Vital Statistics records for Rockbridge County and Buena Vista confirm a dramatic spike in 1918, and in the county for 1919 and 1920 as well (Figure <num type="cardinal" value="17">seventeen</num>).*
+                Figure <num type="cardinal" value="18">eighteen</num> shows the ratio of influenza deaths to total deaths from 1917 through 1921. Note the jump in Buena Vista flu mortality in 1918.
+                Nationally, nearly half of all deaths in 1918 resulted from influenza.147 The Buena Vista statistics support the national estimates. Figure <num type="cardinal" value="18">eighteen</num> shows that death rates in 1919 and 1920 both in Rockbridge County and Buena Vista, while not as high as the death rates in 1918, were still higher than the baseline rates observed for 1917 and 1921. In fact, Rockbridge County death rates for influenza, especially during the fall wave in 1918, are possibly underestimates owing to underreporting or failure to determine causes of death accurately.
+                <!--Footnote-->
+                * Lexington was included in Rockbridge County statistics because it was not a separate city at that time.
+                <!--Footnote-->
+                <!--Figure-->
+                FIGURE 17
+                Source: Virginia Department of Health, 
+                Office of Vital Records
+                <!--Figure-->
+                <!--Figure-->
+                FIGURE 18
+                Deaths from Influenza as a Proportion
+                Of All Deaths in Rockbridge, 1917-21
+                Source: Virginia Department of Health, 
+                Office of Vital Records
+                <!--Figure-->
+                <pb n="263"/>
+                Because the diagnoses of influenza and pneumonia in 1918 were not based on objective laboratory testing or case identification, statistics for influenza and pneumonia were combined to see if there was a difference when compared with the statistics for influenza alone. Data in Figures <num type="cardinal" value="18">eighteen</num>
+                <!--Figure-->
+                FIGURE 19
+                Deaths from Influenza and Pneumonia as a ProportionOf All Deaths in Rockbridge, 1917-21
+                Source: Virginia Department of Health, 
+                Office of Vital Records
+                <!--Figure-->
+                <pb n="264"/>
+                and <num type="cardinal" value="19">nineteen</num> show that, although there are slight differences in rates, the overall patterns are the same, with returns to baseline after 1920. 
+                Figure <num type="cardinal" value="20">twenty</num> compares Rockbridge County statistics with those of three nearby counties, Augusta, Roanoke, and Alleghany. The statistics for each county are similar, with greatly increased death rates from influenza in 1918 and a return to pre-1918 rates after 1920. For reasons already noted, it is likely that these rates are also underestimated.
+            <div/>
+            <div type="section" n="4">
+                Economic Impact
+                Pandemics have considerable economic impact.148 Aside from local news items regarding the negative impact of the epidemic on Buena Vista businesses and the shortage of telephone operators and pharmacists in Lexington, little was said locally. The W&amp;amp;L dean’s reports and <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> surgeon’s reports were a source of indirect information concerning effects on health costs (Figures <num type="cardinal" value="21">twenty-one</num> and <num type="cardinal" value="22">twenty-two</num>).
+                <!--Figure-->
+                FIGURE 20
+                Deaths from Influenza and Pneumonia
+                As a Proportion of All Deaths in Nearby Counties, 1917-21
+                Source: U.S. census data; Virginia Department of Health, 
+                Division of Vital Records
+                <!--Figure-->
+                <!--Figure-->
+                FIGURE 21
+                Influenza’s Effect on Health 
+                Care Costs at W&amp;amp;L, 1917-20
+                Source: Washington and Lee 
+                University Dean’s Reports
+                <!--Figure-->
+                <pb n="265"/>
+                In 1919, <persName id="#RHS-0006"><abbr>Dr.</abbr> McClung</persName> observed in his <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice> report: “We had an unusual number of men throughout the year at sick calls and on the sick list. The prevailing illness was influenza and its attendant maladies; pneumonia, virulent throat infections, etc.”
+            <div/>
+            <div type="section" n="5">
+                Considerations for Future Pandemics 
+                A pandemic of the magnitude of the 1918 pandemic would cause economic stress, although the availability of antiviral therapies, vaccines, antibiotics, and rapid identification of cases would have an impact on morbidity and mortality.149 In contrast to the lack of communication in 1918, communication today is much faster due to myriad forces, including internet and social networking.150
+                Rockbridge County, Lexington, and Buena Vista currently have a total population of about <num type="cardinal" value="35000">thirty-five thousand</num>. Although the attack rate cannot be predicted, if a quarter to a third of the population were affected as it was in 1918, one might expect to see <num type="cardinal" value="9000">nine thousand</num> to <num type="cardinal" value="11000">eleven thousand</num> cases locally. Unfortunately, one cannot predict mortality.*
+                There are important lessons to be learned from the 1918 pandemic in Rockbridge County. At that time, help from state and federal government was not available; communities had to take care of themselves. This approach included using volunteers and family members as caregivers to compensate for inadequate numbers of medical personnel. Locally, hospitals were improvised, using firehouses, hotels, dormitories, and private residences. Elsewhere in Virginia, schools were used as hospitals in some locations and medical students were deployed.152
+                Questions regarding pandemic flu planning include whether to send college students home and, if so, when. Statistics on morbidity and mortality in Lexington’s two colleges were available only for W&amp;amp;L, where <num type="percentage" value="35">thirty-five percent</num> to <num type="percentage" value="40">forty percent</num> percent of the student population fell ill and two students died 
+                <!--Footnote-->
+                * On June 11, 2009, in response to the appearance of a novel transmissible H1N1 influenza virus, the World Health Organization raised the worldwide pandemic alert level to Phase <num type="cardinal" value="6">six</num>, signifying that a global pandemic is under way, requiring surveillance and response.151
+                <!--Footnote-->
+                <!--Figure-->
+                FIGURE 22
+                Influenza’s Impact on <choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice>’s 
+                Hospital Utilization, 1918-22
+                Source: Virginia Military 
+                Institute Surgeon’s Reports
+                <!--Figure-->
+                <pb n="266"/>
+                from influenza. There is no question that the extent of illness in the student population taxed health-care resources locally.
+                Discussions regarding pandemic preparations today deal with similar issues of school closings, economic impact, quarantining, local community involvement, utilization of volunteers, importance of communication with the public, and basic prevention, such as respiratory etiquette and hand-washing.153
+            <div/>
+            <div type="section" n="6">
+                Notes
+                1 Gina Kolata, Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It (Farrar, Straus, and Giroux, New York, 1999), p. 6.
+                2 www.cdc.gov/flu.
+                3 Alfred W. Crosby, America’s Forgotten Pandemic: The Influenza of 1918 (Cambridge University Press, Cambridge, 2003), p. 20.
+                4 Ibid., pp. 21-24.
+                5 www.cdc.gov/flu.
+                6 Ibid.
+                7 Edwin D. Kilbourne, “Influenza Pandemics of the 20th Century,” in Emerging Infectious Diseases (January 2006), pp. 9-14; J. K. Taubenberger and D. M. Morens, Taubenberger, “1918 Influenza: the Mother of All Pandemics,” in Emerging Infectious Diseases (January 2006), pp. 15-22.
+                8 Crosby, pp. 204.
+                9 Kolata, pp. 6-7.
+                10 John M. Barry, The Great Influenza: The Epic Story of the Deadliest Plague in History (Viking, New York, 2004), pp. 396-98; Crosby, p. 206-07.
+                11 Barry, p. 238.
+                12 Kolata, p. 8.
+                13 Ibid., p. 7.
+                14 Crosby, pp. 227-57.
+                15 Taubenberger and Morens.
+                16 Taubenberger and Morens.
+                17 Barry, p. 148.
+                18 Rockbridge County News Yearbook, Lexington, January 2, 1919.
+                19 Barry, pp. 92-97 and 148-49.
+                20 Crosby, pp. 17-18.
+                21 Barry, pp. 98, 169-70, and 453-56.
+                22 Ibid., p. 172.
+                23 Ibid., pp. 170-71.
+                24 Kolata, pp. 10-11; Crosby, pp. 20-21.
+                <pb n="267"/>
+                25 Crosby, p. 18.
+                26 Barry, pp. 231-41 and 246-52.
+                27 County News Yearbook, 1919.
+                28 Barry, pp. 182-84 and 185-93; Crosby, pp. 37-40.
+                29 Lexington Gazette, September 4, 1918.
+                30 County News, September 18, 1918.
+                31 Gazette, September 4, 1918. 
+                32 <persName id="#RHS-0010">Henry Lewis Smith</persName>, Report of the President, Washington and Lee University, June 5, 1919.
+                33 County News, September 26, 1918.
+                34 Calyx (Washington and Lee student yearbook), 1919.
+                35 Annual Report of the Virginia Military Institute, 1918-19.
+                36 County News, October 3, 1918.
+                37 Gazette, October 1, 1918.
+                38 Annual Report of the Virginia Military Institute, 1918-19.
+                39 County News, October 3, 1918. 
+                40 Ibid. 
+                41 Crosby, pp. 287-90.
+                42 County News, October 3, 1918.
+                43 <persName id="#RHS-0010">Smith</persName>, Report of the President, June 5, 1919.
+                44 Calyx, 1919.
+                45 Gazette, October 9, 1918.
+                46 County News, October 3, 1918.
+                47 Gazette, October 9, 1918.
+                48 Calyx, 1919.
+                49 Gazette, October 9, 1918.
+                50 County News, October 10, 1918.
+                51 Gazette, October 9, 1918.
+                52 Ibid.
+                53 Gazette, November 20, 1918.
+                54 <persName id="#RHS-0018">Samuel P. Gibson</persName> diary, 1918.
+                55 County News, February 5, 1920.
+                56 Gazette, October 9, 1918.
+                57 County News, October 17, 1918.
+                58 Gazette, October 9, 1918.
+                59 Ibid.
+                <pb n="268"/>
+                60 County News, October 17, 1918.
+                61 County News, October 10, 1918.
+                62 Ibid.
+                63 County News, October 17, 1918.
+                64 Gazette, October 23, 1918; County News, October 31, 1918.
+                65 Annual Report of the Virginia Military Institute, 1918-19.
+                66 Ibid.
+                67 Surgeon’s Report, Virginia Military Institute, June 8, 1919.
+                68 Crosby, p. 70.
+                69 County News, October 31, 1918.
+                70 Gazette, October 16, 1918.
+                71 Gazette, October 23, 1918.
+                72 County News, October 17, 1918.
+                73 Ibid.
+                74 Calyx, 1919.
+                75 County News, October 24, 1918.
+                76 County News, October 17, 1918.
+                77 Gazette, October 23, 1918. 
+                78 County News, October 24, 1918.
+                79 Gazette, October 23, 1918.
+                80 Ibid.
+                81 County News, October 24, 1918.
+                82 Ibid.
+                83 Buena Vista News, September 6, 1918.
+                84 Ibid.
+                85 County News, October 31, 1918.
+                86 Kolata, p. 7.
+                87 County News, October 31, 1918.
+                88 Gazette, October 30, 1918.
+                89 County News, October 24, 1918
+                90 Gazette, October 30, 1918.
+                91 County News, October 24, 1918.
+                92 County News, October 24, 1918.
+                93 <persName id="#RHS-0018">Gibson</persName> diary.
+                94 County News, November 7, 1918.
+                95 Gazette, November 6, 1918.Proceedings of the Rockbridge Historical Society — Volume XIII 271
+                <pb n="269"/>
+                96 Ibid.
+                97 Surgeon’s Report, Virginia Military Institute, 1916.
+                98 Gazette, October 30, 1918.
+                99 Crosby, pp. 228-29.
+                100 Gazette, November 13, 1918.
+                101 Gazette, November 6, 1918.
+                102 County News, November 7, 1918.
+                103 County News, November 21, 1918.
+                104 Ibid.
+                105 County News, November 28, 1918.
+                106 County News, December 5, 1918.
+                107 County News, December 12, 1918.
+                108 County News, December 26, 1918.
+                109 County News, January 2, 1919.
+                110 County News, January 9, 1919.
+                111 County News, January 16, 1919.
+                112 County News, January 9, 1919.
+                113 County News, January 16, 1919.
+                114 Gazette, January 20, 1919.
+                115 County News, January 23, 1919.
+                116 Ibid.
+                117 County News, January 30, 1919.
+                118 County News, January 23, 1919.
+                119 Carol R. Byerly, Fever of War: The Influenza Epidemic in the U.S. Army during World 
+                War I (New York University Press, New York, 2005), p. 186.
+                120 County News, February 6, 1919.
+                121 Rockbridge County News Yearbook, January 6, 1921.
+                122 County News, Oct 23, 1919.
+                123 Andrew Cliff, World Atlas of Epidemic Diseases (Oxford University Press, New York, 
+                2004), p. 89.
+                124 Gazette, January 28, 1920.
+                125 County News, January 29, 1920.
+                126 County News, February 5, 1920.
+                127 County News, February 19, 1920.
+                128 Gazette, February 18, 1920.
+                129 County News, February 19, 1920.
+                <pb n="270"/>
+                130 Ibid.
+                131 County News, February 5, 1920.
+                132 County News, February 26, 1920.
+                133 County News, February 19, 1920.
+                134 Ibid.
+                135 Rockbridge County News Yearbook, January 6, 1921.
+                136 Ibid.
+                137 Cliff, p. 88.
+                138 Gazette, January 8, 1919.
+                139 Reprinted in Gazette, January 8, 1919.
+                140 County News, October 10, 1918.
+                141 Barry, p. 311
+                142 County News, November 7, 1918.
+                143 Barry, p. 238.
+                144 U.S. Census data, Rockbridge County.
+                145 Crosby, p. 228.
+                146 Gazette, January 28, 1920.
+                147 Crosby, p. 204.
+                148 www.cdc.gov/flu.
+                149 Barry, p. 450-452.
+                150 John S. Brownstein, Clark C. Freifeld, and Lawrence C. Madoff, “Digital Disease Detection — Harnessing the Web for Public Health Surveillance,” in New England Journal of Medicine, May 2009, pp. 2153-57.
+                151 Teddi D. Johnson, “Health Workers Gearing up for More H1N1 Cases in Fall,” in The Nation’s Health (American Public Health Association), August 2009.
+                152 Lawrence O. Gostin, “Influenza Pandemic Preparedness: Legal and Ethical Dimensions,” in Hastings Center Report, September-October 2004, pp. 10-11; Gostin, “Medical Countermeasures for Pandemic Influenza: Ethics and the Law,” in Journal of the American Medical Association, February 2006, pp. 554-56; Virginia Department of Health, 2005.
+                153 Johnson, “Health Workers Gearing Up.”
+                <div/>
+            <div type="section" n="7">
+                Other Resources
+                <div type="subsection" n="1">
+                    Public Health Sources
+                    Centers for Disease Control Fact Sheets: “Key Facts about Influenza and Influenza Vaccine,” September 28, 2005; “Pandemic Flu: Key Facts,” January 17, 2006. 
+                    Virginia Department of Health: The Virginia Pandemic Influenza Advisory Committee Workshop, June 2005.
+                <div/>
+                <pb n="271"/>
+                <div type="subsection" n="2">
+                    Local Sources
+                    Census 1910 and 1920: http://fisher.lib.virginia.edu.
+                <div/>
+                <div type="subsection" n="3">
+                    Vital Statistics
+                    Annual Report of the State Board of Health and the State Health Commissioner to the Governor of Virginia for the Fiscal Year Ending September 30, 1918 (Richmond, 1919).
+                    Virginia Health Bulletin: Report of the Bureau of Vital Statistics for the Year 1918 (Richmond, 1920).
+                    Annual Report of the Bureau of Vital Statistics for the Year Ending December 31, 1919 (Richmond).
+                <div/>
+                <div type="subsection" n="4">
+                    Meeting Minutes
+                    Lexington town council meeting minutes.
+                    Buena Vista city council meeting minutes.
+                    Ignorance Club meeting minutes.
+                <div/>
+                <div type="subsection" n="5">
+                    Other Sources
+                    Paxton House Historical Society, Buena Vista, January 29, 2005, second quarterly meeting.
+                    <persName id="#RHS-0018">Samuel P. Gibson</persName> Diary, Buena Vista (private collection).
+                <div/>
+            <div/>
+        </body>
+    </text>
 </TEI>

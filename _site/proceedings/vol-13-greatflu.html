@@ -92,6 +92,7 @@
     </div>
 
       <div class="row gx-5">
+        <div class="col-8" id="TEI-front"></div>
         <div class="col-8" id="TEI"></div>
         <div class="col-4" id="side">
           <div id="notes"></div>
@@ -136,6 +137,13 @@ var CETEIcean = new CETEI();
         ],
 
      }});
+
+  CETEIcean.getHTML5("vol-13-greatflu.xml", function(data) {
+    var text = data.querySelector("tei-front")
+        document.getElementById("TEI-front").innerHTML = "";
+        document.getElementById("TEI-front").appendChild(text);
+        CETEIcean.addStyle(document, data)
+  });
 
   CETEIcean.getHTML5("vol-13-greatflu.xml", function(data) {
     var text = data.querySelector("tei-body")
