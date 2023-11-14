@@ -37,7 +37,8 @@
   </encodingDesc>
  </fileDesc>
 </teiHeader>
-<body>
+<text>
+  <front>
   <div type="section" n="1">
     <div type="subsection" n="1">
       MINUTES OF OCTOBER 31, 1960 MEETING
@@ -51,11 +52,12 @@
 <p>A letter was also read from <abbr>Mrs.</abbr> Lawrence Smail, a talented artist now living in Lexington, offering to paint old homes and places of historic interest in the county.</p>
 <p>Col. Brooke read a letter from Major Chester Goolrick, a member of the Rockbridge County Centennial Committee asking if the Society would be interested in staging a ceremony at the Court House to commemorate the point at which the first local troops departed for the War between the States. A suitable marker would also be erected. Col. Brooke stated that he would appoint a committee to work out plans and that <abbr>Dr.</abbr>James Connor of the <choice><expan>Virginia Military Institute</expan><abbr>V.M.I</abbr></choice>History Department had agreed to be Chair-man of this committee. <abbr>Mrs.</abbr> Flournoy was suggested as consultant to the committee and <abbr>Mr.</abbr> Houston Barclay was also mentioned.</p>
 <p>Col. Brooke then presented Gen. James Anderson, former State Highway Commissioner, whose paper, entitled, "A Twentieth Century Highway Story", traced the growth of Virginia's highways from its earliest surveys by Justice John Marshall before 1812 to the present excellent network serviing towns and counties. Gen. Anderson paid special tribute to the efforts of Senator A. Willis Robertson toward improvement of federal highways and to <abbr>Dr.</abbr> Reid White, Judge Stuart Moore, Sen. Robertson and others in the betterment of county roads. The goa•l set for Rockbridge is a reasonable year-round transportation to accessible andinaccessible places in the County.</p>
- <p><abbr>Mrs.</abbr> McCulloch spoke of the passing of Miss Elizabeth Barclay, a longdevoted member of the Society, and asked that members observe a moment of silence in her memory.
-The Society was honored to have Senator Robertson present for the
-meeting, as well as <abbr>Mrs.</abbr> John Merritt, a vice-president living away from Lexington.</p>
+<p><abbr>Mrs.</abbr> McCulloch spoke of the passing of Miss Elizabeth Barclay, a longdevoted member of the Society, and asked that members observe a moment of silence in her memory.</p>
+<p>The Society was honored to have Senator Robertson present for the meeting, as well as <abbr>Mrs.</abbr> John Merritt, a vice-president living away from Lexington.</p>
 The address follows:
-<p>It was with keen regret that I deleted from this paper the story of Virginia's highways for almost the 300 years after Jamestown.</p>
+</front>
+<!--TEXT STARTS HERE-->
+<body><p>It was with keen regret that I deleted from this paper the story of Virginia's highways for almost the 300 years after Jamestown.</p>
 <p>Virginia has many firsts in history. The first bridge in the United States was at Jamestown. In 1816 Virginia had the first State Departmentof Public Works. Laommi Baldwin was its first head. A few years laterthat great man Claudius Crozet came to V1irginia as Chief Engineer.</p>
 <p>Our state has been fortunate that its leaders for upwards of 200 years have realized that Virginia's future depended on the development of its transportation routes. Except for periods of war much of our talents, resources and energy have gone to the improvement of transportation.You and your people have played important parts in developing the highways of Rockbridge and Virginia.</p>
 <p>A few years ago I read the biographies of two great Viirginians-Marshall's "Life of Washington" and Beveridge's "Life of Marshall." Chief Justice Marshal1l makes frequent reference to Washington's realization that the development of our nation depended on adequate, safe and economical transportation. Washington urged Virginia to develop its resources by developing transportatiion routes. Jefferson wrote Washington urging him to lend his name and talents to this development program. Jefferson wrote, "Would the superintendence of this work break in too much on the sweets of retirement and repose. What a monument to your retirement it would be it would remove the only objection."</p>
@@ -68,7 +70,7 @@ party exploring the most feasible route from the James River near Lynchburg to t
 <p>Soon he was to recommend that no county be aided unless suitable provisions for unkeep were made.</p>
 <p>Capt. Wilson expressed deep appreciation for the cooperation of the railroads in the state.</p>
 <p>Many (maybe I should say most) of the counties had special road laws and Capt. Wilson wanted all counties on a uniform basis.</p>
-<p>About this time there was an intensified survey of Virginia's large assortmen of road material. Limestone is so plentiful in Rockbridge and of such fine quality that our community has never been short of suitable mateial for road buildings.
+<p>About this time there was an intensified survey of Virginia's large assortmen of road material. Limestone is so plentiful in Rockbridge and of such fine quality that our community has never been short of suitable mateial for road buildings.</p>
 <p>West of the Blue Ridge, however, sand for making good Portland Cement concrete is in very poor supply. Hence it is rare to see Portland Cement concrete pavments in our area.</p>
 <p>In the first report of the Highway Commission there are listed applications from 3 of the 6 Districts in Rockbridge-namely Walker's Creek, South River and Natural Bridge. State aid could not be furnished under appropriations available.</p>
 <p>In 1907 $20,572.54 was spent on roads in Rockbridge. Of this 65% was spent by Districts and 35% by the County.</p>
@@ -95,9 +97,7 @@ exceed $1,200 per year shall be paid by the county having the benefit of his ser
 <p>There is room for much study and reflection on the changes in our way of life caused by the motor vehicle and the motor road. People who used to think a trip of 20 miles was quite an undertaking now think little of a motor trip of thousand miles.</p>
 <p>Fifty years ago in Lexington it was easy to tell which boys and girls came from town and which from the country. Now these differences have been effectively wiped out.</p>
 <p>In 1922 Virginia secured the services of one of the ablest highway administrators in the United States. Henry G. Shirley, who was born in West Virginia and educated art V.M.I., had extensive railroad and highway experience when he assumed his duties as Chairman of the Virginia Highway Commission. A gentleman of great force he proved to be one of the finest public servants Virginia has ever had. Under his management the state highway system rapidly took shape and meaning.</p>
-<p>In 1923 it was decided in a state-wide reforendum that Virginia would build its roads in a "pay-as-you-go" plan and not by bond issues.
-This proved a very wise decision for our roads benefited by increased
-knowledge of highway traffic and increased knowledge of the evolution of the motor vehicle and highway design.</p>
+<p>In 1923 it was decided in a state-wide reforendum that Virginia would build its roads in a "pay-as-you-go" plan and not by bond issues.This proved a very wise decision for our roads benefited by increased knowledge of highway traffic and increased knowledge of the evolution of the motor vehicle and highway design.</p>
 <p>In 1932 under the stress of the depression the Byrd Road Law was passed. This placed the County Roads of 96 of Virginia's 100 counties under the State Highway Department. Four counties voted to look after their own roads but one of the four came along with the 96 after one year.</p>
 <p>The provisions of Act were wisely drawn. In effect it set up a partnership the Boards of Supervisors and the Highway Department. Public hearings are held by the Board of Supervisors on the Secondary Highway Budget. Keeping county officials and interested citizens close to local road picture has proved extremely helpful. The partnership arrangement has proved most rewarding.</p>
 <p>The Highway Commission musrt of necessity have broad powers in
@@ -135,4 +135,5 @@ motor vehicle and the year round road that only a few days stoppage of service c
 <p>Some day our goal will be reached.</p>
 <pb n="102"/>
 </body>
+</text>
 </TEI>
