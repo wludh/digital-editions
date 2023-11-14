@@ -434,6 +434,7 @@
                 <location>
                     <geo>35.2370, 80.8878</geo>
                 </location>
+            </place>
             <place xml:id="RHSP-0002" type="County">
                 <placeName>Rockbridge County, Virginia</placeName>
                 <location>
@@ -1180,7 +1181,7 @@
                     <!--Figure-->
                     <pb n="251"/>
                     graduate was among the dead.85 A case fatality rate of <num type="percentage" value="5.7">five and seven tenths percent</num> percent was calculated for Camp Lee. In comparison, a case fatality rate of <num type="percentage" value="2.5">two and a half percent</num> percent was later estimated for the civilian population in the United States.86
-                    On October 28, <abbr>Mrs.</abbr> Bessie Whitmore Nicely, twenty-six, a “sweet and lovely young mother” of three children, died of pneumonia at her home on Jefferson Street. Her illness “followed the alarming illness, from the same cause of her husband, now happily convalescent.”87
+                    On October 28, <persName id="#RHS-0056"><abbr>Mrs.</abbr> Bessie Whitmore Nicely</persName>, twenty-six, a “sweet and lovely young mother” of three children, died of pneumonia at her home on Jefferson Street. Her illness “followed the alarming illness, from the same cause of her husband, now happily convalescent.”87
                     The situation among Washington and Lee students improved as well, prompting <persName id="#RHS-0010">President Smith</persName> to announce, “The epidemic may be officially declared a thing of the past.”88 The university’s emergency hospitals — East dormitory, <persName id="#RHS-0012">Miss Annie White</persName>’s home, and Castle Hill — were closed. Fewer than a dozen students were at Jackson Hospital. Physicians noted that W&amp;amp;L had acted wisely in keeping the students at school rather than permitting them to return home: “The moving of people affected with influenza has often aggravated the disease and brought about fatal results.”89
                     <persName id="#RHS-0010">President Smith</persName> expressed his “heartfelt appreciation of the unselfish courage and zeal of the ladies of Lexington Red Cross, many of whom contracted the disease while taking the places of absent and anxious mothers at the bedside of the boys away from home. Their courage and unselfishness were worthy of any battlefront, and will not soon be forgotten.”90
                     The situation improved somewhat in Buena Vista near the end of October;91 yet <persName id="#RHS-0018">Samuel Gibson</persName> reported several more deaths in his October 26 diary entry. The firehouse hospital, which had accommodated over thirty patients,92 closed on November 1 (“They closed the Hospital this morning”). The last hospital death occurred on October 30 (“Miss Truslow died at the Hospital this morning”).93
