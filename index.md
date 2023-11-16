@@ -14,7 +14,7 @@ Digital Editions at W&L is an effort of [Leyburn Library](http://library.wlu.edu
 
   {% for card in featured  %}
 
-<div class="card" style="width: 20rem; margin:2rem;">
+<div class="card" style="width: 16rem; margin:2rem;">
   <a href="{{card.url | relative_url }}"><img src="{{ site.baseurl }}{{card.image}}" class="card-img-top" alt="..."></a>
   <div class="card-body">
     <h3 class="card-title">{{ card.title }}</h3>

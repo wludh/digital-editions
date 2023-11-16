@@ -74,8 +74,7 @@
       
       <div class="lead">
         <h1><span class="display-1">1939</span><span class="display-6">Remembered: Some Oral History of Fifty Years Ago</span></h1>
-        <h2>Hunter McClung, Mary Hope Pusey, Buck Buchanan, Bob Hunter, and Mary Frances Cummings</h2>
-      </div>
+            </div>
       
     <div class="accordion" id="accordionExample">
       <div class="accordion-item">
@@ -139,9 +138,9 @@ var CETEIcean = new CETEI();
      }});
 
   CETEIcean.getHTML5("vol-10-1939remembered.xml", function(data) {
-    var text = data.querySelector("tei-front")
+    var front = data.querySelector("tei-front")
         document.getElementById("TEI-front").innerHTML = "";
-        document.getElementById("TEI-front").appendChild(text);
+        document.getElementById("TEI-front").appendChild(front);
         CETEIcean.addStyle(document, data)
   });
 

@@ -74,8 +74,7 @@
       
       <div class="lead">
         <h1><span class="display-1">R</span><span class="display-6">ed House</span></h1>
-        <h2>Dr. Francis Lee Thurman</h2>
-      </div>
+            </div>
       
     <div class="accordion" id="accordionExample">
       <div class="accordion-item">
@@ -139,9 +138,9 @@ var CETEIcean = new CETEI();
      }});
 
   CETEIcean.getHTML5("vol-01-redhouse.xml", function(data) {
-    var text = data.querySelector("tei-front")
+    var front = data.querySelector("tei-front")
         document.getElementById("TEI-front").innerHTML = "";
-        document.getElementById("TEI-front").appendChild(text);
+        document.getElementById("TEI-front").appendChild(front);
         CETEIcean.addStyle(document, data)
   });
 
