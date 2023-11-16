@@ -59,12 +59,16 @@
        seasons 1 to 5 of <title>Law and Order</title> and seasons 5 to 7
        of <title>Law and Order: Criminal Intent</title>.</note>
   </person>
+</listPerson>
+  <listPlace>
   <place xml:id="place-01" type="mountain">
  <placeName>House Mountain</placeName>
  <location>
   <geo>37.831950548435216, -79.56220155227079</geo>
  </location>
 </place>
+</listPlace>
+</standOff>
 <text>
    <front>
       <title>The <placeName id="#place-04">House Mountain</placeName> Tragedy of <date when="1846">1846</date></title>
@@ -249,4 +253,4 @@
 </text>
 </TEI>
 
-                
+
