@@ -5,9 +5,11 @@ title: Proceedings of the Rockbridge Historical Society
 
 "Since its inception, the Rockbridge Historical Society has not only served its community by providing original public programs about local history, but has also published them as a lasting resource for generations since, and audiences well beyond Rockbridge.  In 2017, RHS published its 14th Volume of Proceedings: now totaling over 250 printed essays and program accounts since its first volume in 1941."
 
-Table of Contents
+<a href="https://dspace.wlu.edu/handle/11021/33112">View the Proceedings in the W&L Digital Archive</a>
+<img id="smallbrick" src="{{ site.baseurl }}/assets/img/smallbrick.png">
 
-## Volume 1 
+
+### Volume 1 
 
 {% assign articles = site.proceedings | where:"volume","one"  %}
 <ul>
@@ -16,7 +18,7 @@ Table of Contents
 	 {% endfor %}
 </ul> 
 
-## Volume 5
+### Volume 5
 
 {% assign articles = site.proceedings | where:"volume","five"  %}
 <ul>
@@ -25,7 +27,7 @@ Table of Contents
 	 {% endfor %}
 </ul> 
 
-## Volume 10
+### Volume 10
 
 {% assign articles = site.proceedings | where:"volume","ten"  %}
 <ul>
@@ -34,7 +36,7 @@ Table of Contents
 	 {% endfor %}
 </ul> 
 
-## Volume 12
+### Volume 12
 
 {% assign articles = site.proceedings | where:"volume","twelve"  %}
 <ul>
@@ -43,7 +45,7 @@ Table of Contents
 	 {% endfor %}
 </ul> 
 
-## Volume 13
+### Volume 13
 
 {% assign articles = site.proceedings | where:"volume","thirteen"  %}
 <ul>

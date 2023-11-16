@@ -126,7 +126,7 @@ tei-titlestmt > tei-author {
   margin-bottom: 1em;
 }
 tei-publicationstmt > tei-availability {
-  font-size: 80%;
+
 }
 tei-publicationstmt > tei-availability:before {
   font-weight: bold;

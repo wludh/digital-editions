@@ -110,9 +110,21 @@ blockquote {
 	font-style: normal;
 	font-size: medium;
 }
+
+#smallbrick {
+	display:block;
+	margin:auto;
+	padding: 30px 0px 30px 0px;
+}
+
 tei-author::before {
 	content: "Author: ";
 	font-weight: bold;
+}
+
+tei-availability::before {
+content: "Copyright: ";
+font-weight: bold;
 }
 
 tei-editor::before {
@@ -160,4 +172,11 @@ tei-note {
 
 tei-note:before {
 content: attr(n)": ";
+}
+
+tei-resp[rend="bold"] {
+	font-weight: bold;
+}
+tei-resp[rend="bold"]::after {
+	content:":";
 }

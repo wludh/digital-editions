@@ -6,23 +6,23 @@
         <author>Dr. Francis Lee Thurman</author>
         <editor>Leslie Lyle Campbell</editor>
         <respStmt>
-            <resp>Treasurer</resp>
+            <resp rend="bold">Treasurer</resp>
             <name>Earl S. Mattingly</name>
         </respStmt>
         <respStmt>
-            <resp>Librarian</resp>
+            <resp rend="bold">Librarian</resp>
             <name>Dr. E. Pendleton Tompkins</name>
         </respStmt>
         <respStmt>
-            <resp>Encoding: </resp>
-            <name>Mackenzie Brooks</name>
+            <resp rend="bold">Encoding</resp>
+            <name>Mackenzie Brooks (Associate Professor &amp; Digital Humanities Librarian)</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Rockbridge Historical Society</publisher>
         <date>1941</date>
         <pubPlace>Lexington, Virginia</pubPlace>
-        <availability>Copyright</availability>
+        <availability status="restricted">This material is made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user assumes full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used should be fully credited with the source. Permission for publication of this material, in part or in full, must be secured with the Head of Special Collections.</availability>
       </publicationStmt>
       <sourceDesc>
         <bibl></bibl>
