@@ -32,6 +32,7 @@ h1 {
 	margin-top: 3rem;
 	line-height: 2;
 }
+
 h2.accordion-header {
 	font-family: "Helvetica";
 }
@@ -80,13 +81,10 @@ footer img {
 width: 30px;
 }
 
-
 .dropdown-item > a:link, a:visited {
  color:#000;
  text-decoration:none
 }
-
-
 
 
 a.link-footer  {
@@ -146,10 +144,11 @@ tei-date::before {
 tei-distributor::before {
 	content: "Distributor: ";
 	font-weight: bold;
+}
 
-	tei-foreign {
+tei-foreign {
 	text-decoration:italic;
-	}
+	
 }
 tei-pubPlace::before {
 	content: "Place of Publication: ";
