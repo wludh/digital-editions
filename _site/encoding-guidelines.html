@@ -74,9 +74,34 @@
       <h1>Encoding Guidelines</h1>
     <h2 id="structure">Structure</h2>
 
+<h3 id="default-document-structure">Default document structure</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;TEI xmlns="http://www.tei-c.org/ns/1.0"&gt;
+ &lt;teiHeader&gt;
+&lt;!-- ... --&gt;
+ &lt;/teiHeader&gt;
+ &lt;standOff&gt;
+    &lt;listPerson&gt;&lt;/listPerson&gt;
+    &lt;listPlace&gt;&lt;/listPlace&gt;
+ &lt;/standOff&gt;
+ &lt;text&gt;
+  &lt;front&gt;
+&lt;!-- front matter of copy text, if any, goes here --&gt;
+  &lt;/front&gt;
+  &lt;body&gt;
+&lt;!-- body of copy text goes here --&gt;
+  &lt;/body&gt;
+  &lt;back&gt;
+&lt;!-- back matter of copy text, if any, goes here --&gt;
+  &lt;/back&gt;
+ &lt;/text&gt;
+&lt;/TEI&gt;
+
+</code></pre></div></div>
+
 <h3 id="page-numbers">Page Numbers</h3>
 
-<p>Encode page number of original text as printed. This is a empty element.</p>
+<p>Encode page number of original text as printed. This is a empty element. It can occur both within a paragraph or div, or outside of it, wherever the break in your document occurs.</p>
 
 <p><code class="language-plaintext highlighter-rouge">&lt;pb n="67"/&gt;</code></p>
 
@@ -237,8 +262,8 @@
       </div>
       <div class="col-8">
         <p class="align-middle">
-          <a class="light-link link-footer" href="http://library.wlu.edu">Washington and Lee University Library</a> | 
-          <a class="link-footer"href="https://library.wlu.edu/specialcollections">Special Collections and Archives</a>
+          <a class="light-link link-footer" href="https://library.wlu.edu">Washington and Lee University Library</a> | 
+          <a class="link-footer" href="https://library.wlu.edu/specialcollections">Special Collections and Archives</a>
         </p>
         <p class="align-middle">
           <a class="link-light link-footer" href="https://www.archivesspace.wlu.edu/">Finding Aids</a> |

@@ -33,14 +33,14 @@ h1 {
 	line-height: 2;
 }
 
-h2.accordion-header {
+.accordion-header {
 	font-family: "Helvetica";
 }
 
 .row > .card {
 	padding: 0px;
-	width:16rem;
-	margin:2rem;
+	width: 16rem;
+	margin: 2rem;
 }
 
 footer {
@@ -148,12 +148,13 @@ tei-distributor::before {
 
 tei-foreign {
 	text-decoration:italic;
-	
 }
+
 tei-pubPlace::before {
 	content: "Place of Publication: ";
 	font-weight: bold;
 }
+
 tei-idno[type="issn"]::before {
 	content: "ISSN: ";
 	font-weight: bold;
@@ -176,6 +177,7 @@ content: attr(n)": ";
 tei-resp[rend="bold"] {
 	font-weight: bold;
 }
+
 tei-resp[rend="bold"]::after {
 	content:":";
 }

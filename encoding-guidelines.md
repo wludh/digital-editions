@@ -5,9 +5,35 @@ title: Encoding Guidelines
 
 ## Structure
 
+### Default document structure
+
+```
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+<!-- ... -->
+ </teiHeader>
+ <standOff>
+    <listPerson></listPerson>
+    <listPlace></listPlace>
+ </standOff>
+ <text>
+  <front>
+<!-- front matter of copy text, if any, goes here -->
+  </front>
+  <body>
+<!-- body of copy text goes here -->
+  </body>
+  <back>
+<!-- back matter of copy text, if any, goes here -->
+  </back>
+ </text>
+</TEI>
+
+```
+
 ### Page Numbers
 
-Encode page number of original text as printed. This is a empty element.
+Encode page number of original text as printed. This is a empty element. It can occur both within a paragraph or div, or outside of it, wherever the break in your document occurs. 
 
 `<pb n="67"/>`
 
@@ -41,7 +67,6 @@ Sections and subsections should be handled by nesting divs with the `@type` attr
 ### Abbreviations
 
 Abbreviations should be encoded, along with the expansion or full text of the abbreviation when it comes to organizations. Initials and titles do not need to be expanded. 
-
 
 ```
 <choice>
