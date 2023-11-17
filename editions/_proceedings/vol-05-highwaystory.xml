@@ -41,300 +41,187 @@
   <listPerson>
 <person xml:id="RHS-0001">
    <persName>Col. Brooke</persName>  
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Colonel</occupation>
 </person>
 
 <person xml:id="RHS-0002">
    <persName>Dr. Turner</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0003">
    <persName>Mr. Leslie Campbell</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0004">
    <persName>Don Huffman</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Chamber of Commerce</occupation>
 </person>
 
 <person xml:id="RHS-0005">
    <persName>Mrs. Lawrence Smail</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Artist</occupation>
+   <note>lives in Lexington</note>
 </person>
 
 <person xml:id="RHS-0006">
    <persName>Major Chester Goolrick</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Senator</occupation>
+   <note>member of the Rockbridge County Centennial Committee</note>
 </person>
 
 <person xml:id="RHS-0007">
    <persName>Dr. James Connor</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>VMI History Department</occupation>
 </person>
 
 <person xml:id="RHS-0008">
    <persName>Mrs. Flournoy</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0009">
    <persName>Mr. Houston Barclay</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0010">
    <persName>Gen. James Anderson</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>State Highway Commissioner</occupation>
 </person>
 
 <person xml:id="RHS-0011">
    <persName>Justice John Marshall</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Cheif Justice</occupation>
 </person>
 
 <person xml:id="RHS-0012">
    <persName>Senator A. Willis Robertson</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Senator</occupation>
 </person>
 
 <person xml:id="RHS-0013">
    <persName>Dr. Reid White</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0014">
    <persName>Judge Stuart Moore</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Judge</occupation>
 </person>
 
 <person xml:id="RHS-0015">
    <persName>Mrs. McCulloch</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0016">
    <persName>Miss Elizabeth Barclay</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <note>a long devoted member of the Society</note>
 </person>
 
 <person xml:id="RHS-0017">
    <persName>Mrs. John Merritt</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Vice-president of the Society</occupation>
 </person>
 
 <person xml:id="RHS-0018">
    <persName>Laommi Baldwin</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Head of the first State of Public Works</occupation>
 </person>
 
 <person xml:id="RHS-0019">
    <persName>Claudius Crozet</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Chief Engineer</occupation>
 </person>
 
 <person xml:id="RHS-0020">
    <persName>Governor Montague</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Governor</occupation>
 </person>
 
 <person xml:id="RHS-0021">
    <persName>Governor Swanson</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Governor</occupation>
 </person>
 
 <person xml:id="RHS-0022">
    <persName>P. St. Julian Wilson</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <note>The first Commissioner was P. St. Julian Wilson, a Virginia Military Institute V.M.I. graduate of the Class of ‘86, then Assistant Director of Public Works of Richmond.</note>
 </person>
 
 <person xml:id="RHS-0023">
    <persName>Mr. George P. Coleman</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>State Highway Commissioner</occupation>
 </person>
 
 <person xml:id="RHS-0024">
    <persName>President Wilson</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>President</occupation>
 </person>
 
 <person xml:id="RHS-0025">
    <persName>Harry Byrd</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Senator</occupation>
 </person>
 
 <person xml:id="RHS-0026">
    <persName>Sinclair Brown</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0027">
    <persName>Capt. Wilson</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Highway Commissioner</occupation>
 </person>
 
 <person xml:id="RHS-0028">
    <persName>Wm. M. Thornton</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
-</person>
+   <occupation>Dean of Engineering</occupation>
+   <placeName>University of Virginia</placeName>
+  </person>
 
 <person xml:id="RHS-0029">
    <persName>Col. T. A. Jones</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Prof. Civil Engineering</occupation>
+   <placeName>V.M.I.</placeName>
 </person>
 
 <person xml:id="RHS-0030">
    <persName>Col. R. A. Marr</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Dean of Engineering</occupation>
+   <placeName>V.P.I.(Virginia Tech)</placeName>
 </person>
 
 <person xml:id="RHS-0031">
    <persName>Col. Begg</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
 </person>
 
 <person xml:id="RHS-0032">
    <persName>Henry G. Shirley</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <occupation>Chairman of the Virginia Highway Commission</occupation>
+   <note>Born in West Virginia and educated at Virginia Military Institute. Extensive railroad and highway experience when he assumed his duties as Chairman of the Virginia Highway Commission</note>
 </person>
 
 <person xml:id="RHS-0033">
    <persName>Capt. Corsie</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <note>Citzens of Lexington, Buena Vista and Rockbridge County, did work for Highway devlopment </note>
 </person>
 
 <person xml:id="RHS-0034">
    <persName>Capt. Letcher</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <note>Citzens of Lexington, Buena Vista and Rockbridge County, did work for Highway devlopment </note>
 </person>
 
 <person xml:id="RHS-0035">
    <persName>Rice Hotinger</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <note>Citzens of Lexington, Buena Vista and Rockbridge County, did work for Highway devlopment </note>
 </person>
 
 <person xml:id="RHS-0036">
    <persName>Frank Moore</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <note>Citzens of Lexington, Buena Vista and Rockbridge County, did work for Highway devlopment </note>
 </person>
 
 <person xml:id="RHS-0037">
    <persName>C. S. Glasgow</persName>
-   <occupation></occupation>
-   <note></note>
-   <placeName></placeName>
-   <title></title>
+   <note>Citzens of Lexington, Buena Vista and Rockbridge County, did work for Highway devlopment </note>
 </person>
-<!--ALL PEOPLE AND PLACES HERE-->
+
 <place xml:id="LEX1" type="city">
  <placeName>Lexington</placeName>
  <location>
@@ -519,14 +406,14 @@
       MINUTES OF OCTOBER 31, 1960 MEETING
     </div>
   </div>
-<p>The regular fall meeting of the <org>Rockbridge Historical Society</org> was held at the Castle on <date when="1960-31-10">October 31</date> and was very well attended in spite of the heavy downpour of rain. <persName id="RHS-0001">Col. Brooke</persName> presided.</p>
+<p>The regular fall meeting of the <org>Rockbridge Historical Society</org> was held at the Castle on <date when="1960-31-10">October 31</date> and was very well attended in spite of the heavy downpour of rain. <persName id="RHS-0001"><abbr>Col.</abbr> Brooke</persName> presided.</p>
 <p>The minutes of the Executive Meeting held <date when="1960-17-10">October 17</date> were read and approved.</p>
 <p><persName id="RHS-0002"><abbr>Dr.</abbr> Turner</persName> reported that the Castle library had been enlarged and that the books acquired last year (about <num type="cardinal" value="100">100</num>) had been catalogued. A collection of old and interesting school books presented to the Society by <persName id="RHS-0003"><abbr>Mr.</abbr> Leslie Campbell</persName> were on display. <persName id="RHS-0002"><abbr>Dr.</abbr> Turner</persName> also showed the members an election cartoon of <date when="1860">1860</date> which is on permanent loan to the Society.</p>
-<p><persName id="RHS-0001">Col. Brooke</persName> read a letter from the State Chamber of Commerce forwarded to him by <persName id="RHS-0004">Don Huffman</persName> of the local Chamber of Commerce asking for materials from this area to be used by Thalhimers Department Store of Richmond in a window display of Civil War interest. <persName id="RHS-0001">Col. Brooke</persName> asked members for suggestions.</p>
+<p><persName id="RHS-0001"><abbr>Col.</abbr> Brooke</persName> read a letter from the State Chamber of Commerce forwarded to him by <persName id="RHS-0004">Don Huffman</persName> of the local Chamber of Commerce asking for materials from this area to be used by Thalhimers Department Store of Richmond in a window display of Civil War interest. <persName id="RHS-0001"><abbr>Col.</abbr> Brooke</persName> asked members for suggestions.</p>
 <pb n="96"/>
 <p>A letter was also read from <persName id="RHS-0005"><abbr>Mrs.</abbr> Lawrence Smail</persName>, a talented artist now living in <placeName id="LEX1">Lexington</placeName>, offering to paint old homes and places of historic interest in the county.</p>
-<p><persName id="RHS-0001">Col. Brooke</persName> read a letter from <persName id="RHS-0006">Major Chester Goolrick</persName>, a member of the Rockbridge County Centennial Committee asking if the Society would be interested in staging a ceremony at the Court House to commemorate the point at which the first local troops departed for the War between the States. A suitable marker would also be erected. <persName id="RHS-0001">Col. Brooke</persName> stated that he would appoint a committee to work out plans and that <persName id="RHS-0007"><abbr>Dr.</abbr>James Connor</persName> of the <choice><expan>Virginia Military Institute</expan><abbr><placeName id="VMI1">V.M.I</placeName></abbr></choice> History Department had agreed to be Chairman of this committee. <persName id="RHS-0008"><abbr>Mrs.</abbr> Flournoy</persName> was suggested as consultant to the committee and <persName id="RHS-0009"><abbr>Mr.</abbr> Houston Barclay</persName> was also mentioned.</p>
-<p><persName id="RHS-0001">Col. Brooke</persName> then presented <persName id="RHS-0010">Gen. James Anderson</persName>, former State Highway Commissioner, whose paper, entitled, "A Twentieth Century Highway Story", traced the growth of Virginia's highways from its earliest surveys by <persName id="RHS-0011">Justice John Marshall</persName> before <date when="1812">1812</date> to the present excellent network serving towns and counties. <persName id="RHS-0010">Gen. Anderson</persName> paid special tribute to the efforts of <persName id="RHS-0012">Senator A. Willis Robertson</persName> toward improvement of federal highways and to <persName id="RHS-0013"><abbr>Dr.</abbr> Reid White</persName>, <persName id="RHS-0014">Judge Stuart Moore</persName>, <persName id="RHS-0012">Sen. Robertson</persName> and others in the betterment of county roads. The goal set for Rockbridge is a reasonable year-round transportation to accessible and inaccessible places in the County.</p>
+<p><persName id="RHS-0001"><abbr>Col.</abbr> Brooke</persName> read a letter from <persName id="RHS-0006">Major Chester Goolrick</persName>, a member of the Rockbridge County Centennial Committee asking if the Society would be interested in staging a ceremony at the Court House to commemorate the point at which the first local troops departed for the War between the States. A suitable marker would also be erected. <persName id="RHS-0001"><abbr>Col.</abbr> Brooke</persName> stated that he would appoint a committee to work out plans and that <persName id="RHS-0007"><abbr>Dr.</abbr>James Connor</persName> of the <choice><expan>Virginia Military Institute</expan><abbr><placeName id="VMI1">V.M.I</placeName></abbr></choice> History Department had agreed to be Chairman of this committee. <persName id="RHS-0008"><abbr>Mrs.</abbr> Flournoy</persName> was suggested as consultant to the committee and <persName id="RHS-0009"><abbr>Mr.</abbr> Houston Barclay</persName> was also mentioned.</p>
+<p><persName id="RHS-0001"><abbr>Col.</abbr> Brooke</persName> then presented <persName id="RHS-0010"><abbr>Gen.</abbr> James Anderson</persName>, former State Highway Commissioner, whose paper, entitled, "A Twentieth Century Highway Story", traced the growth of Virginia's highways from its earliest surveys by <persName id="RHS-0011">Justice John Marshall</persName> before <date when="1812">1812</date> to the present excellent network serving towns and counties. <persName id="RHS-0010"><abbr>Gen.</abbr> Anderson</persName> paid special tribute to the efforts of <persName id="RHS-0012">Senator A. Willis Robertson</persName> toward improvement of federal highways and to <persName id="RHS-0013"><abbr>Dr.</abbr> Reid White</persName>, <persName id="RHS-0014">Judge Stuart Moore</persName>, <persName id="RHS-0012">Sen. Robertson</persName> and others in the betterment of county roads. The goal set for Rockbridge is a reasonable year-round transportation to accessible and inaccessible places in the County.</p>
 <p><persName id="RHS-0015"><abbr>Mrs.</abbr> McCulloch</persName> spoke of the passing of <persName id="RHS-0016">Miss Elizabeth Barclay</persName>, a long devoted member of the Society, and asked that members observe a moment of silence in her memory.</p>
 <p>The Society was honored to have <persName id="RHS-0012">Senator Robertson</persName> present for the meeting, as well as <persName id="RHS-0017"><abbr>Mrs.</abbr> John Merritt</persName>, a vice-president living away from <placeName id="LEX1">Lexington</placeName>.</p>
 <p>The address follows:</p>
@@ -544,10 +431,10 @@ party exploring the most feasible route from the <placeName id="JAMRIV1">James R
 <p>We do not have a great highway system if we have a great arterial system only. We have a great highway system only when we have each mile of road doing the work it should.</p>
 <p>In <date when="1901-02">1901-02</date> Virginia had its last Constitutional Convention. A scanning of the debates and proceedings of that Convention proved of interest and value. Though improved roads and highways were discussed at length, there is not a paragraph in the Constitution about highways. The consensus at that time, i.e., at the beginning of the <num type="ordinal" value="20">20th</num> Century, was that the improvement of highways was a local problem.</p>
 <p>Only <num type="cardinal" value="4">four</num> years after the adjournment of the Constitutional Convention the General Assembly in <date when="1906">1906</date> created the State Highway Commission. <persName id="RHS-0020">Governors Montague</persName> and <persName id="RHS-0021">Swanson</persName> each had a part in this important work.</p>
-<p>The first Commissioner was <persName id="RHS-0022">P. St. Julian Wilson</persName>, a <choice><expan>Virginia Military Institute</expan><abbr><placeName id="VMI1">V.M.I.</placeName></abbr></choice> graduate of the Class of ‘86, then Assistant Director of Public Works of Richmond. In <date when="1913">1913</date> he resigned to become Chief Engineer of the U.S. Bureau of Public Roads, <persName id="RHS-0023">Mr. George P. Coleman</persName>, who had been serving as assistant was appointed State Highway Commissioner.</p>
+<p>The first Commissioner was <persName id="RHS-0022">P. St. Julian Wilson</persName>, a <choice><expan>Virginia Military Institute</expan><abbr><placeName id="VMI1">V.M.I.</placeName></abbr></choice> graduate of the Class of ‘86, then Assistant Director of Public Works of Richmond. In <date when="1913">1913</date> he resigned to become Chief Engineer of the U.S. Bureau of Public Roads, <persName id="RHS-0023"><abbr>Mr.</abbr> George P. Coleman</persName>, who had been serving as assistant was appointed State Highway Commissioner.</p>
 <p>For the first few years the Commission aided the Counties with a few widely scattered projects. There was no well planned highway system. The only continuously improved road of any length was the Valley Pike, a toll road, from north to <placeName id="WINCH1">Winchester</placeName> to <placeName id="STAUN1">Staunton</placeName>.</p>
 <p>The first federal aid highway bill was signed by <persName id="RHS-0024">President Wilson</persName> in <date when="1916">1916</date>. Anticipating action on federal aid the Virginia General Assembly set up machinery to provide for a state highway system and a state highway commission. <persName id="RHS-0006">Senators Goolrick</persName>, <persName id="RHS-0012">Willis Robertson</persName> and <persName id="RHS-0025">Harry Byrd</persName> and <num type="cardinal" value="4">four</num> from the House including Sinclair Brown made studies and with the help of the Highway Department recommended an initial State Highway System of about <num type="cardinal" value="4000">4000</num> miles. Routes including section <num type="cardinal" value="5">5</num>, what is now U. S. <num type="cardinal" value="11">11</num> from the West Virginia line via <placeName id="WINCH1">Winchester</placeName>-<placeName id="LEX1">Lexington</placeName> and <placeName id="ROANO1">Roanoke</placeName>. Also Section <num type="cardinal" value="14">14</num> from <placeName id="DANV1">Danville</placeName>-<placeName id="LYNCHB1">Lynchburg</placeName>-<placeName id="BUENAV1">Buena Vista</placeName>-<placeName id="LEX1">Lexington</placeName>-<placeName id="CLIF1">Clifton Forge</placeName>-<placeName id="COVIN1">Covington</placeName>-West Virginia line with connecting route to <placeName id="NATBR1">Natural Bridge</placeName> from <placeName id="BALC1">Balcony Falls</placeName> and to <placeName id="EAGRO1">Eagle Rock</placeName> from <placeName id="CLIF1">Clifton Forge</placeName>.</p>
-<p><persName id="RHS-0027">Capt. Wilson</persName> as Highway Commissioner had as his early advisors <persName id="RHS-0028">Wm. M. Thornton</persName>, Dean of Engineering, <placeName id="UVA1">University of Virginia</placeName>; <persName id="RHS-0029">Col. T. A. Jones</persName>, Prof. Civil Engineering, <placeName id="VMI1">V.M.I.</placeName> and <persName id="RHS-0030">Col. R. A. Marr</persName>, Dean of Engineering, V.P.I. After a time <persName id="RHS-0031">Col. Begg</persName> replaced <persName id="RHS-0030">Col. Marr</persName>. The work of the early Highway Commission was largely advisory. <persName id="RHS-0027">Capt. Wilson</persName> listed the following problems in his first report.</p>
+<p><persName id="RHS-0027"><abbr>Capt.</abbr> Wilson</persName> as Highway Commissioner had as his early advisors <persName id="RHS-0028">Wm. M. Thornton</persName>, Dean of Engineering, <placeName id="UVA1">University of Virginia</placeName>; <persName id="RHS-0029"><abbr>Col.</abbr> T. A. Jones</persName>, <abbr>Prof.</abbr> Civil Engineering, <placeName id="VMI1">V.M.I.</placeName> and <persName id="RHS-0030"><abbr>Col.</abbr> R. A. Marr</persName>, Dean of Engineering, <choice><expan>Virginia Polytechnic Institute</expan><abbr>V.P.I.</abbr></choice> After a time <persName id="RHS-0031"><abbr>Col.</abbr> Begg</persName> replaced <persName id="RHS-0030"><abbr>Col.</abbr> Marr</persName>. The work of the early Highway Commission was largely advisory. <persName id="RHS-0027"><abbr>Capt.</abbr> Wilson</persName> listed the following problems in his first report.</p>
 <list rend="numbered">
 <item n="1">The securing of men competent to do permanent road improvement.</item>
 <item n="2">Necessary preliminary work in</item>
@@ -558,8 +445,8 @@ party exploring the most feasible route from the <placeName id="JAMRIV1">James R
 </list>
 <pb n="98"/>
 <p>Soon he was to recommend that no county be aided unless suitable provisions for unkeep were made.</p>
-<p><persName id="RHS-0027">Capt. Wilson</persName> expressed deep appreciation for the cooperation of the railroads in the state.</p>
-<p>Many (maybe I should say most) of the counties had special road laws and <persName id="RHS-0027">Capt. Wilson</persName> wanted all counties on a uniform basis.</p>
+<p><persName id="RHS-0027"><abbr>Capt.</abbr> Wilson</persName> expressed deep appreciation for the cooperation of the railroads in the state.</p>
+<p>Many (maybe I should say most) of the counties had special road laws and <persName id="RHS-0027"><abbr>Capt.</abbr> Wilson</persName> wanted all counties on a uniform basis.</p>
 <p>About this time there was an intensified survey of Virginia's large assortment of road material. Limestone is so plentiful in Rockbridge and of such fine quality that our community has never been short of suitable mateial for road buildings.</p>
 <p>West of the Blue Ridge, however, sand for making good Portland Cement concrete is in very poor supply. Hence it is rare to see Portland Cement concrete pavments in our area.</p>
 <p>In the first report of the Highway Commission there are listed applications from <num type="cardinal" value="3">3</num> of the <num type="cardinal" value="6">6</num> Districts in Rockbridge-namely Walker's Creek, South River and <placeName id="NATBR1">Natural Bridge</placeName>. State aid could not be furnished under appropriations available.</p>
@@ -602,7 +489,7 @@ the location of roads, allocation of funds, etc. The General Assembly provided t
 <pb n="100"/>
 that must do more work in the next <num type="cardinal" value="15">15</num> years than we did the first <num type="cardinal" value="50">fifty</num>.</p>
 <p>Right here I'd like to pause to pay tribute to the citizens of <placeName id="LEX1">Lexington</placeName>, <placeName id="BUENAV1">Buena Vista</placeName> and Rockbridge County for their work for highway development. Among those taking a prominent part we may name-</p>
-<p><persName id="RHS-0033">Capt. Corsie</persName>, <persName id="RHS-0013"><abbr>Dr.</abbr> Reid White</persName>, <persName id="RHS-0034">Capt. Letcher</persName>, <persName id="RHS-0035">Rice Hotinger</persName>, <persName id="RHS-0036">Frank Moore</persName>, <persName id="RHS-0012">Willis Robertson</persName>, <persName id="RHS-0014">Stuart Moore</persName>, <persName id="RHS-0037">C. S. Glasgow</persName> and many others.</p>
+<p><persName id="RHS-0033"><abbr>Capt.</abbr> Corsie</persName>, <persName id="RHS-0013"><abbr>Dr.</abbr> Reid White</persName>, <persName id="RHS-0034"><abbr>Capt.</abbr> Letcher</persName>, <persName id="RHS-0035">Rice Hotinger</persName>, <persName id="RHS-0036">Frank Moore</persName>, <persName id="RHS-0012">Willis Robertson</persName>, <persName id="RHS-0014">Stuart Moore</persName>, <persName id="RHS-0037">C. S. Glasgow</persName> and many others.</p>
 <p>In <date when="1922">1922</date> the Town Council decided it was time to try to satisfy demands for street improvement. Estimates were prepared and the citizens voted a bond issue for <num type="cardinal" value="85,000">$85,000</num>. This was spent for curb and gutter and pavements and I believe proved a very worthwhile investment. Many problems are now apparent that could not be foreseen <num type="cardinal" value="38">38</num> years ago. If we planned improvements today standards would be entiriely different.</p>
 <p>In <date when="1925">1925</date> a by-pass for <placeName id="LEX1">Lexington</placeName> was suggested. In <date when="1955-30">1955-30</date>  years later a by-pass for U.S. <num type="cardinal" value="11">11</num> was opened to traffic. It very properly took time, study and meditation to decide on the coursie to be taken, but <num type="cardinal" value="30">30</num> years is a long time in the <num type="ordinal" value="20">20th</num> Century.</p>
 <p>In order to make maps, put up signs, keep accounts and the like it is necessary that each section of highway have a positve means of identification. About <num type="cardinal" value="35">35</num> years ago in order to aid interstate travel the National State Highway Officials Association set up a U.S. numbered system of highways. Odd numbered routes run North and South, even numbered routes East and West. Roads of special significance end in <num type="cardinal" value="1">1</num> for North-South and <num type="cardinal" value="0">0</num> for East-West. Thus <placeName id="LEX1">Lexington</placeName> is fortunate in having <num type="cardinal" value="2">two</num> primary transcontinental Route <num type="cardinal" value="3">3</num>, U.S. <num type="cardinal" value="11">11</num> and U.S. <num type="cardinal" value="60">60</num> crossing here. Few places in Virginia are so fortunate. The U.S. shield with the state name was adopted for convenience and does not mean that the Federal Government has either special interest or special funds in the Route. Though the U.S. Numbered System has been in effect for more than <num type="cardinal" value="30">30</num> years it is hard for us to realize that the Federal Government has nothing to do with it.</p>
