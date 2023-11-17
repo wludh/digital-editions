@@ -10,5 +10,5 @@ author: Gen. James A. Anderson
 date: 1960-10-31
 featured: true
 image: /assets/img/redhouse.png
-description: Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.
+description: Traced the growth of Virginia's highways from its earliest surveys by Justice John Marshall before 1812 to the present excellent network serving towns and counties.
 ---
