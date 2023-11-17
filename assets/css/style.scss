@@ -57,7 +57,7 @@ footer {
 
 
 footer img {
-	max-width:60%
+	max-width:60%;
 }
 
 .display-10 {
@@ -140,6 +140,7 @@ tei-publisher::before {
 	content: "Publisher: ";
 	font-weight: bold;
 }
+
 tei-date::before {
 	content: "Date: ";
 	font-weight: bold;

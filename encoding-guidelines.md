@@ -156,7 +156,7 @@ In the `standOff` section between the `teiHeader` and `text`.
 ### Images 
 
 ```
-figure>
+<figure>
  <graphic url="fig1.png"/>
  <head>Figure One: The View from the Bridge</head>
  <figDesc>A Whistleresque view showing four or five sailing boats in the foreground, and a
