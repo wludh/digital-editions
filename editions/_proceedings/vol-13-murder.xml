@@ -44,30 +44,23 @@
  <listPerson>
   <person xml:id="#RHS-0001">
    <persName>Henry Clark</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0002">
    <persName>James Anderson</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <occupation>Farmer</occupation>
+   <note>Presumed murderer of the Pettigrew family through arson.</note>
   </person>
   <person xml:id="#RHS-0003">
    <persName>John Pettigrew</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <occupation>Distillery Worker and Farmer</occupation>
+   <note>Father and head of the <surname>Pettigrew</surname> family who died two years after most of his loved ones.</note>
   </person>
   <person xml:id="#RHS-0004">
    <persName>James Smith</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Witness who provided testimony about the <surname>Pettigrew</surname> and <surname>Anderson</surname> feud.</note>
   </person>
   <person xml:id="#RHS-0005">
-   <persName>Mrs. Anderson</persName>
+   <persName>Mary Anderson</persName>
    <occupation>Mother</occupation>
   </person>
   <person xml:id="#RHS-0006">
@@ -77,120 +70,84 @@
   <person xml:id="#RHS-0007">
    <persName>Mary Ann Moore Pettigrew </persName>
    <occupation>Mother</occupation>
-   <note>Her death is suspected to be not only by freezing but also as a result of physical violence ....</note>
+   <note>Her death is suspected to be not only by freezing but also as a result of physical violence which led to the acusation of a murder rather than other cause of death.</note>
   </person>
   <person xml:id="#RHS-0008">
    <persName>Rachel Pettigrew</persName>
    <occupation>Mother</occupation>
-   <note>She was the only surviing Pettigrew child since she went away with her father before the night of the fire.</note>
+   <note>She was the only surviing <surname>Pettigrew</surname> child since she went away with her father before the night of the fire.</note>
   </person>
   <person xml:id="#RHS-0009">
    <persName>Judith Annie Pettigrew</persName>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>The only <surname>Pettigrew</surname> child with evidence of violence found on their body.</note>
   </person>
   <person xml:id="#RHS-0010">
    <persName>Marget Jane Pettigrew</persName>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0011">
    <persName>Letitia Pettigrew</persName>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0012">
    <persName>Mary Elizabeth Pettigrew</persName>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0013">
    <persName>Hugh Wilson</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>One of the men who came to haul the bodies away and later provided a testimony on what he saw that day.</note>
   </person>
   <person xml:id="#RHS-0014">
    <persName>Polly Robinson</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>A witness who provided a testimony.</note>
   </person>
   <person xml:id="#RHS-0015">
    <persName>Samuel Moore</persName>
    <occupation>Coroner</occupation>
-   <note>He was the coroner that examined the bodies of the Pettigrew family and Mary's brother.</note>
+   <note>He was the coroner that examined the bodies of the <surname>Pettigrew</surname> family.</note>
   </person>
   <person xml:id="#RHS-0016">
    <persName><abbr>Dr.</abbr> Wilkenson</persName>
    <occupation>Doctor</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>One of the doctors that examined the <surname>Pettigrew</surname> bodies.</note>
   </person>
   <person xml:id="#RHS-0017">
    <persName><abbr>Dr. </abbr> Rogers</persName>
    <occupation>Doctor </occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>One of the doctors that examined the <surname>Pettigrew</surname> bodies.</note>
   </person>
   <person xml:id="#RHS-0018">
    <persName><abbr>Mr.</abbr> Tilson</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>A man who boarded the <surname>Anderson</surname> family after  but later kicked them out after finding out about their acusation of murder.</note>
   </person>
   <person xml:id="#RHS-0019">
    <persName>William Wilson</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0020">
-   <persName>John Thomas</persName>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <persName>John Thomas Pettigrew</persName>
   </person>
   <person xml:id="#RHS-0021">
    <persName>Andrew Taylor</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>A man that <persName id="#RHS-0002">James Anderson</persName> had apparently confided in who ended up telling <persName id="#RHS-0022">Mary Pettigrew's brother</persName>.</note>
   </person>
   <person xml:id="#RHS-0022">
    <persName>Sampson Moore</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Brother of <persName id="#RHS-0007">Mary Ann Pettigrew</persName> and a state witness.</note>
   </person>
   <person xml:id="#RHS-0023">
    <persName>Billy Brian</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Owner of the residence that the <surname>Andersons</surname> intically fled to after the death of the <surname>Pettigrews</surname>.</note>
   </person>
   <person xml:id="#RHS-0024">
    <persName>Peggy Chandler</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0025">
    <persName>Thomas Moore</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Brother of <persName id="#RHS-0007">Mary Ann Pettigrew</persName> and a state witness.</note>
   </person>
   <person xml:id="#RHS-0026">
    <persName>Predham Moore</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>John Pettigrew's father in law who had a financial spat with him over $10,000.</note>
   </person>
   <person xml:id="#RHS-0027">
    <persName>John Hancock</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0028">
    <persName>Tom</persName>
@@ -211,8 +168,6 @@
   <person xml:id="#RHS-0032">
    <persName>London</persName>
    <occupation>Enslaved Laborer</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
   </person>
   <person xml:id="#RHS-0033">
    <persName>Ben</persName>
@@ -221,66 +176,53 @@
   <person xml:id="#RHS-0034">
    <persName>Amy</persName>
    <occupation>Enslaved Laborer</occupation>
-   <note>Not to be confused with the other enslaved person named Amy.</note>
+   <note>Not to be confused with the other enslaved person with the same name.</note>
   </person>
   <person xml:id="#RHS-0035">
    <persName>Camel Moore</persName>
    <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Brother of <persName id="#RHS-0007">Mary Ann Pettigrew</persName> who sided with <persName id="#RHS-0003">John Pettigrew</persName> during his lawsuit with his <persName id="#RHS-0026">father-in-law</persName>.</note>
   </person>
   <person xml:id="#RHS-0036">
    <persName>Samuel Letcher</persName>
    <occupation>Lawyer</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Lawyer hired by the <surname>Andersons</surname> during the trial.</note>
   </person>
   <person xml:id="#RHS-0037">
    <persName>L.F. Paxton</persName>
    <occupation>Lawyer</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Lawyer hired by the <surname>Andersons</surname> during the trial.</note>
   </person>
   <person xml:id="#RHS-0038">
    <persName>Robert Doyle</persName>
    <occupation>Lawyer</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Lawyer hired by the <surname>Andersons</surname> during the trial..</note>
   </person>
   <person xml:id="#RHS-0039">
    <persName>James G. Reynolds</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Husband of <persName id="#RHS-0008">Rachel Pettigrew</persName>.</note>
   </person>
   <person xml:id="#RHS-0040">
    <persName>Mary Ann Reynolds</persName>
-   <occupation>District Attorney</occupation>
-   <note>Daugher of Rachel and James Reynolds</note>
+   <note>Daugher of <persName id="#RHS-0008">Rachel</persName> and <persName id="#RHS-0039">James Reynolds</persName></note>
   </person>
   <person xml:id="#RHS-0041">
    <persName>Sarah Reynolds</persName>
-   <occupation>District Attorney</occupation>
-   <note>Daugher of Rachel and James Reynolds</note>
+   <note>Daugher of <persName id="#RHS-0008">Rachel</persName> and <persName id="#RHS-0039">James Reynolds</persName></note>
   </person>
   <person xml:id="#RHS-0042">
    <persName>John Mackey Knick </persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
+   <note>Husband of one of the <surname>Reynold</surname> children.</note>
     </person>
     <person xml:id="#RHS-0043">
    <persName>Joseph Robinson</persName>
-   <occupation>District Attorney</occupation>
-   <note>District Attorney for <placeName>Manhattan</placeName> in
-       seasons 1 to 10 of <title>Law and Order</title>.</note>
     </person>
 </listPerson>
   <listPlace>
   <place xml:id="#place-00" type="business">
  <placeName>Tom Alphin's Distilery</placeName>
  <location>
-  <geo>37.831950548435216, -79.56220155227079</geo>
+  <geo>37.83910774686001, -79.59340892328895</geo>
  </location>
 </place>
 <place xml:id="#place-01" type="mountain">
@@ -298,7 +240,7 @@
 <place xml:id="#place-03" type="mountain">
  <placeName>Rockbridge Baths</placeName>
  <location>
-  <geo>37.831950548435216, -79.56220155227079</geo>
+  <geo>37.92879450437971, -79.41271164702854</geo>
  </location>
 </place>
 <place xml:id="#place-04" type="mountain">
@@ -352,7 +294,7 @@
 <place xml:id="#place-13" type="residence">
  <placeName>The Pettigrew Cabin</placeName>
  <location>
-  <geo>37.831950548435216, -79.56220155227079</geo>
+  <geo>37.82940338899007, -79.5579673671479</geo>
  </location>
 </place>
 <place xml:id="#place-15" type="county">
@@ -370,13 +312,13 @@
 <place xml:id="#place-17" type="residence">
  <placeName>The Anderson Cabin</placeName>
  <location>
-  <geo>37.831950548435216, -79.56220155227079</geo>
+  <geo>37.831437137212276, -79.55839652056792</geo>
  </location>
 </place>
 <place xml:id="#place-18" type="residence">
  <placeName>Billy Brian's House</placeName>
  <location>
-  <geo>37.831950548435216, -79.56220155227079</geo>
+  <geo>37.78219236021432, -79.55471301042225</geo>
  </location>
 </place>
 <place xml:id="#place-19" type="county">
@@ -476,7 +418,7 @@
          <p>There were no human tracks near the bodies. A set of animal tracks coursed back and forth to the spring. The Pettigrews’ dog had made them during a few quick runs for water. It was obvious from the tracks that the dog had, aside from those runs, stayed with the bodies.</p>
          <p>The bodies were blackened with ashes and dust from the burned-out cabin. One man said they were the color of iron.</p>
          <p>Word of the ghastly scene quickly got out, and before the day was out there were <num type="cardinal" value="15">fifteen</num> or <num type="cardinal" value="20">twenty</num> men on horseback at the scene, and another dozen or so came with wagons to haul the bodies away.</p>
-         <p><persName id="#RHS-0013">Hugh Wilson</persName> was one of the men with a wagon. <date when="1848"><num type="cardinal" value="02">Two</num></date> years later he recalled <soCalled>the snow drifting in the <placeName id="#place-04">House Mountain</placeName> saddle. He rememberedthe frozen bodies and the strange scene, with clothes blowing about in the snow — some within reach of the bodies. He remembered seeing a feather
+         <p><persName id="#RHS-0013">Hugh Wilson</persName> was one of the men with a wagon. <date when="1848"><num type="cardinal" value="02">Two</num></date> years later he recalled <soCalled>the snow drifting in the <placeName id="#place-04">House Mountain</placeName> saddle. He remembered the frozen bodies and the strange scene, with clothes blowing about in the snow — some within reach of the bodies. He remembered seeing a feather
    <pb n="156"/>
          bed about a <num type="cardinal" value="100">hundred</num> yards away from the smoldering ruins of the cabin. He remembered seeing the <placeName id="#place-17">Andersons’ cabin</num>, looking all cozy about 400 yards away. And he remembered hearing dogs barking in that cabin.</soCalled></p>
          <p>But there was no sight of the <surname>Andersons</surname>.</p>
@@ -484,7 +426,7 @@
          <p>A coroner’s inquest took place the day after the bodies were discovered. The coroner, <persName id="#RHS-0015">Samuel Moore</persName>, had the bodies examined by <num type="cardinal" value="02">two</num> doctors, <persName id="#RHS-0016">Wilkenson</persName> and <persName id="#RHS-0017">Rogers</persName>.</p>
          <p>“There were <num type="cardinal" value="02">two</num> wounds on <persName id="#RHS-0007"><abbr>Mrs.</abbr> Pettigrew</persName>,” they reported. <soCalled>“One was on her temple. The other on her throat. The wound on the temple was a bruise, apparently produced by the stroke of a stick. The neck seemed to have been grasped by a hand as to produce strangulation.”</soCalled></p>
          <p>The conclusion: <persName id="#RHS-0007"><abbr>Mrs.</abbr> Pettigrew</persName> had been murdered. There were no conclusions about what caused the deaths of the children.</p>
-         <p>The <surname>Andersons</surname> were likely suspects. There had been that spat over the cow. There was <persName id="#RHS-0002"><abbr>Mr.</abbr> Anderson’s</persName> general reputation, which was not good. And there was the matter of some linens that were found in the Anderson cabin — linens that neighbors had first seen at the <placeName id="#place-13">Pettigrew cabin</placeName>. (<persName id="#RHS-0002">James Anderson</persName> later swore that the linens, a coverlet and a tablecloth, belonged to his wife, <persName id="#RHS-0005">Mary</persName>.)</p>
+         <p>The <surname>Andersons</surname> were likely suspects. There had been that spat over the cow. There was <persName id="#RHS-0002"><abbr>Mr.</abbr> Anderson’s</persName> general reputation, which was not good. And there was the matter of some linens that were found in the <placeName id="#place-17">Anderson cabin</placeName> — linens that neighbors had first seen at the <placeName id="#place-13">Pettigrew cabin</placeName>. (<persName id="#RHS-0002">James Anderson</persName> later swore that the linens, a coverlet and a tablecloth, belonged to his wife, <persName id="#RHS-0005">Mary</persName>.)</p>
          <p>The <surname>Andersons</surname> didn’t exactly cooperate with the investigation.</p>
          <p>While the bodies were being chopped out of the snow and ice, <persName id="#RHS-0002">James Anderson</persName> left for <placeName id="#place-18">Billy Brain’s place</placeName>, a few miles away, and then went on to <placeName id="#place-19">Augusta</placeName>, where he stayed for a week or <num type="cardinal" value="02">two</num>. <persName id="#RHS-0005">Mary Anderson</persName> and her <num type="cardinal" value="02">two</num> daughters were apparently still home when the Pettigrew bodies were being carted down the mountain; <persName id="#RHS-0005">Mary</persName> told one woman who stopped in that <soCalled>the <surname>Pettigrews</surname> had been killed.</soCalled></p>
          <p>But within a few days, the entire <surname>Anderson</surname> family left the county. Just where they went is not known. <date when="1848"><num type="cardinal" value="02">Two</num> years later</date>, they turned up in <placeName id="#place-06">New Castle</placeName>, about <num type="cardinal" value="30">thirty</num> miles southwest of <placeName id="#place-04">House Mountain</placeName>, in <placeName id="#place-05">Craig County</placeName>. A certain <persName id="#RHS-0018"><abbr>Mr.</abbr> Tilson</persName>, who apparently was boarding them, <soCalled>told them he had gotten a letter from <placeName id="#place-16">Rockbridge</placeName> saying that the <surname>Andersons</surname> had murdered a family, and that he’d better leave or he’d be abused</soCalled>. Confronted with the allegation, <persName id="#RHS-0002">Anderson</persName> <soCalled>replied that if he had murdered a family, he was “as good as the people of <placeName id="#place-06">New Castle</placeName> or <placeName id="#place-07">Bedford</placeName>.”</soCalled></p>
@@ -529,11 +471,11 @@
    <pb n="160"/>
          no tracks around the place of occurrence. Several neighbors resided within a half and three quarters of a mile off, to whose residence there existed no obstruction unless is was the snow of this occasion. Suspicion fell on this <surname>Anderson</surname> family at the time. They then resided within three quartets of a mile of the place. The matter has slept for five years now and the evidence which led to the arrest of these parties will be developed at their trial at the <date when="1851-04">April</date> term of our monthly court.</q><ref></ref> </cit></p>
          
-         <p>The only account of what led to the arrest is found in a newspaper article from <date when="1902">1902</date>, which says <soCalled>that <persName id="#RHS-0002">Anderson</persName> had confided in a man named <persName id="#RHS-0021">Andrew Taylor</persName>, and that <persName id="#RHS-0021">Taylor</persName> had blabbed to a man named <persName id="#RHS-0019">Wilson</persName>, and that <persName id="#RHS-0019">Wilson</persName> had passed the story along to <persName id="#RHS-0022">Sampson Moore</persName>, who was <persName id="#RHS-0015"><abbr>Mrs.</abbr> Pettigrew’s brother</persName>.</soCalled></p>
+         <p>The only account of what led to the arrest is found in a newspaper article from <date when="1902">1902</date>, which says <soCalled>that <persName id="#RHS-0002">Anderson</persName> had confided in a man named <persName id="#RHS-0021">Andrew Taylor</persName>, and that <persName id="#RHS-0021">Taylor</persName> had blabbed to a man named <persName id="#RHS-0019">Wilson</persName>, and that <persName id="#RHS-0019">Wilson</persName> had passed the story along to <persName id="#RHS-0022">Sampson Moore</persName>, who was <abbr>Mrs.</abbr> Pettigrew’s brother.</soCalled></p>
          <p>(<persName id="#RHS-0021">Taylor</persName>, <persName id="#RHS-0022">Moore</persName>, and three <surname>Wilsons</surname> testified for the prosecution during the trial. <persName id="#RHS-0023">Billy Brain</persName>, to whose house <persName id="#RHS-0002">Anderson</persName> had initially fled, was never called as witness. Neither were the <surname>Alphins</surname>, who ran the <placeName id="#place-00">distillery</placeName> between <placeName id="#place-08">Short Hill</placeName> and <placeName id="#place-04">House Mountain</placeName> where <persName id="#RHS-0003">John Pettigrew</persName> said<said> he was working when his family died.</said> <persName id="#RHS-0008">Rachel Pettigrew</persName>, the sole survivor of the family, did testify, though what she said in court was not recorded. Most later accounts say that she had left home with her father in order to stay with her grandmother, who was ill; she was not with him when he returned to the <placeName id="#place-13">cabin</placeName> to find his family slain.)</p>
          <p>As for a possible motive, there were the wandering cows. And there were claims of thievery. <persName id="#RHS-0022">Sampson Moore</persName> <said>had discovered one of his sister’s blankets in <placeName id="#place-17">Anderson’s cabin</placeName> — so he said</said>.</p>
          <p>If <persName id="#RHS-0002">Anderson</persName> had anything to say about the cows, it was not recorded. But a sworn statement by <persName id="#RHS-0002">James Anderson</persName> dismissed the stolen blanket and linen claims.</p>
-         <p><persName id="#RHS-0002">Anderson</persName> said<said> he had witnesses who would say <q>“that one coverlet and one table cloth. which it is alleged, was the, property of Pettigrew. was the property of . . . [<persName id="#RHS-0002">Anderson</persName>], and that the said articles of property was in the possession of and was the property of . . . [<persName id="#RHS-0002">Anderson</persName>] several years previous to the time when the said Pettigrew’s house was burned and his family came to their deaths. and that the said coverlet was woven by . . . [<persName id="#RHS-0005">Nancy Anderson</persName>] and that said table cloth was presented to his said wife by <persName id="#RHS-0024">Peggy Chandler</persName> . . . .”</q></said></p>
+         <p><persName id="#RHS-0002">Anderson</persName> said<said> he had witnesses who would say <q>“that one coverlet and one table cloth. which it is alleged, was the, property of Pettigrew. was the property of . . . [<persName id="#RHS-0002">Anderson</persName>], and that the said articles of property was in the possession of and was the property of . . . [<persName id="#RHS-0002">Anderson</persName>] several years previous to the time when the said <placeName id="#place-04">Pettigrew’s house</placeName> was burned and his family came to their deaths. and that the said coverlet was woven by . . . [<persName id="#RHS-0005">Nancy Anderson</persName>] and that said table cloth was presented to his said wife by <persName id="#RHS-0024">Peggy Chandler</persName> . . . .”</q></said></p>
          <p>The trial, initially set for <date when="1851-04">April 1851</date>, was delayed a month so that Anderson’s witnesses could be rounded up.</p>
          <p>Two of the state’s witnesses, <persName id="#RHS-0025">Thomas Moore</persName> and <persName id="#RHS-0022">Sampson Moore</persName>, were brothers-in-law of <persName id="#RHS-0003">John Pettigrew</persName>. And before <persName id="#RHS-0003">Pettigrew</persName> moved to <placeName id="#place-16">Rockbridge</placeName> with his family in <date when="1844">1844</date>, the <surname>Moores</surname> had been involved in a fight of their own with <surname>Pettigrew</surname></p>
       <pb n="161"/>
@@ -635,4 +577,4 @@
 </text>
 </TEI>
 
-                
+          
