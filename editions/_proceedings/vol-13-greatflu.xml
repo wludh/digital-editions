@@ -55,377 +55,266 @@
             <person xml:id="RHS-0003">
                 <persName><abbr>Dr.</abbr> Robert Glasgow</persName>
                 <occupation>Doctor</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0004">
                 <persName><abbr>Dr.</abbr> Reuben Frank Davis</persName>
                 <occupation>Doctor</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0005">
                 <persName><abbr>Dr.</abbr> Ennion G. Williams</persName>
                 <occupation>Virginia State Health Commissioner</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0006">
                 <persName><abbr>Dr.</abbr> O. Hunter McClung</persName>
                 <occupation>Post Physician</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0007">
                 <persName>General Edward W. Nichols</persName>
                 <occupation><placeName id="#RHSP-0006">Virginia Military Institute</placeName>  Superintendent</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0008">
                 <persName>Owen Mason Morris</persName>
                 <occupation>Soldier</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0009">
                 <persName>James Franklin Bane</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0010">
                 <persName>President Henry Louis Smith</persName>
                 <occupation>President of <placeName id="#RHSP-0007">Washington and Lee University</placeName></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0011">
                 <persName><abbr>Mrs.</abbr> Merrill Mills</persName>
                 <occupation><placeName id="#RHSP-0003">Lexington</placeName> Red Cross Organizer</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0012">
                 <persName>Miss Annie Jo White</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0013">
                 <persName><abbr>Dr.</abbr> James Harmanson Mapp</persName>
                 <occupation>Board of Health President</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0014">
                 <persName>Grover Cleveland Cummings</persName>
                 <occupation>Traveling Insurance Man</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0015">
                 <persName>Robert Agnor</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0016">
                 <persName>Lee Starke</persName>
                 <occupation>Religious Leader</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0017">
                 <persName><abbr>Dr.</abbr> Richard Garnett</persName>
                 <occupation>Assistant Commissioner of Health</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0018">
                 <persName>Samuel P. Gibson</persName>
                 <occupation>Land Assessor and City Registrar</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0019">
                 <persName>Cleveland Davis</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0020">
                 <persName><abbr>Dr.</abbr> Charles H. Davidson</persName>
                 <occupation>Rcokbridge County Health</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0021">
                 <persName>Eugenia Harman McClung</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0022">
                 <persName>Judge Henry Holt</persName>
                 <occupation>Judge</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0023">
                 <persName>A. Terry Shields</persName>
                 <occupation>County Clerk</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0024">
                 <persName><abbr>Dr.</abbr> Royal S. Copeland</persName>
                 <occupation>Health Commissioner of New York City</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0025">
                 <persName><abbr>Dr.</abbr> R. H. Morrison</persName>
                 <occupation>Doctor</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0026">
                 <persName>Nathan Gooch</persName>
                 <occupation>Soldier</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0027">
                 <persName>James Hostetter</persName>
                 <occupation>Soldier</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0028">
                 <persName>Graham Robinson</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0029">
                 <persName>Bruce Updike</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0030">
                 <persName>John Ward Child</persName>
                 <occupation>Student</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0031">
                 <persName>Thomas Armstrong</persName>
                 <occupation>Student</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0032">
                 <persName>Nathan Hickman</persName>
                 <occupation>Student</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0033">
                 <persName>Private Holtz</persName>
                 <occupation>Soldier</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0034">
                 <persName>Eva Cox Markham</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0035">
                 <persName>Harry Markham</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0036">
                 <persName>Harry M. Paxton</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0037">
                 <persName>Lena W. Frye</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0038">
                 <persName>Rowena Ramsey</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0039">
                 <persName>Verdrey Tolley</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0040">
                 <persName>Frank Lee Wagner</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0041">
                 <persName>Mary Crump Davis</persName>
                 <occupation>Nurse</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0042">
                 <persName><abbr>Prof.</abbr> John W. Kern</persName>
                 <occupation>Professor</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0043">
                 <persName>James Buchanan</persName>
                 <occupation>Soldier</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0044">
                 <persName>Donald Spotts</persName>
                 <occupation>Student</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0045">
                 <persName>Carl Taylor</persName>
                 <occupation>Postmaster and Railway Agent</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0046">
                 <persName>Bertha Cassandra Slusser</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0047">
                 <persName>Harry Coe Slusser</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0048">
                 <persName><abbr>Dr.</abbr> William O. Beazley</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0049">
                 <persName><abbr>Mrs.</abbr> Walter Beard</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0050">
                 <persName><abbr>Mrs.</abbr> Hite</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0051">
                 <persName><abbr>Mrs.</abbr> Russel</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0052">
                 <persName><abbr>Mrs.</abbr> Wm Cunningham</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0053">
                 <persName><abbr>Mr.</abbr> S V Watts</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0054">
                 <persName>Rupert Blue</persName>
                 <occupation><placeName id="#RHSP-0011">U.S.</placeName> Surgeon-General</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0055">
                 <persName><abbr>Dr.</abbr> Emmett McCorkle</persName>
                 <occupation>Pastor</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0056">
                 <persName><abbr>Mrs.</abbr> Bessie Whitmore Nicely</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0057">
                 <persName>Clifford Berryman</persName>
                 <occupation>Cartoonist</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0058">
                 <persName>Miss Truslow</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0059">
                 <persName><abbr>Mrs.</abbr> Foster</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0060">
                 <persName><abbr>Mrs.</abbr> Downey</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0061">
                 <persName><abbr>Mrs.</abbr> Walter Murray</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0062">
                 <persName>Andrew Nicely</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0063">
                 <persName>Edward Shewey</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0064">
                 <persName>Virginia Steele</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0065">
                 <persName>Lieutenant J. Henry Smith</persName>
                 <occupation>Lieutenant</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0066">
                 <persName>Lillie Downey</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0067">
                 <persName>Miss Annie Marie Fitzgerald</persName>
                 <occupation>Nurse</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0068">
                 <persName>Thomas Agree Smith</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0069">
                 <persName>John McGee</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0070">
                 <persName><abbr>Dr.</abbr> Lloyd</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
                 <person xml:id="RHS-0071">
                 <persName>Otho C. Jackson</persName>
                 <occupation><placeName id="#RHSP-0003">Lexington</placeName> Mayor</occupation>
-                <note></note>
             </person>
                 <person xml:id="RHS-0072">
                 <persName>Lucy Preston Smith</persName>
                 <occupation>Nurse</occupation>
-                <note></note>
             </person>
                 <person xml:id="RHS-0073">
                 <persName>General Francis Smith</persName>
                 <occupation>Former <placeName id="#RHSP-0006">Virginia Military Institute</placeName>  Superintendent</occupation>
-                <note></note>
             </person>
                 <person xml:id="RHS-0074">
                 <persName><abbr>Dr.</abbr> Livingston Waddell</persName>
                 <occupation>Doctor</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0075">
                 <persName>Alfred W. Crosby</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0076">
                 <persName>James Wilson Morrison</persName>
                 <occupation>Game Warden for Rockbridge County</occupation>
-                <note></note>
             </person>
             <person xml:id="RHS-0077">
                 <persName><abbr>Mrs.</abbr> O'Neal Moses</persName>
-                <occupation></occupation>
-                <note></note>
             </person>
         </listPerson>
         <listPlace>
@@ -569,58 +458,59 @@
                 </location>
             </place>
             <place xml:id="RHSP-0024" type="Building">
-                <placeName>Doremus Gymnasium, Washington and Lee University</placeName>
+                <placeName notAfter="2020">Doremus Gymnasium, Washington and Lee University</placeName>
+                <placeName notBefore="2020">Richard L. Duchossois Athletic and Recreation Center</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78796797992993, -79.44507367900904</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0025" type="Building">
                 <placeName notBefore="1940">Graham-Lees Hall, Washington and Lee University</placeName>
                 <placeName notAfter="1940">Lees Dormitory, Washington and Lee University</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78744205221522, -79.4436899710023</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0026" type="Building">
                 <placeName>Castle Hill, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78909751781192, -79.45025969505815</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0027" type="Country">
                 <placeName>France</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>46.440168729536154, 3.130046590726747</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0028" type="Military-Facility">
                 <placeName>Camp Dix, New Jersey</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>39.99998885345382, -74.61409488478418</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0029" type="City">
                 <placeName>Chicago, Illinois</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>41.87260336203674, -87.60768110988724</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0030" type="Military-Facility">
                 <placeName>Great Lakes Naval Training Station, Illinois</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>42.302828040868754, -87.84698878843852</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0031" type="Water">
                 <placeName>Brattons Run, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.9528317913113, -79.5390800978067</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0032" type="State">
                 <placeName>Virginia, United States</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.342558668455, -78.53102244897168</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0033" type="Military-Facility">
@@ -628,55 +518,56 @@
                 <placeName notAfter="1935">Fort Humphreys, Virginia</placeName>
                 <placeName notAfter="1922">Camp A. A. Humphreys, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>38.718414667146305, -77.15346754401979</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0034" type="Building">
                 <placeName>13 University Place, Virginia</placeName>
+                <placeName>206 N Main Street, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78790004645155, -79.440395361993</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0035" type="Street">
                 <placeName>South Main Street, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.77867568442007, -79.44769038233642</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0036" type="Region">
                 <placeName>Picardy, France</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>50.00029091261833, 2.968260279189205</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0037" type="Building">
                 <placeName>Lyric Theatre, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78413638280093, -79.44378709914807</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0038" type="Street">
                 <placeName>Randolph Street, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78720272369669, -79.4383849601112</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0039" type="Building">
                 <placeName>St. John's Methodist Church</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.74021608488049, -79.35304091350737</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0040" type="State">
                 <placeName>New York, United States</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>40.76184347943716, -73.96375696573959</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0041" type="City">
                 <placeName>Washington, <choice><expan>District of Columbia</expan><abbr>D.C.</abbr></choice></placeName>
                 <location>
-                    <geo></geo>
+                    <geo>38.90658781388551, -77.01927103505206</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0042" type="Building">
@@ -686,7 +577,7 @@
                 </location>
             </place>
             <place xml:id="RHSP-0043" type="Building">
-                <placeName>Wayland's Drug Store</placeName>
+                <placeName>Wayland's Drug Store, Virginia</placeName>
                 <location>
                     <geo></geo>
                 </location>
@@ -694,95 +585,97 @@
             <place xml:id="RHSP-0044" type="City">
                 <placeName>Lynchburg, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.414577618225906, -79.1440021123444</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0045" type="City">
                 <placeName>Covington, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.79295384558279, -79.99528080845086</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0046" type="College">
-                <placeName>Southern Seminary College</placeName>
+                <placeName notBefore="2001">Southern Virginia University</placeName>
+                <placeName notAfter="2001">Southern Seminary College</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.74187635065211, -79.34549370055277</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0047" type="City">
                 <placeName>Baltimore, Maryland</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>39.28743041807825, -76.61094198931913</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0048" type="State">
                 <placeName>North Carolina, United States</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>35.96117875607225, -79.5306933011305</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0049" type="City">
                 <placeName>New York, New York</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>40.71226942291978, -73.9853999788918</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0050" type="Unicorporated-Community">
                 <placeName>Rockbridge Baths, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.92967385564787, -79.40206800726973</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0051" type="City">
                 <placeName>Charlotte, North Carolina</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>35.21841518701969, -80.84126415730529</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0052" type="City">
                 <placeName>Philadelphia, Pennsylvania</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>39.95783398225265, -75.13731197640521</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0053" type="Unicorporated-Community">
                 <placeName>Irish Creek, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.85048211093999, -79.19564473676527</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0054" type="State">
                 <placeName>West Virginia, United States</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>38.6808460649484, -81.18464371535865</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0055" type="College">
                 <placeName>Virginia Polytechnic Institute</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.22889640976031, -80.42139973830791</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0056" type="Army-Facility">
                 <placeName>Camp Grant, Illinois</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>42.832186804418946, -84.93354354944236</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0057" type="Unincorporated-Community">
                 <placeName>Collierstown, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78620194440554, -79.58783148002712</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0058" type="Unincorporated-Community">
                 <placeName>Natural Bridge, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.6328452963905, -79.53571329982312</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0059" type="Building">
-                <placeName>Jackson Hospital, Virginia</placeName>
+                <placeName notBefore="2020">Carilion Rockbridge Community Hospital</placeName>
+                <placeName notAfter="2020">Stonewall Jackson Hospital, Virginia</placeName>
                 <location>
                     <geo></geo>
                 </location>
@@ -790,55 +683,55 @@
             <place xml:id="RHSP-0060" type="County">
                 <placeName>Albemarle County, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>38.04604746672296, -78.58753716637085</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0061" type="Unincorporated-Community">
                 <placeName>Kerrs Creek, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.85645119984878, -79.48913912653143</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0062" type="Town">
                 <placeName>Dublin, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.101662220703815, -80.66939387121398</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0063" type="Unincorporated-Community">
                 <placeName>Decatur, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.87881655944856, -79.33027033308403</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0064" type="Building">
                 <placeName>Lexington Baptist Church, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.77297741102006, -79.43488314582657</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0065" type="Street">
                 <placeName>White Street, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.7827423368403, -79.4469478526605</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0066" type="Country">
                 <placeName>Canada</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>60.35012781247074, -111.11718879090975</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0067" type="City">
                 <placeName>Hopewell, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.303166281951334, -77.28580900283552</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0068" type="City">
                 <placeName>Petersburg, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.22599437260067, -77.40515313463204</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0069" type="Street">
@@ -850,19 +743,19 @@
             <place xml:id="RHSP-0070" type="County">
                 <placeName>Alleghany County, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.81105768264303, -80.0157306909756</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0071" type="Country">
                 <placeName>Sierra Leone</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>8.56065633503687, -12.215480826794531</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0072" type="Continent">
                 <placeName>Africa</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>-5.809832470027006, 40.290684365738606</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0073" type="Building">
@@ -880,19 +773,19 @@
             <place xml:id="RHSP-0075" type="Street">
                 <placeName>Jefferson Street, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.78394759323543, -79.44364582197531</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0076" type="Water">
                 <placeName>James River</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.733466903183775, -77.72565171074231</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0077" type="Landmark">
                 <placeName>Arnold's Valley, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.61619757557053, -79.48708509097257</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0078" type="Building">
@@ -904,79 +797,79 @@
             <place xml:id="RHSP-0079" type="Water">
                 <placeName>Buffalo Creek</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.72443806484508, -79.46981634011263</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0080" type="Town">
                 <placeName>Clifton Forge, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.82343250504106, -79.82300259518661</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0081" type="Unincorporated-Community">
                 <placeName>Steeles Tavern, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.92851734468373, -79.20074546606496</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0082" type="Military-Facility">
                 <placeName>Camp Taylor, Kentucky</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>38.200192948850386, -85.71139007424796</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0083" type="City">
                 <placeName>Louisville, Kentucky</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>38.25169645658298, -85.76489724813419</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0084" type="Unincorporated-Community">
                 <placeName>Brownsburg, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.92910736074692, -79.31701311755319</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0085" type="Unincorporated-Community">
-                <placeName>Timber Ridge</placeName>
+                <placeName>Timber Ridge, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.85743495419097, -79.35250585588359</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0086" type="Unincorporated-Community">
                 <placeName>Raphine, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.940460940984195, -79.2262880027226</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0087" type="Town">
                 <placeName>Glasgow, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.63377607256651, -79.44879353160789</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0088" type="Street">
                 <placeName>Main Street, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.784781672952434, -79.43961642418587</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0089" type="County">
                 <placeName>Augusta County, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>38.20247437382774, -79.2137014457419</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0090" type="City">
                 <placeName>Roanoke, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.27147568824425, -79.95137774214159</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0091" type="County">
                 <placeName>Roanoke County, Virginia</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.28798717176843, -80.05110269863529</geo>
                 </location>
             </place>
             <place xml:id="RHSP-0092" type="Building">
@@ -989,7 +882,7 @@
             <place xml:id="RHSP-0093" type="Building">
                 <placeName>Lexington Golf Club</placeName>
                 <location>
-                    <geo></geo>
+                    <geo>37.768858715352835, -79.46131096986859</geo>
                 </location>
             </place>
         </listPlace>
@@ -999,31 +892,30 @@
         <front>
             <head>The Great Flu Pandemic of 1918-19 in <placeName id="#RHSP-0002">Rockbridge County, Virginia</placeName></head>
             <head><persName id="#RHS-0001">Eileen T. Hinks</persName></head>
-            <p>The influenza pandemic of 1918-19 affected even those living in rural areas such as <placeName id="#RHSP-0002">Rockbridge County</placeName> and its two cities, <placeName id="#RHSP-0003">Lexington</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName>. Local newspapers and other local sources were used to construct a chronology of events. Concomitant national and global events are included in order to visualize how local history fit into those events. Morbidity and mortality rates were estimated using vital statistics and local sources. Relevance of local 1918 events to future pandemic preparations is also discussed.</p>
+            <p>The influenza pandemic of 1918-19 affected even those living in rural areas such as <placeName id="#RHSP-0002">Rockbridge County</placeName> and its two cities, <placeName id="#RHSP-0003">Lexington</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName>. Local newspapers and other local sources were used to construct a chronology of events. Concomitant national and global events are included in order to visualize how local history fit into those events. Morbidity and mortality rates were estimated using vital statistics and local sources. Relevance of local <date when="1918">1918</date> events to future pandemic preparations is also discussed.</p>
             <p><persName id="#RHS-0001">Eileen Hinks</persName> is an instructor in the chemistry and biology departments at <placeName id="#RHSP-0006">Virginia Military Institute</placeName>  and an adjunct assistant professor of health care administration at <placeName id="#RHSP-0008">Mary Baldwin College</placeName> in <placeName id="#RHSP-0005">Staunton, Virginia</placeName>. She earned her doctorate in microbiology and immunology from the <placeName id="#RHSP-0009">Temple University School of Medicine</placeName>. She presented this paper at the Society's meeting of <date when="2005-11-21">November 21, 2005</date>, in <placeName id="#RHSP-0010">Nichols Hall</placeName> at <placeName id="#RHSP-0006">Virginia Military Institute</placeName>.</p>
         </front>
         <body>
             <div type="section" n="1">
                 <head>History of Influenza and Pandemics</head>
                 <p>The word <soCalled>“influenza”</soCalled> comes from the Italian <foreign xml:lang="it">influenza di freddo</foreign>, <soCalled>“influence of the cold,”</soCalled> referring to the usual cases that occur each winter.1 Symptoms2 of <soCalled>“the flu”</soCalled> (or <soCalled>“the <foreign xml:lang="it">grippe</foreign></soCalled>”) come on suddenly, within a day or two after contact, and include high fever (sometimes with delirium), headache, respiratory symptoms, and muscle and bone aches.</p>
-                <p>Certain high-risk groups are susceptible to more severe complications and even death. Before 1918, influenza was viewed by the medical community as an inconvenience.3 When it killed, the cause was most often opportunistic bacterial invaders that caused pneumonia, especially in the elderly and the weak.</p>
-                <p>The pandemic of 1918 changed that view of influenza. Unlike other outbreaks before it, the 1918 virus preyed on the young and healthy and without regard to skin color or socioeconomic status. More than half of all deaths occurred in young adults between the ages of twenty and forty, and the worst mortality figures were in the twenty- to thirty-year-old cohort4 — the group that included soldiers and young parents. The <placeName id="#RHSP-0002">Rockbridge County</placeName> experience was no different.</p>
+                <p>Certain high-risk groups are susceptible to more severe complications and even death. Before <date when="1918">1918</date>, influenza was viewed by the medical community as an inconvenience.3 When it killed, the cause was most often opportunistic bacterial invaders that caused pneumonia, especially in the elderly and the weak.</p>
+                <p>The pandemic of <date when="1918">1918</date> changed that view of influenza. Unlike other outbreaks before it, the <date when="1918">1918</date> virus preyed on the young and healthy and without regard to skin color or socioeconomic status. More than half of all deaths occurred in young adults between the ages of twenty and forty, and the worst mortality figures were in the twenty- to thirty-year-old cohort4 — the group that included soldiers and young parents. The <placeName id="#RHSP-0002">Rockbridge County</placeName> experience was no different.</p>
                 <p>Pandemics, by definition, involve the whole world.5 A pandemic implies a novel virus strain, serious ill effects, and sustained person-to-person transmission. Because little or no immunity to the new strain exists, individuals are very susceptible to it. Because the incubation period of influenza is so short, it spreads quickly. High levels of ill
                 <pb n="236"/>
                 ness, death, social disruption, and economic loss are associated with any pandemic.6</p>
-                <p>There were three major pandemics of influenza in the twentieth century: the 1968-69 Hong Kong flu (750,000 deaths worldwide); the 1957-58 Asian flu (1 million deaths worldwide); and the 1918-19 Spanish flu, with an estimated <num type="cardinal" value="50000000">fifty million</num> to <num type="cardinal" value="100000000">one hundred million</num> deaths worldwide.7 Further, some 1918 residents of <placeName id="#RHSP-0002">Rockbridge County</placeName> would have remembered, or may even have been exposed to, the Russian flu of 1889-90.</p>
-                <p>In 1918, nearly a third of the world's population, including that of the <placeName id="#RHSP-0011">United States</placeName>, had symptoms.* About <num type="percentage" value="40">forty percent</num> percent of Navy personnel and <num type="percentage" value="36">thirty-six percent</num> percent of Army soldiers became ill.9 Over all, an estimated <num type="cardinal" value="675000">six hundred seventy-five thousand</num> Americans died;10 nearly half of all <placeName id="#RHSP-0011">U.S.</placeName> deaths in 1918 were due to influenza.11 Influenza affected life span statistics dramatically: In 1917, the life expectancy of the average American was fifty-one years; in 1918, it was thirty-nine years.12</p>
-                <p>Unique to the 1918 strain, death rates reached <num type="percentage" value="2.5">two and a half percent</num> percent to <num type="percentage" value="5">five percent</num> percent,13 up to fifty times the mortality seen in other influenza outbreaks. In some locations in the world, even those death rates were greatly exceeded.14</p>
-                <p>Influenza deaths obtained from the Department of Vital Statistics for <placeName id="#RHSP-0032">Virginia</placeName> for the years 1913 through 1928 are shown in Figure 1. There was an approximately seventeen-fold increase in the number of deaths from 1917 to 1918. The number of deaths did not return to pre-1918 levels until 1921. The tail end of the pandemic of 1918-19 occurred in 1920.</p>
+                <p>There were three major pandemics of influenza in the twentieth century: the 1968-69 Hong Kong flu (750,000 deaths worldwide); the 1957-58 Asian flu (1 million deaths worldwide); and the 1918-19 Spanish flu, with an estimated <num type="cardinal" value="50000000">fifty million</num> to <num type="cardinal" value="100000000">one hundred million</num> deaths worldwide.7 Further, some <date when="1918">1918</date> residents of <placeName id="#RHSP-0002">Rockbridge County</placeName> would have remembered, or may even have been exposed to, the Russian flu of 1889-90.</p>
+                <p>In <date when="1918">1918</date>, nearly a third of the world's population, including that of the <placeName id="#RHSP-0011">United States</placeName>, had symptoms.* <note place="bottom" type="author">* Influenza mortality statistics are certainly underestimated because no formal surveillance or reporting systems existed. This was true even in the <placeName id="#RHSP-0011">United States</placeName>,8 where infectious diseases and vital statistics were often not recorded accurately except in major cities. In the rest of the world, records were all but nonexistent.</note> About <num type="percentage" value="40">forty percent</num> percent of Navy personnel and <num type="percentage" value="36">thirty-six percent</num> percent of Army soldiers became ill.9 Over all, an estimated <num type="cardinal" value="675000">six hundred seventy-five thousand</num> Americans died;10 nearly half of all <placeName id="#RHSP-0011">U.S.</placeName> deaths in <date when="1918">1918</date> were due to influenza.11 Influenza affected life span statistics dramatically: In <date when="1917">1917</date>, the life expectancy of the average American was fifty-one years; in <date when="1918">1918</date>, it was thirty-nine years.12</p>
+                <p>Unique to the <date when="1918">1918</date> strain, death rates reached <num type="percentage" value="2.5">two and a half percent</num> percent to <num type="percentage" value="5">five percent</num> percent,13 up to fifty times the mortality seen in other influenza outbreaks. In some locations in the world, even those death rates were greatly exceeded.14</p>
+                <p>Influenza deaths obtained from the Department of Vital Statistics for <placeName id="#RHSP-0032">Virginia</placeName> for the years <date when="1913">1913</date> through <date when="1928">1928</date> are shown in Figure 1. There was an approximately seventeen-fold increase in the number of deaths from <date when="1917">1917</date> to <date when="1918">1918</date>. The number of deaths did not return to pre-1918 levels until <date when="1921">1921</date>. The tail end of the pandemic of 1918-19 occurred in <date when="1920">1920</date>.</p>
                 </div>
                 <div type="section" n="2">
                 <head><placeName id="#RHSP-0002">Rockbridge</placeName> and the Pandemic</head>
                 <p>Three newspapers in <placeName id="#RHSP-0002">Rockbridge County</placeName> at the time served as sources of information about the war and local news: the <bibl><title>Rockbridge County News</title></bibl>,the <bibl><title>Lexington Gazette</title></bibl>, and the <bibl><title>Buena Vista Weekly</title></bibl>. A railroad depot in <placeName id="#RHSP-0004">Buena Vista</placeName> served as a hub for travel to and from locations outside the county.</p>
-                <p><placeName id="#RHSP-0002">Rockbridge County</placeName> did not escape the terrible impact of the <q>“mother of all pandemics.”</q>15 Yet the impact of the first wave in the spring was minimal to nonexistent. As in the rest of the world the fall 1918 wave was horrific.16 The local newspapers reported that the effects of the pandemic continued to be felt in early 1919 and again in early 1920.</p>
+                <p><placeName id="#RHSP-0002">Rockbridge County</placeName> did not escape the terrible impact of the <q>“mother of all pandemics.”</q>15 Yet the impact of the first wave in the spring was minimal to nonexistent. As in the rest of the world the fall <date when="1918">1918</date> wave was horrific.16 The local newspapers reported that the effects of the pandemic continued to be felt in early <date when="1919">1919</date> and again in early <date when="1920">1920</date>.</p>
                 <div type="subsection" n="1">
                     <head>The First Wave</head>
-                    <p>As it did in many parts of the country,17 the year 1918 started ominously in <placeName id="#RHSP-0002">Rockbridge County</placeName>. The weather in January was unprecedented, with
-                    <!--Footnote--><p>* Influenza mortality statistics are certainly underestimated because no formal surveillance or reporting systems existed. This was true even in the <placeName id="#RHSP-0011">United States</placeName>,8 where infectious diseases and vital statistics were often not recorded accurately except in major cities. In the rest of the world, records were all but nonexistent.</p><!--Footnote-->
+                    <p>As it did in many parts of the country,17 the year <date when="1918">1918</date> started ominously in <placeName id="#RHSP-0002">Rockbridge County</placeName>. The weather in January was unprecedented, with
                     <pb n="237"/>
                     deep snow and thick ice everywhere. Activities of all kinds were paralyzed.18 On <date when="1918-01-01">January 1</date>, it was four degrees below zero. Fuel was scarce. Businesses were closed on Mondays to save fuel. There was a sugar shortage.</p>
                     <p>Residents of <placeName id="#RHSP-0002">Rockbridge County</placeName> had no idea that the first wave of the pandemic had already begun; they were spared its fury. In late January, while they were coping with record cold temperatures, unusually virulent cases of influenza were observed halfway across the country in <placeName id="#RHSP-0012">Haskell County, Kansas</placeName>.19 By April, thousands were sick at <placeName id="#RHSP-0013">Camp Funston, Kansas</placeName>, where it was extremely cold and very overcrowded.</p>
@@ -1038,7 +930,7 @@
                     influenza”</soCalled> stuck — not because the epidemic started in <placeName id="#RHSP-0017">Spain</placeName>, but because <placeName id="#RHSP-0017">Spain</placeName>, being neutral, did not censor news reports about the seriousness of the outbreaks.23</p>
                     <p>A number of crowded military camps experienced epidemics in March and April. In mid-April, <placeName id="#RHSP-0002">Rockbridge County</placeName> residents read about the death of a <persName id="#RHS-0002">Private Turner</persName>, age twenty-one, of <placeName id="#RHSP-0018">Fancy Hill</placeName>, from unspecified pneumonia while at <placeName id="#RHSP-0001">Camp Greene, North Carolina</placeName>. Of interest, there were still no reported cases of flu or pneumonia among <placeName id="#RHSP-0002">Rockbridge County</placeName> residents.</p>
                     <p>Little attention was paid in general to outbreaks of the flu in the <placeName id="#RHSP-0011">United States</placeName> — in <num type="cardinal" value="1000">one thousand</num> Ford Motor <choice><expan>Company</expan><abbr>Co.</abbr></choice> workers, in <num type="cardinal" value="500">five hundred</num> prisoners at <placeName id="#RHSP-0019">San Quentin</placeName>, or in many other population centers all over the nation.24 The spring epidemic was not even mentioned in the <bibl><title>Journal of the American Medical Association</title></bibl>.25</p>
-                    <p>Unknown to <placeName id="#RHSP-0002">Rockbridge County</placeName> residents, however, physicians elsewhere were beginning to observe26 that influenza-related pneumonia was killing an unusually large number of young adults. At the same time, there was a substantial increase in symptoms such as blackened lips and hemorrhaging from the nose, and also in quick death and unusual autopsy findings. The significance of these phenomena would not be appreciated until many more examples were seen in <q>“the terrible autumn”</q> of 1918.</p>
+                    <p>Unknown to <placeName id="#RHSP-0002">Rockbridge County</placeName> residents, however, physicians elsewhere were beginning to observe26 that influenza-related pneumonia was killing an unusually large number of young adults. At the same time, there was a substantial increase in symptoms such as blackened lips and hemorrhaging from the nose, and also in quick death and unusual autopsy findings. The significance of these phenomena would not be appreciated until many more examples were seen in <q>“the terrible autumn”</q> of<date when="1918">1918</date>.</p>
                     <p>As of <date when="1918-07-22">July 22</date>, <placeName id="#RHSP-0002">Rockbridge County</placeName> had <num type="cardinal" value="677">six hundred seventy-seven</num> men in the armed forces. By August, the Spanish Flu had probably killed tens of thousands worldwide, but local residents were exposed only to the heat in early August: <num type="cardinal" value="101">one hundred one</num> degrees in <placeName id="#RHSP-0003">Lexington</placeName>.27</p>
                 </div>
                 <div type="subsection" n="2">
@@ -1097,15 +989,15 @@
                     <p>The diary of <persName id="#RHS-0018">Samuel P. Gibson</persName> (1882 -1934), land assessor and city registrar, is a collection of ledgers with daily one- or two-line comments — accurate records of deaths, sickness, marriages, fires, accidents, and unusual
                     <figure>
                         <graphic url="/assets/img/flu_figure_2.png"/>
-                        <head>Figure 2: Excerpt from the Diary of <persName id="#RHS-0018">Samuel P. Gibson</persName>, 1918</head>
+                        <head>Figure 2: Excerpt from the Diary of <persName id="#RHS-0018">Samuel P. Gibson</persName>, <date when="1918">1918</date></head>
                         <figDesc>Source: <persName id="#RHS-0018">Gibson</persName> diary, private collection</figDesc>
                     </figure>
                     <pb n="244"/>
-                    weather in <placeName id="#RHSP-0004">Buena Vista</placeName> and some events of national interest.54 The <persName id="#RHS-0018">Gibson</persName> diary is an important source of information about influenza events in <placeName id="#RHSP-0004">Buena Vista</placeName> from mid-September 1918 through March 1919, as no copies of the <placeName id="#RHSP-0004">Buena Vista</placeName> newspaper are known to exist for that period. Figure 2 is an example from the diary. (Note references to the Spanish flu, which he spelled <soCalled>“flue.”</soCalled>) The selection is transcribed here to show the misspellings, characteristic ledger-like spacing, and lack of punctuation:</p>
+                    weather in <placeName id="#RHSP-0004">Buena Vista</placeName> and some events of national interest.54 The <persName id="#RHS-0018">Gibson</persName> diary is an important source of information about influenza events in <placeName id="#RHSP-0004">Buena Vista</placeName> from mid-September <date when="1918">1918</date> through <date when="1919-03">March 1919</date>, as no copies of the <placeName id="#RHSP-0004">Buena Vista</placeName> newspaper are known to exist for that period. Figure 2 is an example from the diary. (Note references to the Spanish flu, which he spelled <soCalled>“flue.”</soCalled>) The selection is transcribed here to show the misspellings, characteristic ledger-like spacing, and lack of punctuation:</p>
                     <table rows="5" cols="2">
                         <row role="data">
                             <cell role="data">Sep 27</cell>
-                            <cell role="data">A little girl of Mrs Sorrels died last </cell>
+                            <cell role="data">A little girl of Mrs Sorrels died last</cell>
                         </row>
                         <row role="data">
                             <cell role="data">Oct 3</cell>
@@ -1113,7 +1005,7 @@
                         </row>
                         <row role="data">
                             <cell role="data">Oct 6</cell>
-                            <cell role="data">Several cases of the flue in B.V.</cell>
+                            <cell role="data">Several cases of the flue in <choice><expan>Buena Vista</expan><abbr>B.V.</abbr></cell>
                         </row>
                         <row role="data">
                             <cell role="data">" 7</cell>
@@ -1234,7 +1126,7 @@
                 <div type="subsection" n="10">
                     <head>Influenza Hits the County</head>
                     <p>In contrast to conditions in <placeName id="#RHSP-0003">Lexington</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName>, the news from the county was not as good. <q>“There have been so many cases of influenza and deaths . . . in <placeName id="#RHSP-0077">Arnold's Valley</placeName> and along the <placeName id="#RHSP-0076">James River</placeName> that it is almost impossible for a correspondent to keep up with and record all of them.”</q>102 <soCalled></soCalled>“Distressing”</q> news included the death of a widow, <persName id="#RHS-0059"><abbr>Mrs.</abbr> Foster</persName>, her married daughter, and the daughter's twelve-year-old son. By <date when="1918-11-13">November 13</date>, twenty new cases of influenza were reported in <placeName id="#RHSP-0058">Natural Bridge</placeName>. The epidemic was still in full force, bringing whole families down. The South River Lumber company shut down its sawmill because so many employees were sick.</p>
-                    <p><q>“The angel of death visited many homes in the valley, leaving sore and lonely hearts.”</q>103 The deaths of three babies were noted. Statewide vital statistics records showed increased numbers of in infant deaths in 1918 (Figure <num type="cardinal" value="8">eight</num>).</p>
+                    <p><q>“The angel of death visited many homes in the valley, leaving sore and lonely hearts.”</q>103 The deaths of three babies were noted. Statewide vital statistics records showed increased numbers of in infant deaths in <date when="1918">1918</date> (Figure <num type="cardinal" value="8">eight</num>).</p>
                     <figure>
                         <graphic url="/assets/img/flu_figure_7.png"/>
                         <head>Figure 7</head>
@@ -1243,10 +1135,10 @@
                     <pb n="254"/>
                     <p>Cases of influenza continued to occur in the county from mid-November through January. <persName id="#RHS-0020"><abbr>Dr.</abbr> Davidson</persName> was called to a secluded hollow of <placeName id="#RHSP-0061">Kerrs Creek</placeName> to look into an outbreak that affected the teachers and nearly all the pupils of the <placeName id="#RHSP-0078">Waterloo school</placeName> there. The outbreak was traced to a local resident, one <persName id="#RHS-0060"><abbr>Mrs.</abbr> Downey</persName>, whose visiting son and wife, residents of <placeName id="#RHSP-0045">Covington</placeName> and recently ill with influenza, had brought the illness to <persName id="#RHS-0060"><abbr>Mrs.</abbr> Downey</persName>'s younger children, who were pupils at <placeName id="#RHSP-0078">Waterloo</placeName>.104 As many as thirty-nine cases necessitated judicial enforcement of a strict quarantine involving twelve families.</p> 
                     <p>An even more serious outbreak extended along <placeName id="#RHSP-0079">Buffalo Creek</placeName>, with an estimated <num type="cardinal" value="100">one hundred</num> cases of influenza, eight cases of pneumonia, and several deaths. It was reported that this outbreak was brought in by young people of the locality visiting at <placeName id="#RHSP-0080">Clifton Forge</placeName>.105 And the influenza finally appeared in <placeName id="#RHSP-0050">Rockbridge Baths</placeName>, causing students to <q>“abandon the school and it was closed.”</q> Nearly all the twenty cases there started with one family, the head of which returned from <placeName id="#RHSP-0054">West Virginia</placeName> with the flu. Several county schools were closed as a precaution. Shocking deaths included those of <persName id="#RHS-0061"><abbr>Mrs.</abbr> Walter Murray</persName>, twenty-nine, mother of five children, all sick with influenza when she died; <persName id="#RHS-0063">Edward Shewey</persName>, <q>“a young man of fine physical powers”</q>; <persName id="#RHS-0062">Andrew Nicely</persName>, forty-five, and two of his young daughters, ages four and six; and <persName id="#RHS-0064">Virginia Steele</persName> of <placeName id="#RHSP-0081">Steeles Tavern</placeName>, <q>“just beginning to enter into the joys and pleasures of girlhood.”</q>106 In early December, <persName id="#RHS-0065">Lieutenant J. Henry Smith</persName>, twenty-one, eldest son of <placeName id="#RHSP-0007">Washington and Lee</placeName> <persName id="#RHS-0010">President Henry Louis Smith</persName>, died at <placeName id="#RHSP-0082">Camp Taylor</placeName> in <placeName id="#RHSP-0083">Louisville, Kentucky</placeName>, of pneumonia. Lt. Smith had been a <q>“splendid specimen of physical manhood”</q> and the <q>“picture of health”</q> when he was on leave in <placeName id="#RHSP-0003">Lexington</placeName> two months before.107</p>
-                    <p>Christmas Day 1918 was rather somber: cloudy, with a cold wind, and <q>“remarkably drippy.”</q>108 In <placeName id="#RHSP-0003">Lexington</placeName>, <q>“cash sales were remarkably large, a natural consequence of the abundance of money.”</q> Schools in <placeName id="#RHSP-0003">Lexington</placeName> re-opened on <date when="1918-12-31">December 31</date> to make up for days lost due to influenza, but a number of schools in the county stayed closed because of “the continuance of influenza.”109</p>
+                    <p>Christmas Day <date when="1918">1918</date> was rather somber: cloudy, with a cold wind, and <q>“remarkably drippy.”</q>108 In <placeName id="#RHSP-0003">Lexington</placeName>, <q>“cash sales were remarkably large, a natural consequence of the abundance of money.”</q> Schools in <placeName id="#RHSP-0003">Lexington</placeName> re-opened on <date when="1918-12-31">December 31</date> to make up for days lost due to influenza, but a number of schools in the county stayed closed because of “the continuance of influenza.”109</p>
                     <figure>
                         <graphic url="/assets/img/flu_figure_8.png"/>
-                        <head>Figure 8: Impact of Influenza on Infant Deaths, 1918</head>
+                        <head>Figure 8: Impact of Influenza on Infant Deaths, <date when="1918">1918</date></head>
                         <figDesc>Source: <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Office of Vital Records</figDesc>
                     </figure>
                     <pb n="255"/>
@@ -1264,7 +1156,7 @@
                     <p>Even <q>“in the face of an influenza epidemic disturbing the town and county,”</q> Lee-Jackson Day was celebrated in <placeName id="#RHSP-0003">Lexington</placeName> on <date when="1919-01-20">January 20</date>. <q>“The most idle came to attention when <persName id="#RHS-0007">General Nichols</persName>, rising to his feet at the 
                     <pb n="256"/>
                     call of the toastmaster, read in measured terms the men from <placeName id="#RHSP-0002">Rockbridge</placeName> who had made, 'The Supreme Sacrifice in the World War'.”</q>118 <persName id="#RHS-0007">General Nichols</persName> cited thirteen men who died in battle, seventeen who died of disease, and two who died in accidents. Of interest, of those who died of disease, fifteen had died in the <placeName id="#RHSP-0011">United States</placeName>, not in <placeName id="#RHSP-0016">Europe</placeName>; eleven of them had died in the camps — four at <placeName id="#RHSP-0014">Camp Lee</placeName> alone. Influenza was a likely cause of death in at least eleven of the men, based on dates of death.</p> 
-                    <p>Deaths of local men from combat, disease, and other causes were compared to national estimates from papers published locally early in 1919 and to official statistics available later from the War Department.119 The <placeName id="#RHSP-0002">Rockbridge County</placeName> statistics are very similar to official War Department statistics that link <num type="percentage" value="50">fifty percent</num> percent or more of World War I deaths to disease (Figures 9 and 10).</p>
+                    <p>Deaths of local men from combat, disease, and other causes were compared to national estimates from papers published locally early in <date when="1919">1919</date> and to official statistics available later from the War Department.119 The <placeName id="#RHSP-0002">Rockbridge County</placeName> statistics are very similar to official War Department statistics that link <num type="percentage" value="50">fifty percent</num> percent or more of World War I deaths to disease (Figures 9 and 10).</p>
                     <figure>
                         <graphic url="/assets/img/flu_figure_9.png"/>
                         <head>Figure 9: World War I Deaths by Cause — Local Reports</head>
@@ -1286,7 +1178,7 @@
                 </div>
                 <div type="subsection" n="14">
                     <head>Final Curtain Call</head>
-                    <p>The virus rallied in January and February of 1920 but mortality did not reach 1918-19 levels.123 By this time, the populace, including that in <placeName id="#RHSP-0002">Rockbridge County</placeName>, was more resistant than in 1918 and 1919.</p> 
+                    <p>The virus rallied in January and February of <date when="1920">1920</date> but mortality did not reach 1918-19 levels.123 By this time, the populace, including that in <placeName id="#RHSP-0002">Rockbridge County</placeName>, was more resistant than in <date when="1918">1918</date> and <date when="1919">1919</date>.</p> 
                     <p>The medical and scientific establishments were <soCalled>“baffled”</soCalled> (Figure <num type="cardinal" value="11">eleven</num>).124</p>
                     <p>In <placeName id="#RHSP-0032">Virginia</placeName>, the epidemic was <q>“tightening its grip on <placeName id="#RHSP-0090">Roanoke</placeName>,”</q> but over all, cases in <placeName id="#RHSP-0032">Virginia</placeName> seemed to be of a milder nature.125 Locally, <persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> reported an increase in number of influenza cases in <placeName id="#RHSP-0003">Lexington</placeName> and <placeName id="#RHSP-0002">Rockbridge County</placeName> — but of a milder strain. By early February, sixty-five mild cases had been reported in <placeName id="#RHSP-0003">Lexington</placeName>, ten of them in <placeName id="#RHSP-0007">W&amp;L</placeName> students and twenty in <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName> cadets. <placeName id="#RHSP-0059">Jackson Hospital</placeName>
                     <figure>
@@ -1296,8 +1188,8 @@
                     </figure>
                     <pb n="258"/>
                     had only one nurse capable of duty for twenty patients. Nursing needs were met by family, friends, and neighbors <q>“coming to the rescue.”</q> Some schools in the county closed, and attendance at open schools was small because of <q>“fear of influenza with bad weather.”</q>126 The annual Fancy Dress Ball at <placeName id="#RHSP-0007">Washington and Lee</placeName>, scheduled for <date when="1920-02-10">February 10</date>, was called off because of influenza.</p>
-                    <p>A flareup occurred in mid-February.127 Exact numbers of cases were not known: <q>“Physicians seem to be too busy to make reports.”</q> The offices of the telephone company were found <q>“in a bad situation,”</q> with most of the <q>“young lady operators”</q> unable to report for duty. The company appealed to the public to <q>“use the line only when necessary,”</q> just as it had in 1918. By <date when="1920-02-19">February 19</date>, the flu was even more widespread, with every neighborhood <q>“spotted with cases of the disease.”</q> Though the cases were mild, every community had <q>“cases of pneumonia to which frail people, particularly, were succumbing.”</q> <persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> estimated that <placeName id="#RHSP-0003">Lexington</placeName> had as many as <num type="cardinal" value="250">two hundred fifty</num> cases. <placeName id="#RHSP-0007">W&amp;L</placeName> had a total of twenty-eight sick, fourteen of whom were in the hospital, one seriously ill. <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName> had fifteen cases in the hospital. Cadets were quarantined from <date when="1920-02-01">February 1</date> to 11.128</p>
-                    <p>As in the previous winter, businesses were affected; Figure <num type="cardinal" value="12">twelve</num> shows one advertisement from 1920.129</p>
+                    <p>A flareup occurred in mid-February.127 Exact numbers of cases were not known: <q>“Physicians seem to be too busy to make reports.”</q> The offices of the telephone company were found <q>“in a bad situation,”</q> with most of the <q>“young lady operators”</q> unable to report for duty. The company appealed to the public to <q>“use the line only when necessary,”</q> just as it had in<date when="1918">1918</date>. By <date when="1920-02-19">February 19</date>, the flu was even more widespread, with every neighborhood <q>“spotted with cases of the disease.”</q> Though the cases were mild, every community had <q>“cases of pneumonia to which frail people, particularly, were succumbing.”</q> <persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> estimated that <placeName id="#RHSP-0003">Lexington</placeName> had as many as <num type="cardinal" value="250">two hundred fifty</num> cases. <placeName id="#RHSP-0007">W&amp;L</placeName> had a total of twenty-eight sick, fourteen of whom were in the hospital, one seriously ill. <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName> had fifteen cases in the hospital. Cadets were quarantined from <date when="1920-02-01">February 1</date> to 11.128</p>
+                    <p>As in the previous winter, businesses were affected; Figure <num type="cardinal" value="12">twelve</num> shows one advertisement from <date when="1920">1920</date>.129</p>
                     <p>Government operations felt the impact; the jailer, two deputy sheriffs, a deputy clerk, and the treasurer were all affected.130</p>
                     <p>A number of unexpected and shocking deaths occurred in February. <persName id="#RHS-0077"><abbr>Mrs.</abbr> O'Neal Moses</persName>, age thirty-one, mother, trained soprano, and member of the <placeName id="#RHSP-0003">Lexington</placeName> Presbyterian choir, died in less than a week from influenza and pneumonia.131 The young <persName id="#RHS-0071">Mayor Jackson</persName>, who had spoken so passionately on Lee-Jackson Day the year before, died of heart failure following what appeared to be a mild case of influenza.132 Deaths of parent-child pairs and <q>“husband and wife buried in same grave in <placeName id="#RHSP-0005">Staunton</placeName>”</q> were reported.133 There was <q>“much sickness in <placeName id="#RHSP-0058">Natural Bridge</placeName>,”</q> and <persName id="#RHS-0070"><abbr>Dr.</abbr> Lloyd</persName> was busy with <num type="cardinal" value="100">one hundred</num> cases. <q>“Last winter the colored people were almost exempt from influenza, but this time many of this race are down with it.”</q>134</p>
                     <p>The flu subsided in early March, coincident with the arrival of two blizzards and 8-degree weather.135 Perhaps the blizzards helped by forcing everyone to stay inside.</p>
@@ -1307,7 +1199,7 @@
                         <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1920-02-19">February 19, 1920</date></figDesc>
                     </figure>
                     <pb n="259"/>
-                    <p>Age statistics for the 1920 influenza season were published in the <bibl><title>Rockbridge Year Book</title></bibl> after the year's end (Figure <num type="cardinal" value="13">thirteen</num>).136 The greatest number of deaths occurred among the nineteen- to forty-five-year-olds. These statistics were similar to national data showing that about half the influenza deaths in 1918-19 occurred among the twenty- to forty-year-old cohort.137</p>
+                    <p>Age statistics for the <date when="1920">1920</date> influenza season were published in the <bibl><title>Rockbridge Year Book</title></bibl> after the year's end (Figure <num type="cardinal" value="13">thirteen</num>).136 The greatest number of deaths occurred among the nineteen- to forty-five-year-olds. These statistics were similar to national data showing that about half the influenza deaths in 1918-19 occurred among the twenty- to forty-year-old cohort.137</p>
                 </div>
             </div>
             <div type="section" n="2">
@@ -1316,8 +1208,8 @@
                 <p>The <placeName id="#RHSP-0011">U.S.</placeName>  Public Health Service predicted that influenza would <q>“lurk for months”</q> and that respiratory diseases would increase.138 The Bureau of Public Health created an educational poster with a cartoon drawn by a well-known Washington cartoonist, <persName id="#RHS-0057">Clifford Berryman</persName>, in an attempt to teach respiratory etiquette to <q>“the man in the street, the plain citizen, and the many millions who toil for their living”</q> who had
                 <figure>
                     <graphic url="/assets/img/flu_figure_13.png"/>
-                    <head>Figure 13: Influenza Deaths in <placeName id="#RHSP-0002">Rockbridge</placeName> by Age, 1920</head>
-                    <figDesc>Source: <bibl><title>Rockbridge Year Book</title></bibl>, 1920</figDesc>
+                    <head>Figure 13: Influenza Deaths in <placeName id="#RHSP-0002">Rockbridge</placeName> by Age, <date when="1920">1920</date></head>
+                    <figDesc>Source: <bibl><title>Rockbridge Year Book</title></bibl>, <date when="1920">1920</date></figDesc>
                 </figure>
                 <figure>
                     <graphic url="/assets/img/flu_figure_14.png"/>
@@ -1326,7 +1218,7 @@
                 </figure>
                 <pb n="260"/>
                 <q>“no time and no desire to wade through the technical phraseology”</q> (Figure <num type="cardinal" value="14">fourteen</num>).139</p>
-                <p>In 1918, the <bibl><title>Rockbridge County News</title></bibl> brought frontpage news about the <soCalled>“Spanish Influenza”</soCalled> from <persName id="#RHS-0054"><abbr>Dr.</abbr> Rupert Blue</persName>, surgeon general of the <placeName id="#RHSP-0011">U.S.</placeName> Public Health Service, as well as advice offered by the State Board of Health, <q>“How to Save Yourself and Others from Influenza,”</q> reproduced in Figure <num type="cardinal" value="15">fifteen</num>.140</p>
+                <p>In <date when="1918">1918</date>, the <bibl><title>Rockbridge County News</title></bibl> brought frontpage news about the <soCalled>“Spanish Influenza”</soCalled> from <persName id="#RHS-0054"><abbr>Dr.</abbr> Rupert Blue</persName>, surgeon general of the <placeName id="#RHSP-0011">U.S.</placeName> Public Health Service, as well as advice offered by the State Board of Health, <q>“How to Save Yourself and Others from Influenza,”</q> reproduced in Figure <num type="cardinal" value="15">fifteen</num>.140</p>
                 <p>The article ended with this useful advice: <q>“Cover up each cough and sneeze / If you don't you'll spread disease.”</q></p>
                 <p>Separately, the surgeon general of the Army issued these rules:141</p>
                 <list rend="bulleted">
@@ -1346,30 +1238,27 @@
                 <figure>
                     <graphic url="/assets/img/flu_figure_15.png"/>
                     <head>Figure 15</head>
-                    <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1918-10-10">October 10, 1918.</date></figDesc>
+                    <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1918-10-10">October 10,<date when="1918">1918</date>.</date></figDesc>
                 </figure>   
                 <pb n="261"/>
-                <p>Also in 1918, the state board of health announced that it would <q>“take advantage for education purposes, of the favorable psychological atmosphere created by the epidemic of influenza”</q>142 by publishing an <q>“Influenza Catechism”</q> for distribution to schoolchildren.</p>
+                <p>Also in <date when="1918">1918</date>, the state board of health announced that it would <q>“take advantage for education purposes, of the favorable psychological atmosphere created by the epidemic of influenza”</q>142 by publishing an <q>“Influenza Catechism”</q> for distribution to schoolchildren.</p>
             </div>
             <div type="section" n="3">
                 <head>Morbidity and Mortality Statistics</head>
                 <p>Morbidity and mortality statistics were inadequately recorded in most areas of the <placeName id="#RHSP-0011">United States</placeName>.143 It is therefore likely that state and county figures are underestimates.</p>
-                <p>The 1918 report of the <placeName id="#RHSP-0032">Virginia</placeName> State Commissioner of Health summarized the impact of the 1918 pandemic in the <placeName id="#RHSP-0011">U.S.</placeName> and in <placeName id="#RHSP-0032">Virginia</placeName>: <q>“Owing to the great epidemic of influenza which began to rage during the latter part of September and reached its height in October, all previous death rates were far surpassed.”</q></p> 
-                <p>In a December 1919 diary entry, <persName id="#RHS-0018">Samuel Gibson</persName> of <placeName id="#RHSP-0004">Buena Vista</placeName> wrote, <q>“We had <num type="cardinal" value="43">forty-three</num> white and <num type="cardinal" value="5">five</num> colored deaths from influenza this Fall.”</q> Comparing those figures with the overall <placeName id="#RHSP-0004">Buena Vista</placeName> population shows a death rate of <num type="percentage" value="1.4">one and four tenths percent</num> percent for whites and <num type="percentage" value="1.3">one and three tenths percent</num> percent for blacks.144 <persName id="#RHS-0075">Crosby</persName> observed that African American civilians had higher death rates from respiratory disease than whites except for the period during the pandemic.145 The <placeName id="#RHSP-0004">Buena Vista</placeName> mortality rates for blacks and whites, however, appeared to be similar.</p>
-                <p><persName id="#RHS-0018">Gibson</persName> kept a running tally of deaths since 1890. The numbers used in Figure <num type="cardinal" value="16">sixteen</num> are rough, as he did not compile his tally on the same day every year. About two-thirds of the deaths he reported in 1918 resulted from influenza — a <num type="cardinal" value="2.5">two and a half</num>-fold increase over the figure for 1917.</p>
+                <p>The <date when="1918">1918</date> report of the <placeName id="#RHSP-0032">Virginia</placeName> State Commissioner of Health summarized the impact of the <date when="1918">1918</date> pandemic in the <placeName id="#RHSP-0011">U.S.</placeName> and in <placeName id="#RHSP-0032">Virginia</placeName>: <q>“Owing to the great epidemic of influenza which began to rage during the latter part of September and reached its height in October, all previous death rates were far surpassed.”</q></p> 
+                <p>In a December <date when="1919">1919</date> diary entry, <persName id="#RHS-0018">Samuel Gibson</persName> of <placeName id="#RHSP-0004">Buena Vista</placeName> wrote, <q>“We had <num type="cardinal" value="43">forty-three</num> white and <num type="cardinal" value="5">five</num> colored deaths from influenza this Fall.”</q> Comparing those figures with the overall <placeName id="#RHSP-0004">Buena Vista</placeName> population shows a death rate of <num type="percentage" value="1.4">one and four tenths percent</num> percent for whites and <num type="percentage" value="1.3">one and three tenths percent</num> percent for blacks.144 <persName id="#RHS-0075">Crosby</persName> observed that African American civilians had higher death rates from respiratory disease than whites except for the period during the pandemic.145 The <placeName id="#RHSP-0004">Buena Vista</placeName> mortality rates for blacks and whites, however, appeared to be similar.</p>
+                <p><persName id="#RHS-0018">Gibson</persName> kept a running tally of deaths since 1890. The numbers used in Figure <num type="cardinal" value="16">sixteen</num> are rough, as he did not compile his tally on the same day every year. About two-thirds of the deaths he reported in <date when="1918">1918</date> resulted from influenza — a <num type="cardinal" value="2.5">two and a half</num>-fold increase over the figure for <date when="1917">1917</date>.</p>
                 <figure>
                     <graphic url="/assets/img/flu_figure_16.png"/>
                     <head>Figure 16: Deaths in <placeName id="#RHSP-0004">Buena Vista</placeName>, 1916-23</head>
                     <figDesc>Source: <persName id="#RHS-0018">Samuel P. Gibson</persName> diary</figDesc>
                 </figure>
                 <pb n="262"/>
-                <p><persName id="#RHS-0003"><abbr>Dr.</abbr> Robert Glasgow</persName>, <placeName id="#RHSP-0003">Lexington</placeName>'s health officer, reported vital statistics for <placeName id="#RHSP-0003">Lexington</placeName> for 1919 and compared them with those of 1918. Deaths were higher in 1918 for both whites and blacks, although causes of death were not given.146 The 1919 population was <num type="cardinal" value="3250">three thousand two hundred fifty</num>. The numbers of deaths were sixteen whites and nine <soCalled>“colored”</soCalled>; in 1918, comparable numbers were forty and twenty-three — also a <num type="cardinal" value="2.5">two and a half</num>-fold increase in deaths for each race.</p>
-                <p>Reported influenza deaths from the State of <placeName id="#RHSP-0032">Virginia</placeName> Vital Statistics records for <placeName id="#RHSP-0002">Rockbridge County</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName> confirm a dramatic spike in 1918, and in the county for 1919 and 1920 as well (Figure <num type="cardinal" value="17">seventeen</num>).*</p>
-                <p>Figure <num type="cardinal" value="18">eighteen</num> shows the ratio of influenza deaths to total deaths from 1917 through 1921. Note the jump in <placeName id="#RHSP-0004">Buena Vista</placeName> flu mortality in 1918.</p>
-                <p>Nationally, nearly half of all deaths in 1918 resulted from influenza.147 The <placeName id="#RHSP-0004">Buena Vista</placeName> statistics support the national estimates. Figure <num type="cardinal" value="18">eighteen</num> shows that death rates in 1919 and 1920 both in <placeName id="#RHSP-0002">Rockbridge County</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName>, while not as high as the death rates in 1918, were still higher than the baseline rates observed for 1917 and 1921. In fact, <placeName id="#RHSP-0002">Rockbridge County</placeName> death rates for influenza, especially during the fall wave in 1918, are possibly underestimates owing to underreporting or failure to determine causes of death accurately.</p>
-                <!--Footnote-->
-                <p>* <placeName id="#RHSP-0003">Lexington</placeName> was included in <placeName id="#RHSP-0002">Rockbridge County</placeName> statistics because it was not a separate city at that time.</p>
-                <!--Footnote-->
+                <p><persName id="#RHS-0003"><abbr>Dr.</abbr> Robert Glasgow</persName>, <placeName id="#RHSP-0003">Lexington</placeName>'s health officer, reported vital statistics for <placeName id="#RHSP-0003">Lexington</placeName> for <date when="1919">1919</date> and compared them with those of<date when="1918">1918</date>. Deaths were higher in <date when="1918">1918</date> for both whites and blacks, although causes of death were not given.146 The <date when="1919">1919</date> population was <num type="cardinal" value="3250">three thousand two hundred fifty</num>. The numbers of deaths were sixteen whites and nine <soCalled>“colored”</soCalled>; in <date when="1918">1918</date>, comparable numbers were forty and twenty-three — also a <num type="cardinal" value="2.5">two and a half</num>-fold increase in deaths for each race.</p>
+                <p>Reported influenza deaths from the State of <placeName id="#RHSP-0032">Virginia</placeName> Vital Statistics records for <placeName id="#RHSP-0002">Rockbridge County</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName> confirm a dramatic spike in <date when="1918">1918</date>, and in the county for <date when="1919">1919</date> and <date when="1920">1920</date> as well (Figure <num type="cardinal" value="17">seventeen</num>).*</p> <note place="bottom" type="author">* <placeName id="#RHSP-0003">Lexington</placeName> was included in <placeName id="#RHSP-0002">Rockbridge County</placeName> statistics because it was not a separate city at that time.</note>
+                <p>Figure <num type="cardinal" value="18">eighteen</num> shows the ratio of influenza deaths to total deaths from <date when="1917">1917</date> through <date when="1921">1921</date>. Note the jump in <placeName id="#RHSP-0004">Buena Vista</placeName> flu mortality in<date when="1918">1918</date>.</p>
+                <p>Nationally, nearly half of all deaths in <date when="1918">1918</date> resulted from influenza.147 The <placeName id="#RHSP-0004">Buena Vista</placeName> statistics support the national estimates. Figure <num type="cardinal" value="18">eighteen</num> shows that death rates in <date when="1919">1919</date> and <date when="1920">1920</date> both in <placeName id="#RHSP-0002">Rockbridge County</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName>, while not as high as the death rates in <date when="1918">1918</date>, were still higher than the baseline rates observed for <date when="1917">1917</date> and <date when="1921">1921</date>. In fact, <placeName id="#RHSP-0002">Rockbridge County</placeName> death rates for influenza, especially during the fall wave in <date when="1918">1918</date>, are possibly underestimates owing to underreporting or failure to determine causes of death accurately.</p>
                 <figure>
                     <graphic url="/assets/img/flu_figure_17.png"/>
                     <head>Figure 17: Influenza Deaths, <placeName id="#RHSP-0002">Rockbridge County</placeName> and Buena Vista, 1917-21</head>
@@ -1381,15 +1270,15 @@
                     <figDesc>Source: <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Office of Vital Records</figDesc>
                 </figure>
                 <pb n="263"/>
-                <p>Because the diagnoses of influenza and pneumonia in 1918 were not based on objective laboratory testing or case identification, statistics for influenza and pneumonia were combined to see if there was a difference when compared with the statistics for influenza alone. Data in Figures <num type="cardinal" value="18">eighteen</num>
+                <p>Because the diagnoses of influenza and pneumonia in <date when="1918">1918</date> were not based on objective laboratory testing or case identification, statistics for influenza and pneumonia were combined to see if there was a difference when compared with the statistics for influenza alone. Data in Figures <num type="cardinal" value="18">eighteen</num>
                 <figure>
                     <graphic url="/assets/img/flu_figure_19.png"/>
                     <head>Figure 19: Deaths from Influenza and Pneumonia as a ProportionOf All Deaths in <placeName id="#RHSP-0002">Rockbridge</placeName>, 1917-21</head>
                     <figDesc>Source: <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Office of Vital Records</figDesc>
                 </figure>
                 <pb n="264"/>
-                and <num type="cardinal" value="19">nineteen</num> show that, although there are slight differences in rates, the overall patterns are the same, with returns to baseline after 1920.</p> 
-                <p>Figure <num type="cardinal" value="20">twenty</num> compares <placeName id="#RHSP-0002">Rockbridge County</placeName> statistics with those of three nearby counties, <placeName id="#RHSP-0089">Augusta</placeName>, <placeName id="#RHSP-0091">Roanoke</placeName>, and <placeName id="#RHSP-0070">Alleghany</placeName>. The statistics for each county are similar, with greatly increased death rates from influenza in 1918 and a return to pre-1918 rates after 1920. For reasons already noted, it is likely that these rates are also underestimated.</p>
+                and <num type="cardinal" value="19">nineteen</num> show that, although there are slight differences in rates, the overall patterns are the same, with returns to baseline after <date when="1920">1920</date>.</p> 
+                <p>Figure <num type="cardinal" value="20">twenty</num> compares <placeName id="#RHSP-0002">Rockbridge County</placeName> statistics with those of three nearby counties, <placeName id="#RHSP-0089">Augusta</placeName>, <placeName id="#RHSP-0091">Roanoke</placeName>, and <placeName id="#RHSP-0070">Alleghany</placeName>. The statistics for each county are similar, with greatly increased death rates from influenza in <date when="1918">1918</date> and a return to pre-1918 rates after <date when="1920">1920</date>. For reasons already noted, it is likely that these rates are also underestimated.</p>
             </div>
             <div type="section" n="4">
                 <head>Economic Impact</head>
@@ -1405,17 +1294,14 @@
                     <figDesc>Source: <placeName id="#RHSP-0007">Washington and Lee</placeName> University Dean's Reports</figDesc>
                 </figure>
                 <pb n="265"/>
-                <p>In 1919, <persName id="#RHS-0006"><abbr>Dr.</abbr> McClung</persName> observed in his <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName> report: <q>“We had an unusual number of men throughout the year at sick calls and on the sick list. The prevailing illness was influenza and its attendant maladies; pneumonia, virulent throat infections, etc.”</q></p>
+                <p>In <date when="1919">1919</date>, <persName id="#RHS-0006"><abbr>Dr.</abbr> McClung</persName> observed in his <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName> report: <q>“We had an unusual number of men throughout the year at sick calls and on the sick list. The prevailing illness was influenza and its attendant maladies; pneumonia, virulent throat infections, etc.”</q></p>
             </div>
             <div type="section" n="5">
                 <head>Considerations for Future Pandemics</head> 
-                <p>A pandemic of the magnitude of the 1918 pandemic would cause economic stress, although the availability of antiviral therapies, vaccines, antibiotics, and rapid identification of cases would have an impact on morbidity and mortality.149 In contrast to the lack of communication in 1918, communication today is much faster due to myriad forces, including internet and social networking.150
-                <p><placeName id="#RHSP-0002">Rockbridge County</placeName>, <placeName id="#RHSP-0003">Lexington</placeName>, and <placeName id="#RHSP-0004">Buena Vista</placeName> currently have a total population of about <num type="cardinal" value="35000">thirty-five thousand</num>. Although the attack rate cannot be predicted, if a quarter to a third of the population were affected as it was in 1918, one might expect to see <num type="cardinal" value="9000">nine thousand</num> to <num type="cardinal" value="11000">eleven thousand</num> cases locally. Unfortunately, one cannot predict mortality.*</p>
-                <p>There are important lessons to be learned from the 1918 pandemic in <placeName id="#RHSP-0002">Rockbridge County</placeName>. At that time, help from state and federal government was not available; communities had to take care of themselves. This approach included using volunteers and family members as caregivers to compensate for inadequate numbers of medical personnel. Locally, hospitals were improvised, using firehouses, hotels, dormitories, and private residences. Elsewhere in <placeName id="#RHSP-0032">Virginia</placeName>, schools were used as hospitals in some locations and medical students were deployed.152</p>
+                <p>A pandemic of the magnitude of the <date when="1918">1918</date> pandemic would cause economic stress, although the availability of antiviral therapies, vaccines, antibiotics, and rapid identification of cases would have an impact on morbidity and mortality.149 In contrast to the lack of communication in <date when="1918">1918</date>, communication today is much faster due to myriad forces, including internet and social networking.150
+                <p><placeName id="#RHSP-0002">Rockbridge County</placeName>, <placeName id="#RHSP-0003">Lexington</placeName>, and <placeName id="#RHSP-0004">Buena Vista</placeName> currently have a total population of about <num type="cardinal" value="35000">thirty-five thousand</num>. Although the attack rate cannot be predicted, if a quarter to a third of the population were affected as it was in <date when="1918">1918</date>, one might expect to see <num type="cardinal" value="9000">nine thousand</num> to <num type="cardinal" value="11000">eleven thousand</num> cases locally. Unfortunately, one cannot predict mortality.*</p> <note place="bottom" type="author">* On <date when="2009-06-11">June 11, 2009</date>, in response to the appearance of a novel transmissible H1N1 influenza virus, the World Health Organization raised the worldwide pandemic alert level to Phase <num type="cardinal" value="6">six</num>, signifying that a global pandemic is under way, requiring surveillance and response.151</note>
+                <p>There are important lessons to be learned from the <date when="1918">1918</date> pandemic in <placeName id="#RHSP-0002">Rockbridge County</placeName>. At that time, help from state and federal government was not available; communities had to take care of themselves. This approach included using volunteers and family members as caregivers to compensate for inadequate numbers of medical personnel. Locally, hospitals were improvised, using firehouses, hotels, dormitories, and private residences. Elsewhere in <placeName id="#RHSP-0032">Virginia</placeName>, schools were used as hospitals in some locations and medical students were deployed.152</p>
                 <p>Questions regarding pandemic flu planning include whether to send college students home and, if so, when. Statistics on morbidity and mortality in <placeName id="#RHSP-0003">Lexington</placeName>'s two colleges were available only for <placeName id="#RHSP-0007">W&amp;L</placeName>, where <num type="percentage" value="35">thirty-five percent</num> to <num type="percentage" value="40">forty percent</num> percent of the student population fell ill and two students died 
-                <!--Footnote-->
-                <p>* On <date when="2009-06-11">June 11, 2009</date>, in response to the appearance of a novel transmissible H1N1 influenza virus, the World Health Organization raised the worldwide pandemic alert level to Phase <num type="cardinal" value="6">six</num>, signifying that a global pandemic is under way, requiring surveillance and response.151</p>
-                <!--Footnote-->
                 <figure>
                     <graphic url="/assets/img/flu_figure_22.png"/>
                     <head>Figure 22: Influenza's Impact on <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName>'s Hospital Utilization, 1918-22</head>
@@ -1427,9 +1313,9 @@
             </div>
             <div type="section" n="6">
                 Notes
-                1 Gina Kolata, Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It (Farrar, Straus, and Giroux, New York, 1999), p. 6.
+                1 Gina Kolata, Flu: The Story of the Great Influenza Pandemic of <date when="1918">1918</date> and the Search for the Virus That Caused It (Farrar, Straus, and Giroux, New York, 1999), p. 6.
                 2 www.cdc.gov/flu.
-                3 <persName id="#RHS-0075">Alfred W. Crosby</persName>, America's Forgotten Pandemic: The Influenza of 1918 (Cambridge University Press, Cambridge, 2003), p. 20.
+                3 <persName id="#RHS-0075">Alfred W. Crosby</persName>, America's Forgotten Pandemic: The Influenza of <date when="1918">1918</date> (Cambridge University Press, Cambridge, 2003), p. 20.
                 4 Ibid., pp. 21-24.
                 5 www.cdc.gov/flu.
                 6 Ibid.
@@ -1456,33 +1342,33 @@
                 26 Barry, pp. 231-41 and 246-52.
                 27 County News Yearbook, 1919.
                 28 Barry, pp. 182-84 and 185-93; <persName id="#RHS-0075">Crosby</persName>, pp. 37-40.
-                29 Lexington Gazette, September 4, 1918.
-                30 County News, September 18, 1918.
-                31 Gazette, September 4, 1918. 
+                29 Lexington Gazette, September 4,<date when="1918">1918</date>.
+                30 County News, September 18,<date when="1918">1918</date>.
+                31 Gazette, September 4,<date when="1918">1918</date>. 
                 32 <persName id="#RHS-0010">Henry Lewis Smith</persName>, Report of the President, Washington and Lee University, June 5, 1919.
-                33 County News, September 26, 1918.
+                33 County News, September 26,<date when="1918">1918</date>.<date when="1918">1918</date>.
                 34 Calyx (Washington and Lee student yearbook), 1919.
                 35 Annual Report of the Virginia Military Institute, 1918-19.
-                36 County News, October 3, 1918.
-                37 Gazette, October 1, 1918.
+                36 County News, October 3,<date when="1918">1918</date>.
+                37 Gazette, October 1,<date when="1918">1918</date>.
                 38 Annual Report of the Virginia Military Institute, 1918-19.
-                39 County News, October 3, 1918. 
+                39 County News, October 3,<date when="1918">1918</date>. 
                 40 Ibid. 
                 41 <persName id="#RHS-0075">Crosby</persName>, pp. 287-90.
-                42 County News, October 3, 1918.
+                42 County News, October 3,<date when="1918">1918</date>.
                 43 <persName id="#RHS-0010">Smith</persName>, Report of the President, June 5, 1919.
                 44 Calyx, 1919.
-                45 Gazette, October 9, 1918.
-                46 County News, October 3, 1918.
+                45 Gazette, October 9,<date when="1918">1918</date>.
+                46 County News, October 3,<date when="1918">1918</date>.
                 47 Gazette, October 9, 1918.
                 48 Calyx, 1919.
-                49 Gazette, October 9, 1918.
-                50 County News, October 10, 1918.
+                49 Gazette, October 9,<date when="1918">1918</date>.
+                50 County News, October 10,<date when="1918">1918</date>.
                 51 Gazette, October 9, 1918.
                 52 Ibid.
                 53 Gazette, November 20, 1918.
                 54 <persName id="#RHS-0018">Samuel P. Gibson</persName> diary, 1918.
-                55 County News, February 5, 1920.
+                55 County News, February 5, <date when="1920">1920</date>.
                 56 Gazette, October 9, 1918.
                 57 County News, October 17, 1918.
                 58 Gazette, October 9, 1918.
@@ -1551,12 +1437,12 @@
                 119 Carol R. Byerly, Fever of War: The Influenza Epidemic in the U.S. Army during World 
                 War I (New York University Press, New York, 2005), p. 186.
                 120 County News, February 6, 1919.
-                121 Rockbridge County News Yearbook, January 6, 1921.
+                121 Rockbridge County News Yearbook, January 6, <date when="1921">1921</date>.
                 122 County News, Oct 23, 1919.
                 123 Andrew Cliff, World Atlas of Epidemic Diseases (Oxford University Press, New York, 
                 2004), p. 89.
-                124 Gazette, January 28, 1920.
-                125 County News, January 29, 1920.
+                124 Gazette, January 28, <date when="1920">1920</date>.
+                125 County News, January 29, <date when="1920">1920</date>.
                 126 County News, February 5, 1920.
                 127 County News, February 19, 1920.
                 128 Gazette, February 18, 1920.
@@ -1601,9 +1487,9 @@
                 </div>
                 <div type="subsection" n="3">
                     Vital Statistics
-                    Annual Report of the State Board of Health and the State Health Commissioner to the Governor of Virginia for the Fiscal Year Ending September 30, 1918 (<placeName id="#RHSP-0015">Richmond</placeName>, 1919).
-                    Virginia Health Bulletin: Report of the Bureau of Vital Statistics for the Year 1918 (<placeName id="#RHSP-0015">Richmond</placeName>, 1920).
-                    Annual Report of the Bureau of Vital Statistics for the Year Ending December 31, 1919 (<placeName id="#RHSP-0015">Richmond</placeName>).
+                    Annual Report of the State Board of Health and the State Health Commissioner to the Governor of Virginia for the Fiscal Year Ending <date when="1918-09-30">September 30, 1918</date> (<placeName id="#RHSP-0015">Richmond</placeName>, 1919).
+                    Virginia Health Bulletin: Report of the Bureau of Vital Statistics for the Year <date when="1918">1918</date> (<placeName id="#RHSP-0015">Richmond</placeName>, 1920).
+                    Annual Report of the Bureau of Vital Statistics for the Year Ending <date when="1919-12-31">December 31, 1919</date> (<placeName id="#RHSP-0015">Richmond</placeName>).
                 </div>
                 <div type="subsection" n="4">
                     Meeting Minutes
