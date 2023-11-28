@@ -403,7 +403,7 @@
          <p>They arrived from <placeName id="#place-15">Campbell County</placeName> a few years before the tragedy. Just when, we don’t know, but there was talk of a fall from social and financial grace that preceded the move.</p>
          <p>We do know that <persName id="#RHS-0003">John Pettigrew</persName> had a job at <placeName id="#place-00">Tom Alphin’s distillery</placeName>, about six miles away from the <placeName id="#place-13">Pettigrew cabin</placeName> as the crow flies.</p>
          <p>And we know that the <placeName id="#place-13">Pettigrew cabin</placeName> could be seen from at least three other cabins.</p>
-         <p>Beyond that, we also know that a few days before the fire, <persName id="#RHS-0003">John Pettigrew</persName> left his cabin along with his eldest daughter, <persName id="#RHS-0008">Rachel</persName>. They apparently left on a <date when="1846-12-13" cert="speculate">Sunday</date>, though one account pushed it forward to <date when="1846-12-16">Wednesday</date>. Some accounts said they had gone to visit some friends, but just whom those friends were remains a mystery. By other accounts, <persName id="#RHS-0003">John</persName> left to go to work at <placeName id="#place-00">Tom Alphin’s whiskey mill</date>.</p>
+         <p>Beyond that, we also know that a few days before the fire, <persName id="#RHS-0003">John Pettigrew</persName> left his cabin along with his eldest daughter, <persName id="#RHS-0008">Rachel</persName>. They apparently left on a <date when="1846-12-13" cert="speculate">Sunday</date>, though one account pushed it forward to <date when="1846-12-16">Wednesday</date>. Some accounts said they had gone to visit some friends, but just whom those friends were remains a mystery. By other accounts, <persName id="#RHS-0003">John</persName> left to go to work at <placeName id="#place-00">Tom Alphin’s whiskey mill</placeName></date>.</p>
          <p>Just where <persName id="#RHS-0008">Rachel</persName> stayed — and where <persName id="#RHS-0003">John</persName> stayed — are mysteries.</p>
          <p>In any event, on that <date when="1846-12-15">December Tuesday</date>, after <persName id="#RHS-0008">Rachel</persName> and <persName id="#RHS-0003">John</persName> had, by most accounts, left, a neighbor saw the <placeName id="#place-13">Pettigrew cabin</date>, smoke rising from the chimney. Nothing remarkable.</p>
          <p>On <date when="1846-12-16">Wednesday</date>, it began to snow. And snow. And snow. <num type="cardinal" value="03">Three</num> feet of the stuff in all, by most accounts</p>
@@ -577,4 +577,4 @@
 </text>
 </TEI>
 
-          
+                
