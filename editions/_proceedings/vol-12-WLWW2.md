@@ -9,6 +9,6 @@ order: 01
 author: Taylor L. Sanders II
 date: 2003-07-26
 featured: true
-image: /assets/img/redhouse.png
+image: /assets/img/WW2PIC.png
 description: Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.
 ---
