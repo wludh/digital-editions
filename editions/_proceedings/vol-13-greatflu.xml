@@ -349,7 +349,7 @@
                 </location>
             </place>
             <place xml:id="RHSP-0006" type="College">
-                <placeName><placeName id="#RHSP-0006">Virginia Military Institute</placeName>
+                <placeName id="#RHSP-0006">Virginia Military Institute</placeName>
                 <location>
                     <geo>37.79125753398248, -79.4354340475002</geo>
                 </location>
