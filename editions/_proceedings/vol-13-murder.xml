@@ -18,7 +18,7 @@
   <publicationStmt>
    <publisher> 
       Rockbridge Historical Society</publisher>
-      <distributor>  Rockbridge Historiical Society</distributor><distributor> Washington and Lee University</distributor>
+      <distributor>  Rockbridge Historical Society</distributor><distributor> Washington and Lee University</distributor>
       <pubPlace> Lexington Virginia </pubPlace>
          <date>2009</date>
       <idno typle="ISBN">978-0-9777220-2-0</idno>
@@ -374,8 +374,7 @@
 <text>
    <front>
       <title>The <placeName id="#place-04">House Mountain</placeName> Tragedy of <date when="1846">1846</date></title>
-      <p><persName id="#RHS-0043">Doug Harwood</persName> is editor of the monthly Rockbridge Advocate, which he founded in <date when="1992">1992</date>. A <date when="1974">1974</date> graduate of Washington and Lee University with a major in journalism, he has always been fascinated by Rockbridge history, especially if it is unusual and bizarre. He presented this paper on <date when="2005-01-31">January 31, 2005</date>, in <placeName id="#place-11">Washington and Lee Uniersity’s Evans Hall</placeName>.
-      </p>
+      <p><persName id="#RHS-0043">Doug Harwood</persName> is editor of the monthly Rockbridge Advocate, which he founded in <date when="1992">1992</date>. A <date when="1974">1974</date> graduate of Washington and Lee University with a major in journalism, he has always been fascinated by Rockbridge history, especially if it is unusual and bizarre. He presented this paper on <date when="2005-01-31">January 31, 2005</date>, in <placeName id="#place-11">Washington and Lee Uniersity’s Evans Hall</placeName>.</p>
    </front> 
       <body>
       <pb n="153"/>  
@@ -572,7 +571,7 @@
          <figure>
  <graphic url="vol13murder_05.png"/>
  <head>Figure Five:An Zoomed in Image of the Enscription on One of the Sides of the Monument</head>
- <figDesc>The enscription says: <p>"THIS MONUMENT WAS ERECTED BY A SYMPATHISING COMMUNITY IN <date when="1847">1847</date> REPLACED BY THE CITIZENS OF <placeName id="#place-26">BUFFALO</placeName> &amp; <placeName id="#place-24">COLLIERSTOWN</placeName> <date when="1902">1902</date>."</p> </figDesc>
+ <figDesc>The enscription says: <p>"THIS MONUMENT WAS ERECTED BY A SYMPATHISING COMMUNITY IN <date when="1847">1847</date> REPLACED BY THE CITIZENS OF <placeName id="#place-26">BUFFALO</placeName> &amp; <placeName id="#place-24">COLLIERSTOWN</placeName><date when="1902">1902</date>."</p> </figDesc>
 </figure>
       </body>
 </text>
