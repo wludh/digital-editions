@@ -9,6 +9,6 @@ order: 01
 author: Doug Harwood
 date: 2005-1-31
 featured: true
-image: /assets/img/redhouse.png
+image: /assets/img/housemountain.png
 description: A recount of the death of countless members of the Pettigrew family in 1846 and the posibility of a murder.
 ---
