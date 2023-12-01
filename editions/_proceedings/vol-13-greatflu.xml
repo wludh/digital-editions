@@ -988,7 +988,7 @@
                     <pb n="244"/>
                     weather in <placeName id="#RHSP-0004">Buena Vista</placeName> and some events of national interest.54 The <persName id="#RHS-0018">Gibson</persName> diary is an important source of information about influenza events in <placeName id="#RHSP-0004">Buena Vista</placeName> from mid-September <date when="1918">1918</date> through <date when="1919-03">March 1919</date>, as no copies of the <placeName id="#RHSP-0004">Buena Vista</placeName> newspaper are known to exist for that period. Figure 2 is an example from the diary. (Note references to the Spanish flu, which he spelled <soCalled>“flue.”</soCalled>) The selection is transcribed here to show the misspellings, characteristic ledger-like spacing, and lack of punctuation:</p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_2.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_2.png"/>
                         <head>Figure 2: Excerpt from the Diary of <persName id="#RHS-0018">Samuel P. Gibson</persName>, <date when="1918">1918</date></head>
                         <figDesc>Source: <persName id="#RHS-0018">Gibson</persName> diary, private collection</figDesc>
                     </figure>
@@ -1030,7 +1030,7 @@
                     <pb n="246"/>
                     whisky and alcohol from <placeName id="#RHSP-0047">Baltimore</placeName> in barrel lots to aid in the treatment of the epidemic. Internal revenue agents in <placeName id="#RHSP-0048">North Carolina</placeName> and <placeName id="#RHSP-0032">Virginia</placeName> who had confiscated liquor were expected to turn it over to hospitals, physicians, and health officers.</p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_3.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_3.png"/>
                         <head>Figure 3</head>
                         <figDesc>Source: <bibl><title>Lexington Gazette</title></bibl>, <date when="1918-10-09">October 9, 1918</date>.</figDesc>
                     </figure>
@@ -1092,7 +1092,7 @@
                     <pb n="251"/>
                     graduate was among the dead.<note n="85" place="foot" type="author"></note> A case fatality rate of <num type="percentage" value="5.7">five and seven tenths percent</num> percent was calculated for <placeName id="#RHSP-0014">Camp Lee</placeName>. In comparison, a case fatality rate of <num type="percentage" value="2.5">two and a half percent</num> percent was later estimated for the civilian population in the <placeName id="#RHSP-0011">United States</placeName>.<note n="86" place="foot" type="author"></note></p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_4.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_4.png"/>
                         <head>Figure 4</head>
                         <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1918-10-24">October 24, 1918</date>.</figDesc>
                     </figure>
@@ -1104,7 +1104,7 @@
                     <pb n="252"/>
                     erings were still dangerous and that close personal contact should be avoided. It called attention to the law prohibiting use of common drinking cups, which included the common communion wine cup: <q>“All churches using the latter are offenders against the statutes of this commonwealth . . . preachers and church officers are cautioned.”</q><note n="94" place="foot" type="author"></note></p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_5.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_5.png"/>
                         <head>Figure 5</head>
                         <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1918-11-07">November 7, 1918</date>.</figDesc>
                     </figure>
@@ -1112,7 +1112,7 @@
                     <p><persName id="#RHS-0003"><abbr>Dr.</abbr> Glasgow</persName> reported that there were <q>“only eleven deaths”</q> from pneumonia in <placeName id="#RHSP-0003">Lexington</placeName>.<note n="96" place="foot" type="author"></note> The word <soCalled>“only”</soCalled> misrepresents the magnitude of the epidemic, because eleven deaths from influenza, mainly as a complication of pneumonia, would have been much higher than the usual annual number of deaths from pneumonia (two to four) reported in previous years. Note that no deaths were associated with a <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName> flu outbreak that occurred in 1916.<note n="97" place="foot" type="author"></note> Although several cases were observed among <soCalled>“colored people”</soCalled> in <placeName id="#RHSP-0003">Lexington</placeName>, very few deaths occurred<note n="98" place="foot" type="author"></note> — consistent with general observations of lower death rates in black Americans during the pandemic.<note n="99" place="foot" type="author"></note> Unfortunately, there are no firm statistics tracking flu cases by race in <placeName id="#RHSP-0003">Lexington</placeName>.</p>
                     <p><placeName id="#RHSP-0003">Lexington</placeName> schools reopened on Friday, <date when="1918-11-08">November 8</date>. Attendance was <q>“fairly good, although some children were kept at home by parents for fear that the disease had not entirely been stamped out.”</q> Drug stores were permitted to sell drinks and pool rooms were open for business. Quarantines having been lifted at the colleges, <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName> cadets and the men of the <choice><expan>Student Army Training Corps</expan><abbr>S.A.T.C.</abbr></choice> at <placeName id="#RHSP-0007">Washington and Lee</placeName> crowded the streets on Saturday.</p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_6.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_6.png"/>
                         <head>Figure 6</head>
                         <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1918-11-07">November 7, 1918</date>.</figDesc>
                     </figure>
@@ -1126,7 +1126,7 @@
                     <p>In contrast to conditions in <placeName id="#RHSP-0003">Lexington</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName>, the news from the county was not as good. <q>“There have been so many cases of influenza and deaths . . . in <placeName id="#RHSP-0077">Arnold's Valley</placeName> and along the <placeName id="#RHSP-0076">James River</placeName> that it is almost impossible for a correspondent to keep up with and record all of them.”</q><note n="102" place="foot" type="author"></note> <soCalled>“Distressing”</soCalled> news included the death of a widow, <persName id="#RHS-0059"><abbr>Mrs.</abbr> Foster</persName>, her married daughter, and the daughter's twelve-year-old son. By <date when="1918-11-13">November 13</date>, twenty new cases of influenza were reported in <placeName id="#RHSP-0058">Natural Bridge</placeName>. The epidemic was still in full force, bringing whole families down. The South River Lumber company shut down its sawmill because so many employees were sick.</p>
                     <p><q>“The angel of death visited many homes in the valley, leaving sore and lonely hearts.”</q><note n="103" place="foot" type="author"></note> The deaths of three babies were noted. Statewide vital statistics records showed increased numbers of in infant deaths in <date when="1918">1918</date> (Figure <num type="cardinal" value="8">eight</num>).</p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_7.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_7.png"/>
                         <head>Figure 7</head>
                         <figDesc>Source: <bibl><title>Lexington Gazette</title></bibl>, <date when="1918-11-06">November 6, 1918</date>.</figDesc>
                     </figure>
@@ -1135,7 +1135,7 @@
                     <p>An even more serious outbreak extended along <placeName id="#RHSP-0079">Buffalo Creek</placeName>, with an estimated <num type="cardinal" value="100">one hundred</num> cases of influenza, eight cases of pneumonia, and several deaths. It was reported that this outbreak was brought in by young people of the locality visiting at <placeName id="#RHSP-0080">Clifton Forge</placeName>.<note n="105" place="foot" type="author"></note> And the influenza finally appeared in <placeName id="#RHSP-0050">Rockbridge Baths</placeName>, causing students to <q>“abandon the school and it was closed.”</q> Nearly all the twenty cases there started with one family, the head of which returned from <placeName id="#RHSP-0054">West Virginia</placeName> with the flu. Several county schools were closed as a precaution. Shocking deaths included those of <persName id="#RHS-0061"><abbr>Mrs.</abbr> Walter Murray</persName>, twenty-nine, mother of five children, all sick with influenza when she died; <persName id="#RHS-0063">Edward Shewey</persName>, <q>“a young man of fine physical powers”</q>; <persName id="#RHS-0062">Andrew Nicely</persName>, forty-five, and two of his young daughters, ages four and six; and <persName id="#RHS-0064">Virginia Steele</persName> of <placeName id="#RHSP-0081">Steeles Tavern</placeName>, <q>“just beginning to enter into the joys and pleasures of girlhood.”</q><note n="106" place="foot" type="author"></note> In early December, <persName id="#RHS-0065">Lieutenant J. Henry Smith</persName>, twenty-one, eldest son of <placeName id="#RHSP-0007">Washington and Lee</placeName> <persName id="#RHS-0010">President Henry Louis Smith</persName>, died at <placeName id="#RHSP-0082">Camp Taylor</placeName> in <placeName id="#RHSP-0083">Louisville, Kentucky</placeName>, of pneumonia. Lt. Smith had been a <q>“splendid specimen of physical manhood”</q> and the <q>“picture of health”</q> when he was on leave in <placeName id="#RHSP-0003">Lexington</placeName> two months before.<note n="107" place="foot" type="author"></note></p>
                     <p>Christmas Day <date when="1918">1918</date> was rather somber: cloudy, with a cold wind, and <q>“remarkably drippy.”</q><note n="108" place="foot" type="author"></note> In <placeName id="#RHSP-0003">Lexington</placeName>, <q>“cash sales were remarkably large, a natural consequence of the abundance of money.”</q> Schools in <placeName id="#RHSP-0003">Lexington</placeName> re-opened on <date when="1918-12-31">December 31</date> to make up for days lost due to influenza, but a number of schools in the county stayed closed because of “the continuance of influenza.”<note n="109" place="foot" type="author"></note></p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_8.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_8.png"/>
                         <head>Figure 8: Impact of Influenza on Infant Deaths, <date when="1918">1918</date></head>
                         <figDesc>Source: <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Office of Vital Records</figDesc>
                     </figure>
@@ -1156,12 +1156,12 @@
                     call of the toastmaster, read in measured terms the men from <placeName id="#RHSP-0002">Rockbridge</placeName> who had made, 'The Supreme Sacrifice in the World War'.”</q><note n="118" place="foot" type="author"></note> <persName id="#RHS-0007">General Nichols</persName> cited thirteen men who died in battle, seventeen who died of disease, and two who died in accidents. Of interest, of those who died of disease, fifteen had died in the <placeName id="#RHSP-0011">United States</placeName>, not in <placeName id="#RHSP-0016">Europe</placeName>; eleven of them had died in the camps — four at <placeName id="#RHSP-0014">Camp Lee</placeName> alone. Influenza was a likely cause of death in at least eleven of the men, based on dates of death.</p> 
                     <p>Deaths of local men from combat, disease, and other causes were compared to national estimates from papers published locally early in <date when="1919">1919</date> and to official statistics available later from the War Department.<note n="119" place="foot" type="author"></note> The <placeName id="#RHSP-0002">Rockbridge County</placeName> statistics are very similar to official War Department statistics that link <num type="percentage" value="50">fifty percent</num> percent or more of World War I deaths to disease (Figures 9 and 10).</p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_9.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_9.png"/>
                         <head>Figure 9: World War I Deaths by Cause — Local Reports</head>
                         <figDesc>Source: Local newspapers</figDesc>
                     </figure>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_10.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_10.png"/>
                         <head>Figure 10: World War I Deaths by Cause — War Department</head>
                         <figDesc>Source: <placeName id="#RHSP-0011">U.S.</placeName> War Department</figDesc>
                     </figure>
@@ -1182,7 +1182,7 @@
                     <pb n="258"/>
                     had only one nurse capable of duty for twenty patients. Nursing needs were met by family, friends, and neighbors <q>“coming to the rescue.”</q> Some schools in the county closed, and attendance at open schools was small because of <q>“fear of influenza with bad weather.”</q><note n="126" place="foot" type="author"></note> The annual Fancy Dress Ball at <placeName id="#RHSP-0007">Washington and Lee</placeName>, scheduled for <date when="1920-02-10">February 10</date>, was called off because of influenza.</p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_11.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_11.png"/>
                         <head>Figure 11</head>
                         <figDesc>Source: <bibl><title>Lexington Gazette</title></bibl>, <date when="1920-01-28">January 28, 1920</date>.</figDesc>
                     </figure>
@@ -1192,7 +1192,7 @@
                     <p>A number of unexpected and shocking deaths occurred in February. <persName id="#RHS-0077"><abbr>Mrs.</abbr> O'Neal Moses</persName>, age thirty-one, mother, trained soprano, and member of the <placeName id="#RHSP-0003">Lexington</placeName> Presbyterian choir, died in less than a week from influenza and pneumonia.<note n="131" place="foot" type="author"></note> The young <persName id="#RHS-0071">Mayor Jackson</persName>, who had spoken so passionately on Lee-Jackson Day the year before, died of heart failure following what appeared to be a mild case of influenza.<note n="132" place="foot" type="author"></note> Deaths of parent-child pairs and <q>“husband and wife buried in same grave in <placeName id="#RHSP-0005">Staunton</placeName>”</q> were reported.<note n="133" place="foot" type="author"></note> There was <q>“much sickness in <placeName id="#RHSP-0058">Natural Bridge</placeName>,”</q> and <persName id="#RHS-0070"><abbr>Dr.</abbr> Lloyd</persName> was busy with <num type="cardinal" value="100">one hundred</num> cases. <q>“Last winter the colored people were almost exempt from influenza, but this time many of this race are down with it.”</q><note n="134" place="foot" type="author"></note></p>
                     <p>The flu subsided in early March, coincident with the arrival of two blizzards and 8-degree weather.<note n="135" place="foot" type="author"></note> Perhaps the blizzards helped by forcing everyone to stay inside.</p>
                     <figure>
-                        <graphic url="/assets/img/flu_figure_12.png"/>
+                        <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_12.png"/>
                         <head>Figure 12</head>
                         <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1920-02-19">February 19, 1920</date></figDesc>
                     </figure>
@@ -1207,12 +1207,12 @@
                 <pb n="260"/>
                 <q>“no time and no desire to wade through the technical phraseology”</q> (Figure <num type="cardinal" value="14">fourteen</num>).<note n="139" place="foot" type="author"></note></p>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_13.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_13.png"/>
                     <head>Figure 13: Influenza Deaths in <placeName id="#RHSP-0002">Rockbridge</placeName> by Age, <date when="1920">1920</date></head>
                     <figDesc>Source: <bibl><title>Rockbridge Year Book</title></bibl>, <date when="1920">1920</date></figDesc>
                 </figure>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_14.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_14.png"/>
                     <head>Figure 14: Respiratory Etiquette</head>
                     <figDesc>Source: <bibl><title>Lexington Gazette</title></bibl>, from Bureau of Public Health (<placeName id="#RHSP-0011">U.S.</placeName> Public Health Service).</figDesc>
                 </figure>
@@ -1234,7 +1234,7 @@
                     <item>When the air is pure, breathe all of it you can — breathe deeply.</item>
                 </list>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_15.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_15.png"/>
                     <head>Figure 15</head>
                     <figDesc>Source: <bibl><title>Rockbridge County News</title></bibl>, <date when="1918-10-10">October 10,<date when="1918">1918</date>.</date></figDesc>
                 </figure>   
@@ -1248,7 +1248,7 @@
                 <p>In a December <date when="1919">1919</date> diary entry, <persName id="#RHS-0018">Samuel Gibson</persName> of <placeName id="#RHSP-0004">Buena Vista</placeName> wrote, <q>“We had <num type="cardinal" value="43">forty-three</num> white and <num type="cardinal" value="5">five</num> colored deaths from influenza this Fall.”</q> Comparing those figures with the overall <placeName id="#RHSP-0004">Buena Vista</placeName> population shows a death rate of <num type="percentage" value="1.4">one and four tenths percent</num> percent for whites and <num type="percentage" value="1.3">one and three tenths percent</num> percent for blacks.<note n="144" place="foot" type="author"></note> <persName id="#RHS-0075">Crosby</persName> observed that African American civilians had higher death rates from respiratory disease than whites except for the period during the pandemic.<note n="145" place="foot" type="author"></note> The <placeName id="#RHSP-0004">Buena Vista</placeName> mortality rates for blacks and whites, however, appeared to be similar.</p>
                 <p><persName id="#RHS-0018">Gibson</persName> kept a running tally of deaths since 1890. The numbers used in Figure <num type="cardinal" value="16">sixteen</num> are rough, as he did not compile his tally on the same day every year. About two-thirds of the deaths he reported in <date when="1918">1918</date> resulted from influenza — a <num type="cardinal" value="2.5">two and a half</num>-fold increase over the figure for <date when="1917">1917</date>.</p>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_16.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_16.png"/>
                     <head>Figure 16: Deaths in <placeName id="#RHSP-0004">Buena Vista</placeName>, 1916-23</head>
                     <figDesc>Source: <persName id="#RHS-0018">Samuel P. Gibson</persName> diary</figDesc>
                 </figure>
@@ -1258,12 +1258,12 @@
                 <p>Figure <num type="cardinal" value="18">eighteen</num> shows the ratio of influenza deaths to total deaths from <date when="1917">1917</date> through <date when="1921">1921</date>. Note the jump in <placeName id="#RHSP-0004">Buena Vista</placeName> flu mortality in<date when="1918">1918</date>.</p>
                 <p>Nationally, nearly half of all deaths in <date when="1918">1918</date> resulted from influenza.<note n="147" place="foot" type="author"></note> The <placeName id="#RHSP-0004">Buena Vista</placeName> statistics support the national estimates. Figure <num type="cardinal" value="18">eighteen</num> shows that death rates in <date when="1919">1919</date> and <date when="1920">1920</date> both in <placeName id="#RHSP-0002">Rockbridge County</placeName> and <placeName id="#RHSP-0004">Buena Vista</placeName>, while not as high as the death rates in <date when="1918">1918</date>, were still higher than the baseline rates observed for <date when="1917">1917</date> and <date when="1921">1921</date>. In fact, <placeName id="#RHSP-0002">Rockbridge County</placeName> death rates for influenza, especially during the fall wave in <date when="1918">1918</date>, are possibly underestimates owing to underreporting or failure to determine causes of death accurately.</p>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_17.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_17.png"/>
                     <head>Figure 17: Influenza Deaths, <placeName id="#RHSP-0002">Rockbridge County</placeName> and Buena Vista, 1917-21</head>
                     <figDesc>Source: <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Office of Vital Records</figDesc>
                 </figure>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_18.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_18.png"/>
                     <head>Figure 18: Deaths from Influenza as a Proportion Of All Deaths in <placeName id="#RHSP-0002">Rockbridge</placeName>, 1917-21</head>
                     <figDesc>Source: <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Office of Vital Records</figDesc>
                 </figure>
@@ -1272,7 +1272,7 @@
                 <pb n="264"/>
                 and <num type="cardinal" value="19">nineteen</num> show that, although there are slight differences in rates, the overall patterns are the same, with returns to baseline after <date when="1920">1920</date>.</p>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_19.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_19.png"/>
                     <head>Figure 19: Deaths from Influenza and Pneumonia as a ProportionOf All Deaths in <placeName id="#RHSP-0002">Rockbridge</placeName>, 1917-21</head>
                     <figDesc>Source: <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Office of Vital Records</figDesc>
                 </figure>
@@ -1282,12 +1282,12 @@
                 <head>Economic Impact</head>
                 <p>Pandemics have considerable economic impact.<note n="148" place="foot" type="author"></note> Aside from local news items regarding the negative impact of the epidemic on <placeName id="#RHSP-0004">Buena Vista</placeName> businesses and the shortage of telephone operators and pharmacists in <placeName id="#RHSP-0003">Lexington</placeName>, little was said locally. The <placeName id="#RHSP-0007">W&amp;L</placeName> dean's reports and <placeName id="#RHSP-0006"><placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName></placeName> surgeon's reports were a source of indirect information concerning effects on health costs (Figures <num type="cardinal" value="21">twenty-one</num> and <num type="cardinal" value="22">twenty-two</num>).</p>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_20.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_20.png"/>
                     <head>Figure 20: Deaths from Influenza and Pneumonia As a Proportion of All Deaths in Nearby Counties, 1917-21</head>
                     <figDesc>Source: <placeName id="#RHSP-0011">U.S.</placeName> census data; <placeName id="#RHSP-0032">Virginia</placeName> Department of Health, Division of Vital Records</figDesc>
                 </figure>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_21.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_21.png"/>
                     <head>Figure 21: Influenza's Effect on Health Care Costs at <placeName id="#RHSP-0007">W&amp;L</placeName>, 1917-20</head>
                     <figDesc>Source: <placeName id="#RHSP-0007">Washington and Lee</placeName> University Dean's Reports</figDesc>
                 </figure>
@@ -1303,7 +1303,7 @@
                 <pb n="266"/>
                 from influenza. There is no question that the extent of illness in the student population taxed health-care resources locally.</p>
                 <figure>
-                    <graphic url="/assets/img/flu_figure_22.png"/>
+                    <graphic url="https://wludh.github.io/digital-editions/assets/img/vol13-flu/flu_figure_22.png"/>
                     <head>Figure 22: Influenza's Impact on <placeName id="#RHSP-0006"><choice><expan>Virginia Military Institute</expan><abbr>V.M.I.</abbr></choice></placeName>'s Hospital Utilization, 1918-22</head>
                     <figDesc>Source: <placeName id="#RHSP-0006">Virginia Military Institute</placeName> Surgeon's Reports</figDesc>
                 </figure>
