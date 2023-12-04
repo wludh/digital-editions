@@ -46,9 +46,7 @@ h1 {
 	margin: 2rem;
 }
 
-tei-note.card {
-	display:block;
-}
+
 footer {
 	background-color: $wlu-blue;
 	color: #0076aa;
@@ -172,7 +170,7 @@ tei-idno[type="isbn"]::before {
 	font-weight: bold;
 }
 
-.btn-info {
+#TEI .btn-info {
 	content:"Note";
 	background-color: #31d2f2;
   	border-radius: .25rem;
@@ -187,6 +185,9 @@ tei-idno[type="isbn"]::before {
 }
 tei-note {
 display: inline;
+}
+tei-note.card {
+	display:block;
 }
 
 tei-resp[rend="bold"] {

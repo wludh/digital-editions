@@ -27,7 +27,7 @@
         <h2>{{page.author}}</h2>
             </div>
     <br />  
-    <div class="accordion" id="accordionExample">
+    <div class="col-10 accordion" id="accordionExample">
       <div class="accordion-item">
         <h2 class="accordion-header">
           <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -42,14 +42,11 @@
     </div>
 
       <div class="row gx-5">
-        <div class="col-8" id="TEI-front"></div>
-        <div class="col-8" id="TEI"></div>
-        <div class="col-4" id="side">
-          <div id="notes"></div>
+        <div class="col-10" id="TEI-front"></div>
+        <div class="col-10" id="TEI"></div>
         </div>
       </div>
-    </div>
-    
+
 
     {% include footer.html %}
     <script src="{{ '/assets/js/CETEI.js' | prepend: site.baseurl }}"></script>
@@ -66,6 +63,14 @@ var CETEIcean = new CETEI();
         "placeName": [
           ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
         ],
+        "note": function(elt) {
+        let button = `
+            <button class="btn btn-info" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> Note</button>
+            `;
+          elt.insertAdjacentHTML("beforebegin",button);            
+          elt.setAttribute("class","collapse card card-body");
+          elt.setAttribute("id","collapseExample");
+      }
 
      }});
 
