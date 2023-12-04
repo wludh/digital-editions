@@ -196,8 +196,12 @@ Treat like images.
 
 ### Student Annotations
 
-<note n="1">Here is the text of your annotation.</note>
+`<note n="1">Here is the text of your annotation.</note>`
 
 You could include a `type` attribute if you're distinguishing between types of notes, so `<note type="editorial">Blah blah</note>`.
+
+If you're including a link inside your note, then use the following: 
+
+`<note>This is a <ref target="http://www.google.com">link</ref>.</note>`
 
 ### References
