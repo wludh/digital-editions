@@ -142,7 +142,7 @@ tei-publisher::before {
 	font-weight: bold;
 }
 
-tei-date::before {
+tei-body > tei-date::before {
 	content: "Date: ";
 	font-weight: bold;
 }
