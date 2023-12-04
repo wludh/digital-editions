@@ -196,6 +196,8 @@ Treat like images.
 
 ### Student Annotations
 
-<note></note>
+<note n="1">Here is the text of your annotation.</note>
+
+You could include a `type` attribute if you're distinguishing between types of notes, so `<note type="editorial">Blah blah</note>`.
 
 ### References

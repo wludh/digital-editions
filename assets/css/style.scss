@@ -42,7 +42,7 @@ h1 {
 }
 .row > .card {
 	padding: 0px;
-	width: 16rem;
+	width: 20rem;
 	margin: 2rem;
 }
 
@@ -169,13 +169,21 @@ tei-idno[type="isbn"]::before {
 	font-weight: bold;
 }
 
-tei-note {
-	display: block;
-	margin: 1em 0 1em 0;
+.btn-info {
+	content:"Note";
+	background-color: #31d2f2;
+  	border-radius: .25rem;
+  	padding: 2px;
+  	margin:5px;
+  	display:inline;
+  	line-height:1.5;
 }
 
-tei-note:before {
-content: attr(n)": ";
+.card-body {
+	margin:1rem;
+}
+tei-note {
+display: inline;
 }
 
 tei-resp[rend="bold"] {

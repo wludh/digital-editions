@@ -1,5 +1,5 @@
 ---
-layout: edition
+layout: edition-n
 title: Red House
 initial: "R"
 rest: "ed House"

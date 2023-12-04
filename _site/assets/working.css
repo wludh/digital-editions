@@ -1,0 +1,35 @@
+#side tei-note {
+	display: block;
+	margin: 1em 0 1em 0;
+}
+
+#side tei-note:before {
+content: attr(n)". ";
+}
+
+#TEI tei-note[type="authorial"]{
+display:none;
+}
+
+
+<button type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="true" aria-controls="collapseExample" class="btn btn-info">
+Note
+</button>
+
+<div class="collapse show" id="collapseExample" style="">
+<div class="card card-body">
+
+<tei-note n="1" data-origname="note" data-processed="">Note Number 1</tei-note>
+
+</div>
+</div>
+
+
+tei-note::before {
+  content: "Note";
+  background-color: #31d2f2;
+  border-radius: .25rem;
+  padding: 5px;
+  margin: 5px;
+  display: inline;
+}

@@ -172,11 +172,10 @@ tei-birth:before {
   content: "Birth: ";
 }
 tei-p > tei-note:before {
-  content: "("attr(n)")";
+
 }
 
 tei-p > tei-note {
-  display: inline;
 
 }
 /* c */

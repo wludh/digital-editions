@@ -1,0 +1,140 @@
+
+{%- assign url = '/' | prepend: site.baseurl | prepend: site.url -%}
+{%- assign title = site.title -%}
+{%- assign description = site.description -%}
+{%- assign image = '/assets/img/image.jpg' | prepend: site.baseurl | prepend: site.url -%}
+
+{%- if page.url != '/' -%}
+  {%- if page.url -%}
+    {%- assign url = page.url | prepend: site.baseurl | prepend: site.url -%}
+  {%- endif -%}
+  {%- if page.title -%}
+    {%- assign title = page.title | append: ' | ' | append: site.title  -%}
+  {%- endif -%}
+  {%- if page.description -%}
+    {%- assign description = page.description -%}
+  {%- endif -%}
+{%- endif -%}
+
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+  <body>
+{% include header.html %}
+    <div class="container-md">
+      
+      <div class="lead">
+        <h1><span class="display-1">{{ page.initial }}</span><span class="display-6">{{ page.rest }}</span></h1>
+        <h2>{{page.author}}</h2>
+            </div>
+    <br /> 
+    <div class="row gx-5"> 
+    <div class="col-10 accordion" id="accordionExample">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            Metadata
+          </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+          <div class="accordion-body" id="teiheader">
+          </div>
+        </div>
+      </div> 
+    </div>
+
+      
+        <div class="col-10" id="TEI-front"></div>
+        <div class="col-10" id="TEI"></div>
+
+      </div>
+    </div>
+    
+
+    {% include footer.html %}
+    <script src="{{ '/assets/js/CETEI.js' | prepend: site.baseurl }}"></script>
+    <script>
+
+
+var CETEIcean = new CETEI();
+
+  CETEIcean.addBehaviors({"tei":{
+        // Overrides the default ptr behavior, displaying a short link
+        "persName": [
+          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+        ],
+        "placeName": [
+          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+        ],
+        "note": function(elt) {
+        let button = `
+            <button class="btn btn-info" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> Note</button>
+            `;
+          elt.insertAdjacentHTML("beforebegin",button);            
+          elt.setAttribute("class","collapse card card-body");
+          elt.setAttribute("id","collapseExample");
+      }
+     }});
+`
+
+
+function insertBefore(newNode, existingNode) {
+    existingNode.parentNode.insertBefore(newNode, existingNode);
+}
+
+ if (el && el.parentNode) {
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+  }
+}
+
+  this.hideContent(elt, true);
+  elt.appendChild(table);
+
+
+ // element that will be wrapped
+  var el = document.querySelector('div.wrap_me');
+  
+  // create wrapper container
+  var wrapper = document.createElement('div');
+  
+  // insert wrapper before el in the DOM tree
+  el.parentNode.insertBefore(wrapper, el);
+  
+  // move el into wrapper
+  wrapper.appendChild(el);`
+
+  CETEIcean.getHTML5("{{ page.file }}", function(data) {
+    var front = data.querySelector("tei-front")
+        document.getElementById("TEI-front").innerHTML = "";
+        document.getElementById("TEI-front").appendChild(front);
+        CETEIcean.addStyle(document, data)
+  });
+
+  CETEIcean.getHTML5("{{ page.file }}", function(data) {
+    var text = data.querySelector("tei-body")
+        document.getElementById("TEI").innerHTML = "";
+        document.getElementById("TEI").appendChild(text);
+        CETEIcean.addStyle(document, data)
+  });
+
+  CETEIcean.getHTML5("{{ page.file }}", function(data) {
+    var header = data.querySelector("tei-teiheader")
+        document.getElementById("teiheader").innerHTML = "";
+        document.getElementById("teiheader").appendChild(header);
+        CETEIcean.addStyle(document, data)
+  });
+
+  CETEIcean.getHTML5("{{ page.file }}", function(data) { 
+
+  });
+
+
+      // Alternatively, use then()
+      // (new CETEI).getHTML5('testTEI.xml').then(function(data){
+      //   document.getElementById("TEI").appendChild(data);
+      // });
+    </script>
+   <script src="{{ '/assets/js/script.js' | prepend: site.baseurl }}"></script>     
+  </body>
+</html>

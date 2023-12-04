@@ -76,8 +76,9 @@
         <h1><span class="display-1">R</span><span class="display-6">ed House</span></h1>
         <h2>Dr. Francis Lee Thurman</h2>
             </div>
-    <br />  
-    <div class="accordion" id="accordionExample">
+    <br /> 
+    <div class="row gx-5"> 
+    <div class="col-10 accordion" id="accordionExample">
       <div class="accordion-item">
         <h2 class="accordion-header">
           <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -91,12 +92,10 @@
       </div> 
     </div>
 
-      <div class="row gx-5">
-        <div class="col-8" id="TEI-front"></div>
-        <div class="col-8" id="TEI"></div>
-        <div class="col-4" id="side">
-          <div id="notes"></div>
-        </div>
+      
+        <div class="col-10" id="TEI-front"></div>
+        <div class="col-10" id="TEI"></div>
+
       </div>
     </div>
     
@@ -135,8 +134,43 @@ var CETEIcean = new CETEI();
         "placeName": [
           ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
         ],
-
+        "note": function(elt) {
+        let button = `
+            <button class="btn btn-info" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> Note</button>
+            `;
+          elt.insertAdjacentHTML("beforebegin",button);            
+          elt.setAttribute("class","collapse card card-body");
+          elt.setAttribute("id","collapseExample");
+      }
      }});
+`
+
+
+function insertBefore(newNode, existingNode) {
+    existingNode.parentNode.insertBefore(newNode, existingNode);
+}
+
+ if (el && el.parentNode) {
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+  }
+}
+
+  this.hideContent(elt, true);
+  elt.appendChild(table);
+
+
+ // element that will be wrapped
+  var el = document.querySelector('div.wrap_me');
+  
+  // create wrapper container
+  var wrapper = document.createElement('div');
+  
+  // insert wrapper before el in the DOM tree
+  el.parentNode.insertBefore(wrapper, el);
+  
+  // move el into wrapper
+  wrapper.appendChild(el);`
 
   CETEIcean.getHTML5("vol-01-redhouse.xml", function(data) {
     var front = data.querySelector("tei-front")
@@ -161,16 +195,6 @@ var CETEIcean = new CETEI();
 
   CETEIcean.getHTML5("vol-01-redhouse.xml", function(data) { 
 
-  // to get note IDs RAFF 10/19
-  var visible_ids = Array.from(data.querySelectorAll('tei-note')).map(function(n) {return n.getAttribute('n')})
-
-/// Raff 10/19
-    visible_ids.forEach(function (id) {
-      if (id){
-        var note = data.querySelector('tei-note');
-        document.getElementById('notes').appendChild(note);
-      }
-    });
   });
 
 
