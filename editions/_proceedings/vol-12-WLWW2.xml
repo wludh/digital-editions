@@ -218,6 +218,246 @@ Copyright @ 2003</p>
 
    <listPlace> 
 
+<place xml:id="WLU" type="College">
+   <placeName>Washington and Lee University</placeName>
+   <location>
+      <geo>37°47'23"N, 79°26'45"W</geo>
+   </location>
+</place>
+
+
+<place xml:id="LEX1" type="City">
+   <placeName>Lexington, Virginia</placeName>
+   <location>
+      <geo>37°46'48"N, 79°26'18"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS1" type="Continent">
+   <placeName>Europe</placeName>
+   <location>
+      <geo>54.5260° N, 15.2551° E</geo>
+   </location>
+</place>
+
+<place xml:id="RS2" type="Continent">
+   <placeName>Asia</placeName>
+   <location>
+      <geo>34.0479° N, 100.6197° E</geo>
+   </location>
+</place>
+
+<place xml:id="RS3" type="College">
+   <placeName>West Virginia, West Virginia University</placeName>
+   <location>
+      <geo>39.6480° N, 79.9697° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS4" type="College">
+   <placeName>Maryland, University of Maryland</placeName>
+   <location>
+      <geo>38.9869° N, 76.9426° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS5" type="College">
+   <placeName>Ohio State University</placeName>
+   <location>
+      <geo>40.0067° N, 83.0305° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS6" type="Theater">
+   <placeName>State Theater</placeName>
+   <location>
+      <geo>38°52'58"N, 77°10'10"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS7" type="State">
+   <placeName>Kentucky</placeName>
+   <location>
+      <geo>37.8393° N, 84.2700° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS8" type="Country">
+   <placeName>Germany</placeName>
+   <location>
+      <geo>51.1657° N, 10.4515° E</geo>
+   </location>
+</place>
+
+<place xml:id="RS9" type="Ocean">
+   <placeName>Pacific</placeName>
+   <location>
+      <geo>8.7832° S, 124.5085° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS10" type="Library">
+   <placeName>McCormick Library</placeName>
+   <location>
+      <geo></geo>
+   </location>
+</place>
+
+<place xml:id="RS11" type="Military Base">
+   <placeName>Pearl Harbour</placeName>
+   <location>
+      <geo>21.351183, -157.980240</geo>
+   </location>
+</place>
+
+<place xml:id="RS12" type="Restaurant">
+   <placeName>Corner Grill</placeName>
+   <location>
+      <geo></geo>
+   </location>
+</place>
+
+<place xml:id="RS13" type="Chapel">
+   <placeName>Lee Chapel</placeName>
+   <location>
+      <geo>37°47'16"N, 79°26'35"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS14" type="City">
+   <placeName>Fort Meade, Maryland</placeName>
+   <location>
+      <geo>39.1043° N, 76.7342° W</geo>
+   </location>
+</place>
+
+
+<place xml:id="RS15" type="Dormitory">
+   <placeName>Graham-Less Dormitory</placeName>
+   <location>
+      <geo>37°47'14"N 79°26'40"W</geo>
+   </location>
+</place>
+
+
+<place xml:id="RS16" type="Building">
+   <placeName>Washington Annex</placeName>
+   <location>
+      <geo></geo>
+   </location>
+</place>
+
+
+<place xml:id="RS17" type="Building">
+   <placeName>Washington Hall</placeName>
+   <location>
+      <geo>37°47'17"N 79°26'32"W</geo>
+   </location>
+</place>
+
+
+<place xml:id="RS18" type="Building">
+   <placeName>Tucker Hall</placeName>
+   <location>
+      <geo>37°47'18"N 79°26'30"W</geo>
+   </location>
+</place>
+
+
+<place xml:id="RS19" type="Building">
+   <placeName>Robinson Hall</placeName>
+   <location>
+      <geo>37°47'18"N 79°26'30"W</geo>
+   </location>
+</place>
+
+
+<place xml:id="RS20" type="Building">
+   <placeName>Newcomb Hall and Reid Hall</placeName>
+   <location>
+      <geo>37°47'17"N 79°26'35"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS21" type="Street">
+   <placeName>Washington Street</placeName>
+   <location>
+      <geo>37°47'11"N 79°26'37"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS22" type="Street">
+   <placeName>Nelson Street</placeName>
+   <location>
+      <geo>37°47'16"N 79°26'53"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS25" type="Gym">
+   <placeName>Doremus Gym</placeName>
+   <location>
+      <geo>37°47'16"N 79°26'43"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS26" type="Street">
+   <placeName>Broadway</placeName>
+   <location>
+      <geo>40°45'47"N 73°58'59"W</geo>
+   </location>
+</place>
+
+<place xml:id="RS28" type="City">
+   <placeName>Atlanta</placeName>
+   <location>
+      <geo>33.7488° N, 84.3877° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS29" type="City">
+   <placeName>Washington (DC)</placeName>
+   <location>
+      <geo>38.9072° N, 77.0369° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS30" type="College">
+   <placeName>Washington State University</placeName>
+   <location>
+      <geo>46.7295° N, 117.1803° W</geo>
+   </location>
+</place>
+
+
+<place xml:id="RS31" type="City">
+   <placeName>Richmond</placeName>
+   <location>
+      <geo>37.5407° N, 77.4360° W</geo>
+   </location>
+</place>
+
+
+<place xml:id="RS33" type="Building">
+   <placeName>Red Sqaure</placeName>
+   <location>
+      <geo></geo>
+   </location>
+</place>
+
+
+<place xml:id="RS34" type="City">
+   <placeName>Carlisle, Pennsylvania</placeName>
+   <location>
+      <geo>40.2010° N, 77.2003° W</geo>
+   </location>
+</place>
+
+<place xml:id="RS35" type="Country">
+   <placeName>France</placeName>
+   <location>
+      <geo>46.2276° N, 2.2137° E</geo>
+   </location>
+</place>
 
 
    </listPlace>
@@ -496,9 +736,9 @@ racks, a PX, and an officer's mess. A home on Letcher Avenue became</div>
 <div> 
    <org>The Officer's Club</org>, and the motor pool was established below the gym
 at the corner of <placeName id="#RS21">Washington</placeName> and <placeName id="#RS22">Nelson Streets</placeName>. The college and the
-school shared <placeName id="#RS23">McCormick Library</placeName>, which also housed, under armed
+school shared <placeName id="#RS10">McCormick Library</placeName>, which also housed, under armed
 guard, a moving van's worth of valuable documents from the <org>U.S.
-National Archives</org>. <placeName id="#RS24">Washington Hall</placeName> was the focus for normal college
+National Archives</org>. <placeName id="#RS17">Washington Hall</placeName> was the focus for normal college
 activities.</div>
 <div> Many members of the faculty had already left to join the war effort.
 Others who remained threw themselves into the work of the <org>Army
@@ -556,7 +796,7 @@ required quartering three</div>
 <pb n="10"/> </div>
 
 <div>
-   or four troopers per dorm room, and the basement of <placeName id="#RS27">Lee Chapel</placeName> was
+   or four troopers per dorm room, and the basement of <placeName id="#RS13">Lee Chapel</placeName> was
 used as a lecture hall eight hours each day.</div>
 <div>Some years ago, one student, <persName id="#RHS28">Will Tankersley</persName>, wrote an excellent
 essay on the program, in which he discussed <persName id="#RHS29">Dr. Moger</persName>'s testing meth-
@@ -583,7 +823,7 @@ troops were being trained at <placeName id="#WLU">Washington and Lee</placeName>
 strongly supported <persName id="#RHS12">Gaines</persName>, was quite <q>"rabid"</q> on the race issue. The mat-
 ter vexed the president, especially between <date>March</date> and <date>November</date> <date>1943</date>.
 In <date>March</date>, African-American newspapers around the country published
-a story that four Negroes would receive diplomas in <placeName id="#RS27">Lee Chapel</placeName>. The
+a story that four Negroes would receive diplomas in <placeName id="#RS13">Lee Chapel</placeName>. The
 story said that <q>"history will be made Saturday when, for the first time,
 four Negroes-the first ever to attend a major Vhite College in the
 South"-will graduate. The paper reported that the men "have been
@@ -632,7 +872,7 @@ took over the effort during the summer, he found that the two agencies
 in charge-the <org>War Savings Staff</org> and the <org>Victory Loan Committee</org> for
 special drives-were being merged and the combined operation was in
 an <q>"incredible mess."</q> The task meant frequent trips to <placeName id="#RS31">Richmond</placeName> and
-<placeName id="#RS32">Washington</placeName>, and culminated in a massive war bonds campaign that
+<placeName id="#RS29">Washington</placeName>, and culminated in a massive war bonds campaign that
 began on <date when="1943-20-09">September 20, 1943</date>.</div>
 <div>During this same period, <persName id="#RHS12">Gaines</persName> coped with running his university.
 One student asserted that <placeName id="#WLU">W and L</placeName> had <q>"lost a greater percentage of her stu-
