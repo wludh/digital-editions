@@ -10,5 +10,5 @@ author: Hunter McClung, Mary Hope Pusey, Buck Buchanan, Bob Hunter, and Mary Fra
 date: 1989-07-24
 featured: true
 image: /assets/img/1939remembered.png
-description: Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.
+description: The Society's Golden Anniversary picnic in 1989 celebrated its founding in 1939, featuring reminiscences from individuals tied to Lexington's history. The speakers, including Hunter McClung, Mary Hope Pusey, Buck Buchanan, Robert Hunter, and Mary Frances Cummings, shared personal anecdotes ranging from medical practices and hospital history to social life, customs, and changes in the community, providing a snapshot of life in Lexington over the decades.
 ---
