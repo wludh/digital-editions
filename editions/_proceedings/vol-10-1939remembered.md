@@ -10,5 +10,5 @@ author: Hunter McClung, Mary Hope Pusey, Buck Buchanan, Bob Hunter, and Mary Fra
 date: 1989-07-24
 featured: true
 image: /assets/img/1939remembered.png
-description: The Society's Golden Anniversary picnic in 1989 celebrated its founding in 1939, featuring reminiscences from individuals tied to Lexington's history. The speakers shared personal anecdotes ranging from medical practices and hospital history to social life, customs, and changes in the community, providing a snapshot of life in Lexington over the decades.
+description: The 1989 Golden Anniversary picnic marked the Society's founding in 1939, with speakers sharing anecdotes on medical practices, hospital history, social life, customs, and community changes, offering a glimpse into Lexington's decades-long evolution.
 ---
