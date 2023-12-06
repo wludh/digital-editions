@@ -117,7 +117,7 @@
 
 <person xml:id="RHS-0014">
    <persName>Lewis Tyree</persName>
-   </person>
+</person>
 
 <person xml:id="RHS-0015">
    <persName>Ollinger Crenshaw</persName>
@@ -271,6 +271,7 @@
    <persName>George Marshall</persName>
    <occupation>General</occupation>
    <note>General George Marshall was appointed army chief of staff by President Roosevelt</note>
+</person>
 
 <person xml:id="RHS-0047">
    <persName>Franklin D. Roosevelt</persName>
