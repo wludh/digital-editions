@@ -544,9 +544,9 @@ we doing here? Why are we fighting? why is <persName id="#RHS18"><note ref="http
 headquarters. The finance section moved into <placeName id="#RS20">Newcomb Hall</placeName>. <placeName id="#RS20">Reid Hall</placeName>was used for classroom space and a lounge. Dormitories served as bar-racks, a PX, and an officer's mess. A home on Letcher Avenue became</p>
 
   
-   <pb n="8"/> </p>
+   <pb n="8"/> </body>
    <figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article2.jpg"></figure>
-</body>
+</text>
 
 <p> 
    <org>The Officer's Club</org>, and the motor pool was established below the gym at the corner of <placeName id="#RS21">Washington</placeName> and <placeName id="#RS22">Nelson 
@@ -664,6 +664,6 @@ general during the war. Like the university during the war, the fellows who came
 
 
 </p>
-</text>
+
  
 </TEI>
