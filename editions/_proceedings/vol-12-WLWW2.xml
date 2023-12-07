@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
- <fileDesc> 
+ <fileDesc>
   <titleStmt>
    <title>
          Buckle Down Winsocki: Washington and Lee during World War II
@@ -14,7 +14,7 @@
    </respStmt>
   </titleStmt>
   <editionStmt>
- 
+
   </editionStmt>
   <extent>
       extent of digital XML file
@@ -485,8 +485,9 @@ with a freshman team <org>(the Brigadiers)</org> who, for the first time in our 
 </p>
 <p> At the <placeName id="#RS6">State Theater</placeName> students joined with <persName id="#RHS3"> Lew Ayers</persName> and <persName id="#RHS4">Lionel Barrymore</persName> to learn the <title>Secret of Dr Kildare</title>, and they laughed with the <org>Marx Brothers</org> At The Circus. By the new year, students had tapped <persName id="#RHS5">Kay Kyser</persName>to play for the Fancy Dress Ball, set the advance ticket costs at $9.50, and selected a <placeName id="#RS7">Kentucky</placeName> Derby theme. The college told hopeful parents toexpect to spend a total of some $7OO per academic year to educate their sons comfortably at <placeName id="#WLU">W and L</placeName>. </p>
 <p>Perhaps the biggest flap that fall came on <date when="1939-26-09">September 26, 1939</date>, three weeks after the European democracies declared war on <placeName id="#RS8">Germany</placeName>, and as the <org>Nazis</org> were mopping up after their Polish blitzkrieg, when the edi-
-tor of the <org><choice><abbr>Phi</abbr><expan>Ring-Tum-Phi</expan><org> attacked the <placeName id="#WLU">Washington and Lee</placeName>Swing as being <q>"clumsy,
-often pointless and inane."<q></p><p><persName id="#RHS6">John Graham</persName>, the professor who had composed the song years before, was hurt when confronted with the criticism of his old tune. Yet he had to agree with the editor's aesthetic judgment. He noted, however,that he could not see the alumni agreeing with a change in the school song. The next week the <org>student newspaper</org> reported support for <persName id="#RHS6">Graham</persName> and the song with banner headlines: <q>"LEAVE THE SWING ALONE"</q> and announced that the presidents of the <org>E.C.</org> and <org>Omicron Delta Kappa service organization</org> stronely suoported the "Swing."</p><p>Normal college life went on unabated during <date>1939</date> and into <date>1940</date>,broken only by a two-month long epidemic of robberies in fraternity houses, the long-awaited appearance of the film <title>Gone With The Wind</title>,which blew into town, as students said, on <date when="11-03">March 11</date>, and the eighth consecutive Mock Political Convention. 
+tor of the <org><choice><abbr>Phi</abbr><expan>Ring-Tum-Phi</expan></choice></org> attacked the <placeName id="#WLU">Washington and Lee</placeName>Swing as being <q>"clumsy,
+often pointless and inane."</q></p>
+<p><persName id="#RHS6">John Graham</persName>, the professor who had composed the song years before, was hurt when confronted with the criticism of his old tune. Yet he had to agree with the editor's aesthetic judgment. He noted, however,that he could not see the alumni agreeing with a change in the school song. The next week the <org>student newspaper</org> reported support for <persName id="#RHS6">Graham</persName> and the song with banner headlines: <q>"LEAVE THE SWING ALONE"</q> and announced that the presidents of the <org>E.C.</org> and <org>Omicron Delta Kappa service organization</org> stronely suoported the "Swing."</p><p>Normal college life went on unabated during <date>1939</date> and into <date>1940</date>,broken only by a two-month long epidemic of robberies in fraternity houses, the long-awaited appearance of the film <title>Gone With The Wind</title>,which blew into town, as students said, on <date when="11-03">March 11</date>, and the eighth consecutive Mock Political Convention. 
 <persName id="#RHS6">Graham</persName> was thrilled when the <date>1940</date><org>Glee Club</org> became nationally known with a series of victories in singing</p> 
 <p>
 <pb n="2"/> </p>
@@ -496,7 +497,7 @@ often pointless and inane."<q></p><p><persName id="#RHS6">John Graham</persName>
    The <org><mascot>Generals</mascot></org> won only two football games in the fall of <date>1940</date>, with seven losses and a tie, but the game films convinced most Minks 
 that the officials had cheated the Blues out of one crucial touchdown. The wider world of defense policy and big-time sports intruded the next spring, when <placeName id="#WLU">W and L</placeName> decided to establish a compulsory <org>Reserve Officers Tiaining Corps unit</org>, and noted tennis champion <persName id="#RHS9">Fred Perry</persName> agreed to coach at<placeName id="#WLU">W and L</placeName>.</p><p>In <date when="1941-09"> September 1941</date>, the school broke all previous attendance records
 as 486 new students enrolled at the college. A campus poll the next month reported that 30 percent of 803 students still preferred to stay out of the war. This paralleled a national Gallup survey showing that some 70 percent of the American public favored a German defeat. Thirteen students registered no opinion on the matter. Events in the
-<placeName id="#RS9">Pacific</placeName> would change that.</p><p>By early <date when="1941-12">December 1941</date>, <persName id="#RHS10">Woody Herman</persName> had just signed on for Fancy Dress, when the news of <placeName id='#PH'>Pearl Harbor</placeName> shocked the campus. (In the <date when="1941-09-12">December 9</date> <org> Ring-tum-Phi</org>, <persName id="#RHS10">Herman</persName> got a 60-point, four-column headline. The news of Pearl Harbor got a 3O-point, two-column headline.) Social scientists like to talk about defining social moments, those shocks that radically alter people's social or cultural environment-that sort of event where years later one remembers exactly where and how the news arrived. That Sunday in <date>December 1941</date> was such a moment-and it became the defining event for an entire generation.<note> The December 7th, 1941 invasion ended all arguments about whether or not the United States should enter the war. The next day December 8th, 1941 the United States declared War on Japan.  </p>
+<placeName id="#RS9">Pacific</placeName> would change that.</p><p>By early <date when="1941-12">December 1941</date>, <persName id="#RHS10">Woody Herman</persName> had just signed on for Fancy Dress, when the news of <placeName id='#PH'>Pearl Harbor</placeName> shocked the campus. (In the <date when="1941-09-12">December 9</date> <org> Ring-tum-Phi</org>, <persName id="#RHS10">Herman</persName> got a 60-point, four-column headline. The news of Pearl Harbor got a 3O-point, two-column headline.) Social scientists like to talk about defining social moments, those shocks that radically alter people's social or cultural environment-that sort of event where years later one remembers exactly where and how the news arrived. That Sunday in <date>December 1941</date> was such a moment-and it became the defining event for an entire generation.<note> The December 7th, 1941 invasion ended all arguments about whether or not the United States should enter the war. The next day December 8th, 1941 the United States declared War on Japan.</note>  </p>
 <p>
    On that quiet Sunday afternoon, students were preparing for jaunts to the women's colleges. More studious boys, known as <soCalled>"crammers"</soCalled> or members of the 
 <soCalled>"sunday afternoon library study team,"</soCalled> headed for <placeName id="#RS10">McCormick Library</placeName>. Rumors of <placeName id="#RS11">Pearl Harbor</placeName> swept the campus' and soon students had dropped their books, parked their cars, and gathered around radios. Road trips were cancelled. Bull sessions replaced dates as
@@ -509,7 +510,8 @@ called local draft boards. One group, after stopping off at the post office, wen
 </q></p><p>The entire <date>1942</date> winter semester reflected that spirit, and advertising in the <org>Ring-tum-Phi</org> took on a military flavor. To save gasoline and wear
 on tires, road trips ended. To avoid flunking out under the automatic rule, which would lead to an immediate draft, students buckled down to their studies. They did this so that they would have some choice as to how they would spend the war. Others signed up for classes in civilian pilot training. All realized that their lives had been changed. </p><p> Many members of the class of 1942 look back upon <persName id="#RHS12">Dr. Francis Pendleton Gaines<note>Dr. Gaines has served as president at not only Washington and Lee University, but also Wofford College and Wake Forrest University. Also, he is the namesake of one of the WLU freshman dorms. </note></persName>'s presidential farewell to them at graduation as the most moving moment of their days in <placeName id="#LEX1">Lexington</placeName>. <persName id="#RHS12">Dr. Gaines</persName> pointed out
 to them that they were going into a world that they could <q>"not even imagine on that huppy day when you first invested your capacities for learning and development into the safekeeping of <placeName id="#WLU">Washington and Lee</placeName>. . . Muy God bless you and be with you. I should make that prayer for any graduating class, but I assure you that I have in my heart a peculiar sincerity as I utter the words in your behalf."</q></p> <p>He continued to speak, telling them that the task facing them was</p><p> <q>greater . . . than any outgoing class has known for many years. I hope you will believe it is a worthy task. It is my confidence that because of your wisdom and your character you will not spend idle hours in remorse that an older generation brought the world to an unhappy situation which you must straighten out. I am sure that because of your
-faith you will not dishonor yourself by a kind of fatalism in which you say you have just run into bad luck.</p><p>On the contrary, I have an assurance that you will know, whateverbe the personal sacrifice, that it is your privilege, really and truly, to make a better world. Let me urge that you keep steadfast in your heart a strong purpose for the fulfillment of your own personal dreams, and that whenever this interruption shall cease you will take up again the energetic fulfillment of the plan by which you may live most happily and most usefully. In the meantime, however, as I leave on record this farewell, I remind you that it is a great thing you set forth to do, and I know you will do your part.</q></p><p>
+faith you will not dishonor yourself by a kind of fatalism in which you say you have just run into bad luck.On the contrary, I have an assurance that you will know, whateverbe the personal sacrifice, that it is your privilege, really and truly, to make a better world. Let me urge that you keep steadfast in your heart a strong purpose for the fulfillment of your own personal dreams, and that whenever this interruption shall cease you will take up again the energetic fulfillment of the plan by which you may live most happily and most usefully. In the meantime, however, as I leave on record this farewell, I remind you that it is a great thing you set forth to do, and I know you will do your part.</q> 
+</p><p>
    Official government policy wisely urged college students to stay in school for the time being. This helped a number of colleges that otherwise might have collapsed to survive
 the first months of crisis. As late as<date>1943</date>, federal policy was that students should not immediately rush to the colors; rather, they should remain on campus where they could<q>"develop qualities of leadership."</q> Colleges and universities were urged to <q>"provide effective education to meet the needs of technical, scientific,
 and other professional services."</q> All this was easier said than done.</p><p>
@@ -527,7 +529,7 @@ possible extinction. Gaines worked overtime to get some sort of government progr
 learned to become a Confederate cavalry officer."</q> </p> 
 <p> 
    <pb n="6"/> </p>
-<figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article1.jpg"</figure>
+<figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article1.jpg"></figure>
 <p>
 <pb n="7"/> </p>
 <p> 
@@ -542,8 +544,8 @@ we doing here? Why are we fighting? why is <persName id="#RHS18"><note ref="http
 headquarters. The finance section moved into <placeName id="#RS20">Newcomb Hall</placeName>. <placeName id="#RS20">Reid Hall</placeName>was used for classroom space and a lounge. Dormitories served as bar-racks, a PX, and an officer's mess. A home on Letcher Avenue became</p>
 <p> 
    <pb n="8"/> </p>
-   <figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article2.jpg"</figure>
-</p>
+   <figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article2.jpg"></figure>
+</body>
 
 <p> 
    <org>The Officer's Club</org>, and the motor pool was established below the gym at the corner of <placeName id="#RS21">Washington</placeName> and <placeName id="#RS22">Nelson 
@@ -560,7 +562,7 @@ instruction.</p>
 who presented<placeName id="#RS26">Broadway</placeName>-level shows, and <persName id="#RHS23">Red Skelton</persName>, who kept <persName id="#RHS24">Lexingtonians</persName>rolling in the aisles long before he became a famous television comic. <persName id="#RHS25">Melvin Douglas</persName> and <persName id="#RHS26">Lanny Ross</persName> thrilled townsfolk with their talents. One instructor, <persName id="#RHS27">Norm Lord</persName>, grew to love this place so much, he decided to live here after the war.</p>
 <p>
    Although the School provided some of the best entertainment <placeName id="#LEX1">Lexington</placeName> has ever enjoyed, its aim was deadly serious. Trainees learned to
-relieve troops of boredom, and keep combat soldiers happy, in touch with their families, and informed of war aims and news in a way that countered the <org>Axis war       <figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article3.jpg"</figure> 
+relieve troops of boredom, and keep combat soldiers happy, in touch with their families, and informed of war aims and news in a way that countered the <org>Axis war       <figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article3.jpg"></figure>
 machine</org>'s propaganda. 
 Although the program was 
 strictly military, the atmos-
@@ -607,12 +609,12 @@ was of all schools "hardest hit by the war."</q></p>
 <p>
    The number of students attending <placeName id="#WLU">W and L</placeName> during the war seems incredibly small by today's standards. From <date>February</date> to <date>
 August</date> <date>1945</date>,we awarded a grand total of eight degrees. The administration's rule of thumb seemed to be that the school would remain open so long as there
-were one hundred students in attendance. The typical freshman class then numbered some forty boys. The curriculum had to be adjusted and efforts made to offer a full freshman and sophomore program in the <org>col-</p>
+were one hundred students in attendance. The typical freshman class then numbered some forty boys. The curriculum had to be adjusted and efforts made to offer a full freshman and sophomore program in the <org>college and Commerce School</org></p>
 
 <p>
    <pb n="12"/> </p>
 
-<p> lege and Commerce School</org> from <date>1943</date> to <date>1945</date>. Recruitment material stressed that high school graduates at sixteen or seventeen could make
+<p>  from <date>1943</date> to <date>1945</date>. Recruitment material stressed that high school graduates at sixteen or seventeen could make
 their <q>"wisest investment"</q> by attending <placeName id="#WLU">W and L</placeName> between the time they completed high school and reached the selective service age of eighteen.</p><p>All upper level programs-pre-med, pre-engineering, and journalism-depended on demand. In his messages to the students, many of whom were seventeen-year-olds who had completed high school and were waiting to be called, <persName id="#RHS12">Gaines</persName> stressed <q>those things which had stayed the same: our traditions of warmth and friendliness, our emphasis on the individual, the core of our spiritual heritage, and honor. These still mattered. All else had, indeed, changed.</q></p>
 <p> 
    In <date>December</date> <date>1942</date>, the trustees captured the school's spirit when they voted to discontinue intercollegiate sports <q>"until the war is won . . .thus 
@@ -660,7 +662,7 @@ general during the war. Like the university during the war, the fellows who came
 
 
 
-
-</body>
+</p>
 </text>
+
 </TEI>
