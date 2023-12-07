@@ -9,7 +9,7 @@
    <editor> Larry I. Bland </editor>
    <sponsor> Rockbridge Historical Society </sponsor>
    <respStmt>
-      <resp> Encoding by: </resp><name>
+      <resp>Encoding by: </resp><name>
       Michael Schoenberg '27</name>
    </respStmt>
   </titleStmt>
@@ -221,7 +221,7 @@ Copyright @ 2003</p>
 <place xml:id="WLU" type="College">
    <placeName>Washington and Lee University</placeName>
    <location>
-      <geo>37°47'23"N, 79°26'45"W</geo>
+      <geo>37.789722, -79.445833</geo>
    </location>
 </place>
 
@@ -229,70 +229,70 @@ Copyright @ 2003</p>
 <place xml:id="LEX1" type="City">
    <placeName>Lexington, Virginia</placeName>
    <location>
-      <geo>37°46'48"N, 79°26'18"W</geo>
+      <geo>37.780000, -79.438333</geo>
    </location>
 </place>
 
 <place xml:id="RS1" type="Continent">
    <placeName>Europe</placeName>
    <location>
-      <geo>54.5260° N, 15.2551° E</geo>
+      <geo>54.526000, 15.255100</geo>
    </location>
 </place>
 
 <place xml:id="RS2" type="Continent">
    <placeName>Asia</placeName>
    <location>
-      <geo>34.0479° N, 100.6197° E</geo>
+      <geo>34.047900, 100.619700</geo>
    </location>
 </place>
 
 <place xml:id="RS3" type="College">
    <placeName>West Virginia, West Virginia University</placeName>
    <location>
-      <geo>39.6480° N, 79.9697° W</geo>
+      <geo>39.648000, -79.969700</geo>
    </location>
 </place>
 
 <place xml:id="RS4" type="College">
    <placeName>Maryland, University of Maryland</placeName>
    <location>
-      <geo>38.9869° N, 76.9426° W</geo>
+      <geo>38.986900, -76.942600</geo>
    </location>
 </place>
 
 <place xml:id="RS5" type="College">
    <placeName>Ohio State University</placeName>
    <location>
-      <geo>40.0067° N, 83.0305° W</geo>
+      <geo>40.006700, -83.030500</geo>
    </location>
 </place>
 
 <place xml:id="RS6" type="Theater">
    <placeName>State Theater</placeName>
    <location>
-      <geo>38°52'58"N, 77°10'10"W</geo>
+      <geo>38.882778, -77.169444</geo>
    </location>
 </place>
 
 <place xml:id="RS7" type="State">
    <placeName>Kentucky</placeName>
    <location>
-      <geo>37.8393° N, 84.2700° W</geo>
+      <geo>37.839300, -84.270000</geo>
    </location>
 </place>
 
 <place xml:id="RS8" type="Country">
    <placeName>Germany</placeName>
    <location>
-      <geo>51.1657° N, 10.4515° E</geo>
+      <geo>51.165700, 10.451500</geo>
    </location>
 </place>
 
 <place xml:id="RS9" type="Ocean">
    <placeName>Pacific</placeName>
    <location>
-      <geo>8.7832° S, 124.5085° W</geo>
+      <geo>-8.783200, -124.508500</geo>
    </location>
 </place>
 
@@ -320,14 +320,14 @@ Copyright @ 2003</p>
 <place xml:id="RS13" type="Chapel">
    <placeName>Lee Chapel</placeName>
    <location>
-      <geo>37°47'16"N, 79°26'35"W</geo>
+      <geo>37.787778, -79.443056</geo>
    </location>
 </place>
 
 <place xml:id="RS14" type="City">
    <placeName>Fort Meade, Maryland</placeName>
    <location>
-      <geo>39.1043° N, 76.7342° W</geo>
+      <geo>39.104300, -76.734200</geo>
    </location>
 </place>
 
@@ -335,7 +335,7 @@ Copyright @ 2003</p>
 <place xml:id="RS15" type="Dormitory">
    <placeName>Graham-Less Dormitory</placeName>
    <location>
-      <geo>37°47'14"N 79°26'40"W</geo>
+      <geo>37.787222, -79.444444</geo>
    </location>
 </place>
 
@@ -351,7 +351,7 @@ Copyright @ 2003</p>
 <place xml:id="RS17" type="Building">
    <placeName>Washington Hall</placeName>
    <location>
-      <geo>37°47'17"N 79°26'32"W</geo>
+      <geo>37.788056, -79.442222</geo>
    </location>
 </place>
 
@@ -359,7 +359,7 @@ Copyright @ 2003</p>
 <place xml:id="RS18" type="Building">
    <placeName>Tucker Hall</placeName>
    <location>
-      <geo>37°47'18"N 79°26'30"W</geo>
+      <geo>337.788333, -79.441667</geo>
    </location>
 </place>
 
@@ -367,7 +367,7 @@ Copyright @ 2003</p>
 <place xml:id="RS19" type="Building">
    <placeName>Robinson Hall</placeName>
    <location>
-      <geo>37°47'18"N 79°26'30"W</geo>
+      <geo>37.788333, -79.441667</geo>
    </location>
 </place>
 
@@ -375,56 +375,56 @@ Copyright @ 2003</p>
 <place xml:id="RS20" type="Building">
    <placeName>Newcomb Hall and Reid Hall</placeName>
    <location>
-      <geo>37°47'17"N 79°26'35"W</geo>
+      <geo>37.788056, -79.443056</geo>
    </location>
 </place>
 
 <place xml:id="RS21" type="Street">
    <placeName>Washington Street</placeName>
    <location>
-      <geo>37°47'11"N 79°26'37"W</geo>
+      <geo>37.786389, -79.443611</geo>
    </location>
 </place>
 
 <place xml:id="RS22" type="Street">
    <placeName>Nelson Street</placeName>
    <location>
-      <geo>37°47'16"N 79°26'53"W</geo>
+      <geo>37.787778, -79.448056</geo>
    </location>
 </place>
 
 <place xml:id="RS25" type="Gym">
    <placeName>Doremus Gym</placeName>
    <location>
-      <geo>37°47'16"N 79°26'43"W</geo>
+      <geo>37.787778, -79.445278</geo>
    </location>
 </place>
 
 <place xml:id="RS26" type="Street">
    <placeName>Broadway</placeName>
    <location>
-      <geo>40°45'47"N 73°58'59"W</geo>
+      <geo>40.763056, -73.983056</geo>
    </location>
 </place>
 
 <place xml:id="RS28" type="City">
    <placeName>Atlanta</placeName>
    <location>
-      <geo>33.7488° N, 84.3877° W</geo>
+      <geo>33.748800, -84.387700</geo>
    </location>
 </place>
 
 <place xml:id="RS29" type="City">
    <placeName>Washington (DC)</placeName>
    <location>
-      <geo>38.9072° N, 77.0369° W</geo>
+      <geo>38.907200, -77.036900</geo>
    </location>
 </place>
 
 <place xml:id="RS30" type="College">
    <placeName>Washington State University</placeName>
    <location>
-      <geo>46.7295° N, 117.1803° W</geo>
+      <geo>46.729500, -117.180300</geo>
    </location>
 </place>
 
@@ -432,7 +432,7 @@ Copyright @ 2003</p>
 <place xml:id="RS31" type="City">
    <placeName>Richmond</placeName>
    <location>
-      <geo>37.5407° N, 77.4360° W</geo>
+      <geo>37.540700, -77.436000</geo>
    </location>
 </place>
 
@@ -448,14 +448,14 @@ Copyright @ 2003</p>
 <place xml:id="RS34" type="City">
    <placeName>Carlisle, Pennsylvania</placeName>
    <location>
-      <geo>40.2010° N, 77.2003° W</geo>
+      <geo>40.201000, -77.200300</geo>
    </location>
 </place>
 
 <place xml:id="RS35" type="Country">
    <placeName>France</placeName>
    <location>
-      <geo>46.2276° N, 2.2137° E</geo>
+      <geo>46.227600, 2.213700</geo>
    </location>
 </place>
 
@@ -463,563 +463,206 @@ Copyright @ 2003</p>
    </listPlace>
 
 </standOff>
-
+<text>
+   <front> . Taylor Sanders II, Ph.D., is professor of history and University Historian at Wash-
+ington and Lee University. His presentation was made on April 20, 1992, at Northen Auditorium in Leyburn Library at W and L.
+</front>
  <body> 
   <pb n="1"/>DURING that fall term <date when="#1939">1939</date>, <placeName id="#WLU">Washington and Lee</placeName> men were not
 oblivious to the news that <placeName id="#RS1">Europe</placeName> and <placeName id="#RS2">Asia</placeName> were tearing them-
-selves apart. In fact, they followed international developments
-closely. The faculty, some of whom remembered <date when="1914">1914</date>, made a
-special effort, particularly in history courses, to keep their pupils abreast
-of the world scene. That autumn saw frequent comments in class on con-
-temporary politics and an expanded series of guest lectures on campus.
-Most notably, in <date when="1939">October 1939</date>, a German sociologist appeared in <placeName id="#LEX1">Lex-
-ington</placeName> to offer his view on the <org>Nazi movement</org>. Student writers in the
-<org><note>The Ring-tum-Phi is still running to this day and is now available online</note> Ring-tum-Phi</org> stressed international affairs. For example, <persName id="#RHS1">Bill "Buck"
-Buchanan</persName>, later a politics professor at <placeName id="#WLU">Washington and Lee</placeName>, wrote a
-series on the "Conflagration in <placeName id="#RS1">Europe</placeName>."<div>
-When the freshmen graduated four years later in <date when="1943">1943</date>, they
-regarded themselves as the <q>"class that never saw <placeName id="#WLU">W and L</placeName> as it was in a
-world at peace."</q> Despite the shadow of war, the patterns of college life
-carried on in traditional ways, and the late <date when="1930s">1930s</date> had been good ones
-for <placeName id="#WLU">Washington and Lee</placeName>. By <date when="1939">1939</date>, thanks largely to defense spending,
-the country began to muscle its way out of the depression. For <placeName id="#WLU">W and L</placeName> this
-translated into a larger number of well-qualified applicants-perhaps the
-best prepared in its history. Several major gifts, including the Doremus
-legacy, helped the school assume a sounder financial footing.</div>
-<div> 
-<pb n="2"/> </div>
-<div>
-   The nineteen social fraternities continued to serve new Minks.<note> in 2023 there are only 11 frats still on campus</note>
-Freshmen soon learned that if they wanted to eat, they better pledge a
-house quickly. Literary societies, debate, publications, and the presti-
-gious <org>Cotillion Club</org> flourished. For that gregarious young generation
-with its optimistic, can-do spirit, new clubs continued to emerge, such as
-the new <org>pre-med society</org>. Organizations, new and old, simply added a
-counterpoint to the rhythm of traditional campus life of fall weekends,
-football, and classes, with the famed <placeName id="#WLU">W and L</placeName> convertible fleet convoying
-hordes of Minks down the road to neighboring women's colleges. And
+selves apart. In fact, they followed international developments closely. The faculty, some of whom remembered <date when="1914">1914</date>, made a special effort, particularly in history courses, to keep their pupils abreast of the world scene. That autumn saw frequent comments in class on con-temporary politics and an expanded series of guest lectures on campus.Most notably, in <date when="1939">October 1939</date>, a German sociologist appeared in <placeName id="#LEX1">Lex-
+ington</placeName> to offer his view on the <org>Nazi movement</org>. Student writers in the <org><note ref="https://ringtumphi.net/">The Ring-tum-Phi is still running to this day and is now available online</note> Ring-tum-Phi</org> stressed international affairs. For example, <persName id="#RHS1">Bill "Buck" Buchanan</persName>, later a politics professor at <placeName id="#WLU">Washington and Lee</placeName>, wrote a series on the "Conflagration in <placeName id="#RS1">Europe</placeName>."<p>When the freshmen graduated four years later in <date when="1943">1943</date>, they regarded themselves as the <q>"class that never saw <placeName id="#WLU">W and L</placeName> as it was in a world at peace."</q> Despite the shadow of war, the patterns of college life carried on in traditional ways, and the late <date when="1930s">1930s</date> had been good ones for <placeName id="#WLU">Washington and Lee</placeName>. By <date when="1939">1939</date>, thanks largely to defense spending, the country began to muscle its way out of the depression. For <placeName id="#WLU">W and L</placeName> this translated into a larger number of well-qualified applicants-perhaps the best prepared in its history. Several major gifts, including the Doremus
+legacy, helped the school assume a sounder financial footing.</p>
+<p> 
+<pb n="2"/> </p>
+<p> The nineteen social fraternities continued to serve new Minks.<note> in 2023 there are only 11 frats still on campus. These include: Alpha Phi Alpha, Chi Psi, Kappa Alpha Order, Kappa Sigma, Lambda Chi Alpha, Phi Beta Sigma, Phi Gamma Delta, Phi Kappa Psi, Pi Kappa Alpha, Pi Kappa Phi and Sigma Chi.</note> Freshmen soon learned that if they wanted to eat, they better pledge a house quickly. Literary societies, debate, publications, and the prestigious <org>Cotillion Club</org> flourished. For that gregarious young generation
+with its optimistic, can-do spirit, new clubs continued to emerge, such as the new <org>pre-med society</org>. Organizations, new and old, simply added a football, and classes, with the famed <placeName id="#WLU">W and L</placeName> convertible fleet convoying hordes of Minks down the road to neighboring women's colleges. And
 that year, 205 of 281 freshmen pledged one of the fraternities on campus.
-</div>
-<div>
-   As was often the case in the school's history, prospects for the foot-
-ball team were gloomy. Spirits rose with our defeat of <placeName id="#RS3">West Virginia</placeName> and
-with a freshman team <org>(the Brigadiers)</org> who, for the first time in our his-
-tory, actually defeated powerful <placeName id="#RS4">Maryland</placeName>. That <date when="October">October</date> nearly 350
-women (then called "girls") invaded the campus for the Opening Ball,
-and <persName id="#RHS2">Cy Young</persName> resigned as basketball coach to be replaced by a man
-from <placeName id="#RS5">Ohio State University</placeName>. 
-</div>
-<div> At the <placeName id="#RS6">State Theater</placeName> students joined with <persName id="#RHS3"> Lew Ayers</persName> and <persName id="#RHS4">Lionel Bar-
-rymore</persName> to learn the <title>Secret of Dr Kildare</title>, and they laughed with the <org>Marx
-Brothers</org> At The Circus. By the new year, students had tapped <persName id="#RHS5">Kay Kyser</persName>
-to play for the Fancy Dress Ball, set the advance ticket costs at $9.50, and
-selected a <placeName id="#RS7">Kentucky</placeName> Derby theme. The college told hopeful parents to
-expect to spend a total of some $7OO per academic year to educate their
-sons comfortably at <placeName id="#WLU">W and L</placeName>. </div>
-<div>Perhaps the biggest flap that fall came on <date when="1939-26-09">September 26, 1939</date>, three
-weeks after the European democracies declared war on <placeName id="#RS8">Germany</placeName>, and
-as the <org>Nazis</org> were mopping up after their Polish blitzkrieg, when the edi-
-tor of the <org><choice><abbr>Phi</abbr><expan>Ring-Tum-Phi</expan><org> attacked the <placeName id="#WLU">Washington and Lee</placeName>Swing as being <q>"clumsy,
-often pointless and inane."<q></div>
-<div><persName id="#RHS6">John Graham</persName>, the professor who had composed the song years
-before, was hurt when confronted with the criticism of his old tune. Yet
-he had to agree with the editor's aesthetic judgment. He noted, however,
-that he could not see the alumni agreeing with a change in the school
-song. The next week the <org>student newspaper</org> reported support for <persName id="#RHS6">Gra-
-ham</persName> and the song with banner headlines: <q>"LEAVE THE SWING
-ALONE"</q> and announced that the presidents of the <org>E.C.</org> and <org>Omicron
-Delta Kappa service organization</org> stronely suoported the "Swing."</div>
-<div>Normal college life went on unabated during <date>1939</date> and into <date>1940</date>,
-broken only by a two-month long epidemic of robberies in fraternity
-houses, the long-awaited appearance of the film <title>Gone With The Wind</title>,
-which blew into town, as students said, on <date when="11-03">March 11</date>, and the eighth con-
-secutive Mock Political Convention. <persName id="#RHS6">Graham</persName> was thrilled when the <date>1940</date>
-<org>Glee Club</org> became nationally known with a series of victories in singing</div> 
-<div>
-<pb n="2"/> </div>
-<div>competition; and a raucous mock convention followed in <date when="1940-10">October 1940</date>
-when <placeName id="#WLU">W and L</placeName> students overwhelmingly supported <persName id="#RHS7">Wendell Willkie</persName> for
-president in a straw poll. But the big news in the fall of <date>1940</date> was that
-<persName id="#RHS8">Benny Goodman</persName>, who was unable to play for the Opening Ball because
-of illness, had agreed to play at Fancy Dress during the spring of <date>1941</date>'</div>
-<div>
-   The <org><mascot>Generals</mascot></org> won only two football games in the fall of <date>1940</date>, with
-seven losses and a tie, but the game films convinced most Minks that the
-officials had cheated the Blues out of one crucial touchdown. The wider
-world of defense policy and big-time sports intruded the next spring,
-when <placeName id="#WLU">W and L</placeName> decided to establish a compulsory <org>Reserve Officers Tiaining
-Corps unit</org>, and noted tennis champion <persName id="#RHS9">Fred Perry</persName> agreed to coach at
-<placeName id="#WLU">W and L</placeName>.</div>
-<div>In <date when="1941-09"> September 1941</date>, the school broke all previous attendance records
-as 486 new students enrolled at the college. A campus poll the next
-month reported that 30 percent of 803 students still preferred to stay out
-of the war. This paralleled a national Gallup survey showing that some
-70 percent of the American public favored a German defeat. Thirteen
-students registered no opinion on the matter. Events in the <placeName id="#RS9">Pacific</placeName> would
-change that.</div>
-<div>By early <date when="1941-12">December 1941</date>, <persName id="#RHS10">Woody Herman</persName> had just signed on for
-Fancy Dress, when the news of <placeName id='#PH'>Pearl Harbor</placeName> shocked the campus. (In
-the <date when="1941-09-12">December 9</date> <org> Ring-tum-Phi</org>, <persName id="#RHS10">Herman</persName> got a 60-point, four-column
-headline. The news of Pearl Harbor got a 3O-point, two-column head-
-line.) Social scientists like to talk about defining social moments, those
-shocks that radically alter people's social or cultural environment-that
-sort of event where years later one remembers exactly where and how
-the news arrived. That Sunday in <date>December 1941</date> was such a moment-
-and it became the defining event for an entire generation.<note> The December 7th, 1941 invasion ended all arguments about whether or not the United States should enter the war. The next day December 8th, 1941 the United States declared War on Japan.  </div>
-<div>
-   On that quiet Sunday afternoon, students were preparing for jaunts
-to the women's colleges. More studious boys, known as <soCalled>"crammers"</soCalled> or
-members of the <soCalled>"sunday afternoon library study team,"</soCalled> headed for
-<placeName id="#RS10">McCormick Library</placeName>. Rumors of <placeName id="#RS11">Pearl Harbor</placeName> swept the campus' and
-soon students had dropped their books, parked their cars, and gathered
-around radios. Road trips were cancelled. Bull sessions replaced dates as
-the war, which most students had been expecting, finally arrived. Rather
-than being immediately galvanized, however, the atmosphere on cam-
-pus was one of uncertainty as students pondered the fate of the five fel-
-low Minks who had been drafted since <date>September</date>.</div>
-<div>The next day, <date>Monday</date>, students chècked their mail boxes and
-called local draft boards. One group, after stopping off at the post office,
-went across the street to the <placeName id="#RS12">Corner Grill</placeName>, sat down at tables, and quietly
-reviewed their situation. Coins poured into the juke box and over and
-over again they played the popular song, <title ref="https://www.youtube.com/watch?v=xQEmrnJpQx0
+</p>
+<p>
+   As was often the case in the school's history, prospects for the football team were gloomy. Spirits rose with our defeat of <placeName id="#RS3">West Virginia</placeName> and
+with a freshman team <org>(the Brigadiers)</org> who, for the first time in our history, actually defeated powerful <placeName id="#RS4">Maryland</placeName>. That <date when="October">October</date> nearly 350 women (then called "girls") invaded the campus for the Opening Ball, and <persName id="#RHS2">Cy Young</persName> resigned as basketball coach to be replaced by a manfrom <placeName id="#RS5">Ohio State University</placeName>. 
+</p>
+<p> At the <placeName id="#RS6">State Theater</placeName> students joined with <persName id="#RHS3"> Lew Ayers</persName> and <persName id="#RHS4">Lionel Barrymore</persName> to learn the <title>Secret of Dr Kildare</title>, and they laughed with the <org>Marx Brothers</org> At The Circus. By the new year, students had tapped <persName id="#RHS5">Kay Kyser</persName>to play for the Fancy Dress Ball, set the advance ticket costs at $9.50, and selected a <placeName id="#RS7">Kentucky</placeName> Derby theme. The college told hopeful parents toexpect to spend a total of some $7OO per academic year to educate their sons comfortably at <placeName id="#WLU">W and L</placeName>. </p>
+<p>Perhaps the biggest flap that fall came on <date when="1939-26-09">September 26, 1939</date>, three weeks after the European democracies declared war on <placeName id="#RS8">Germany</placeName>, and as the <org>Nazis</org> were mopping up after their Polish blitzkrieg, when the edi-
+tor of the <org><choice><abbr>Phi</abbr><expan>Ring-Tum-Phi</expan></choice></org> attacked the <placeName id="#WLU">Washington and Lee</placeName>Swing as being <q>"clumsy,
+often pointless and inane."</q></p>
+<p><persName id="#RHS6">John Graham</persName>, the professor who had composed the song years before, was hurt when confronted with the criticism of his old tune. Yet he had to agree with the editor's aesthetic judgment. He noted, however,that he could not see the alumni agreeing with a change in the school song. The next week the <org>student newspaper</org> reported support for <persName id="#RHS6">Graham</persName> and the song with banner headlines: <q>"LEAVE THE SWING ALONE"</q> and announced that the presidents of the <org>E.C.</org> and <org>Omicron Delta Kappa service organization</org> stronely suoported the "Swing."</p><p>Normal college life went on unabated during <date>1939</date> and into <date>1940</date>,broken only by a two-month long epidemic of robberies in fraternity houses, the long-awaited appearance of the film <title>Gone With The Wind</title>,which blew into town, as students said, on <date when="11-03">March 11</date>, and the eighth consecutive Mock Political Convention. 
+<persName id="#RHS6">Graham</persName> was thrilled when the <date>1940</date><org>Glee Club</org> became nationally known with a series of victories in singing</p> 
+<p>
+<pb n="2"/> </p>
+<p>competition; and a raucous mock convention<note>The Mock Convention returns to W and L this January 2024 for its 28th edition</note> followed in <date when="1940-10">October 1940</date>when <placeName id="#WLU">W and L</placeName> students overwhelmingly supported <persName id="#RHS7">Wendell Willkie</persName> for president in a straw poll. But the big news in the fall of <date>1940</date> was that <persName id="#RHS8">Benny Goodman
+</persName>, who was unable to play for the Opening Ball because of illness, had agreed to play at Fancy Dress during the spring of <date>1941</date>'</p>
+<p>
+   The <org><mascot>Generals</mascot></org> won only two football games in the fall of <date>1940</date>, with seven losses and a tie, but the game films convinced most Minks 
+that the officials had cheated the Blues out of one crucial touchdown. The wider world of defense policy and big-time sports intruded the next spring, when <placeName id="#WLU">W and L</placeName> decided to establish a compulsory <org>Reserve Officers Tiaining Corps unit</org>, and noted tennis champion <persName id="#RHS9">Fred Perry</persName> agreed to coach at<placeName id="#WLU">W and L</placeName>.</p><p>In <date when="1941-09"> September 1941</date>, the school broke all previous attendance records
+as 486 new students enrolled at the college. A campus poll the next month reported that 30 percent of 803 students still preferred to stay out of the war. This paralleled a national Gallup survey showing that some 70 percent of the American public favored a German defeat. Thirteen students registered no opinion on the matter. Events in the
+<placeName id="#RS9">Pacific</placeName> would change that.</p><p>By early <date when="1941-12">December 1941</date>, <persName id="#RHS10">Woody Herman</persName> had just signed on for Fancy Dress, when the news of <placeName id='#PH'>Pearl Harbor</placeName> shocked the campus. (In the <date when="1941-09-12">December 9</date> <org> Ring-tum-Phi</org>, <persName id="#RHS10">Herman</persName> got a 60-point, four-column headline. The news of Pearl Harbor got a 3O-point, two-column headline.) Social scientists like to talk about defining social moments, those shocks that radically alter people's social or cultural environment-that sort of event where years later one remembers exactly where and how the news arrived. That Sunday in <date>December 1941</date> was such a moment-and it became the defining event for an entire generation.<note> The December 7th, 1941 invasion ended all arguments about whether or not the United States should enter the war. The next day December 8th, 1941 the United States declared War on Japan.</note>  </p>
+<p>
+   On that quiet Sunday afternoon, students were preparing for jaunts to the women's colleges. More studious boys, known as <soCalled>"crammers"</soCalled> or members of the 
+<soCalled>"sunday afternoon library study team,"</soCalled> headed for <placeName id="#RS10">McCormick Library</placeName>. Rumors of <placeName id="#RS11">Pearl Harbor</placeName> swept the campus' and soon students had dropped their books, parked their cars, and gathered around radios. Road trips were cancelled. Bull sessions replaced dates as
+the war, which most students had been expecting, finally arrived. Rather than being immediately galvanized, however, the atmosphere on campus was one of uncertainty as students pondered the fate of the five fellow Minks who had been drafted since <date>September</date>.</p><p>The next day, <date>Monday</date>, students chècked their mail boxes and
+called local draft boards. One group, after stopping off at the post office, went across the street to the <placeName id="#RS12">Corner Grill</placeName>, sat down at tables, and quietly reviewed their situation. Coins poured into the juke box and over and over again they played the popular song, <title ref="https://www.youtube.com/watch?v=xQEmrnJpQx0
 ">Buckle Down Winsocki</title>. By the
-<pb n="4"/> </div>
-<div>
-   next day, <date>Tuesday</date>, uncertainty gave way to a new feeling, one of <soCalled>"cool-
-ness and determination,"</soCalled> and the spirit on campus was <q>"Buckle Down."</q></div>
-<div>The entire <date>1942</date> winter semester reflected that spirit, and advertising
-in the <org>Ring-tum-Phi</org> took on a military flavor. To save gasoline and wear
-on tires, road trips ended. To avoid flunking out under the automatic
-rule, which would lead to an immediate draft, students buckled down to
-their studies. They did this so that they would have some choice as to
-how they would spend the war. Others signed up for classes in civilian
-pilot training. All realized that their lives had been changed. </div>
-<div> Many members of the class of 1942 look back upon <persName id="#RHS12">Dr. Francis
-Pendleton Gaines<note>Dr. Gaines has served as president at not only Washington and Lee University, but also Wofford College and Wake Forrest University. Also, he is the namesake of one of the WLU freshman dorms. </note></persName>'s presidential farewell to them at graduation as the
-most moving moment of their days in <placeName id="#LEX1">Lex
-ington</placeName>. <persName id="#RHS12">Dr. Gaines</persName> pointed out
-to them that they were going into a world that they could <q>"not even
-imagine on that huppy day when you first invested your capacities for
-learning and development into the safekeeping of <placeName id="#WLU">Washington and Lee</placeName>.
-. . . Muy God bless you and be with you. I should make that prayer for
-any graduating class, but I assure you that I have in my heart a peculiar
-sincerity as I utter the words in your behalf."</q></div>
-<div>He continued to speak, telling them that the task facing them was</div>
-<div> <q>greater . . . than any outgoing class has known for many years. I hope
-you will believe it is a worthy task. It is my confidence that because of
-your wisdom and your character you will not spend idle hours in
-remorse that an older generation brought the world to an unhappy sit-
-uation which you must straighten out. I am sure that because of your
-faith you will not dishonor yourself by a kind of fatalism in which you
-say you have just run into bad luck.</div>
-<div>
-On the contrary, I have an assurance that you will know, whatever
-be the personal sacrifice, that it is your privilege, really and truly, to
-make a better world. Let me urge that you keep steadfast in your heart
-a strong purpose for the fulfillment of your own personal dreams, and
-that whenever this interruption shall cease you will take up again the
-energetic fulfillment of the plan by which you may live most happily
-and most usefully. In the meantime, however, as I leave on record this
-farewell, I remind you that it is a great thing you set forth to do, and I
-know you will do your part.</q></div>
-<div>
-   Official government policy wisely urged college students to stay in
-school for the time being. This helped a number of colleges that other-
-wise might have collapsed to survive the first months of crisis. As late as
-<date>1943</date>, federal policy was that students should not immediately rush to
-the colors; rather, they should remain on campus where they could
-<q>"develop qualities of leadership."</q> Colleges and universities were urged
-to <q>"provide effective education to meet the needs of technical, scientific,
-and other professional services."</q> All this was easier said than done.</div>
-<div>
-<pb n="5"/> </div>
-<div>
-<placeName id="#RS11">Pearl Harbor</placeName> altered the atmosphere of typical college life swiftly
-and forever, but structural change came slower and worked itself out
-during early <date>1942</date>. At their <date>February</date> meeting, trustees approved a sum-
-mer session to accelerate graduation, and for the first time in the school's
-history allowed women to study here during the summer of <date>1942</date>.<img ref="women.jpg"></img> This
-news made a splash in the press when an <org>Associated Press</org> story was fea-
-tured in the <org>Memphis Commercial Appeal</org> with a headline: <q>"<placeName id="#WLU">W and L</placeName> Goes
-Sissy."</q></div>
-<div>
-   Some 286 summer students enrolled in <date when="1942-06">June 1942</date>; twenty-four were
-women. By the fall of <date>1942</date>, 1B7 students had enlisted. By year's end,
-fourteen alumni had been killed in action, most from the classes of <date>1939</date>
-through <date>1942</date>. We began the <date>1942</date>-<date><abbr>43</abbr><expand>1943</expand></date> academic year with some 300
-fewer students than the normal 900. By the end of the year, we had only
-300 students left. Needless to say, campus social life was strictly cur-
-tailed.</div>
-<div>In <date when="1942-12">December 1942</date>, the trustees cancelled football for the duration,
-and within three months the <org>Ring-tum-Phi</org> suspended publication until
-the war ended. Instead of name bands, local groups played for student
-dances. Flowers on corsages were replaced by war savings stamps. By
-that spring the president of the spring dance set had joined up. So had
-all but one of the junior class officers, and the yearbook that year was a
-tribute to the more than eighteen hundred alumni who were engaged in
-the struggle.</div>
-<div>Graduation <date>1943</date> is still etched in that class's memory. The class had
-been hard hit by attrition and the accelerated academic program. When
-the new graduates gathered in front of <placeName id="#RS13"><persName id="#RHS13">Lee</persName> Chapel</placeName> at sunrise after grad-
-uation to sing "College Friendships," it was an emotional scene. More-
-over, the administrators were facing a prospect of fewer than one
-hundred students enrolling for the fall term.</div>
-<div> 
-   <persName id="#RHS12">Dr. Gaines</persName> could not afford to remain emotional for long. He faced
-a crisis. As with many American colleges of the time, we confronted pos-
-sible extinction. Gaines worked overtime to get some sort of govern-
-ment program here and, aided apparently by <orgname>Army</orgname> Chief of Staff
-<persName id="#RHS14">General George C. Marshall</persName>, a <placeName id="#VMI"><abbr>VMI<note>According to VMI's website "More than 4,000" alumni answered the call to serve between 1941 and 1945."</note></abbr><expand>Virginia Military Institute</expand></placeName> graduate who had fond memories
-of <placeName id="#LEX1">Lexington</placeName>, the president succeeded. The program at <placeName id="#WLU">W and L</placeName>, together
-with the influx of GIs enrolled in the <org>Army Specialized taining Pro-
-gram</org> <abbr>(ASTP)</abbr> at <placeName id="#VMI"><abbr>VMI</abbr><expand>Virginia Military Institute</expand></placeName>, changed the town. One of the participants at
-<placeName id="#VMI"><abbr>VMI</abbr><expand>Virginia Military Institute</expand></placeName>, <persName id="#RHS15">Gore Vidal</persName>, who later won fame as a writer, studied with <persName id="#RHS16">Colonel
-Carrington Tutwiler</persName>. Another ersatz <abbr>ASTP</abbr> Keydet was the comedian
-<persName id="#RHS17">Mel Brooks</persName>. When asked years later what he had done during the war,
-<persName id="#RHS17" >Mel</persName> responded with zeal: <q>"I went to Virginia Military Institute and
-learned to become a Confederate cavalry officer."</q> </div> 
-<div> 
-   <pb n="6"/> </div>
-<img> Gotta figure out how to get that in here </img>
-<div>
-<pb n="7"/> </div>
-<div> 
-During much of <date>1942</date>, <persName id="#RHS12">Gaines</persName>, who was always an effective sales-
-man, lobbied the <org>Army</org> to establish some sort of program on campus.
-He urged the military to consider what an ideal place this campus was
-for the Army. Classroom space, available faculty, indeed' the whole
-atmosphere of a college is aimed, as he said, at pushing students to cover
-<q>"swiftly a large program of intensive study."</q> <placeName id="#LEX1">Lexington</placeName> was the perfect
-place. Its two colleges had the classrooms-the government would not
-have to build them. The Army could have full use of the library, gym,
-swimming pools, tennis courts, and lab space. Furthermore, <placeName id="#LEX1">Lexington</placeName>
-had medical facilities in place.</div>
-<div> 
-   His case, presented during <date>1942</date> and later when it looked as if the
-school might move, struck a chord. We signed a contract in mid-<date>1942</date>
-that insured <placeName id="#WLU">W and L</placeName>'s survival. Thus, <placeName id="#WLU">Washington and Lee</placeName> welcomed the
-<org>School for Special and Morale Services</org>. The official purpose of the
-School, which had been located at <placeName id="#RS14">Fort Meade, Maryland</placeName>, was to devise,
-plan, and supervise <q>"practicable activities for combat troops in Theaters
-of Operations domestic and overseas,"</q> and to <q>"instruct and train <org>Army</org>
-personnel in the approved purposes, doctrines, materials, methods and
-operative procedures in all phases of the duties and responsibilities of
-the Special Services Branch."</q> That branch consisted of combat officers
-who would command units close to the lines and deliver recreation,
-games, movies, reviews, shows, and other morale support for the fight-
-ing men.</div>
-<div>
-   A special propaganda room in the library supported that part of the
-program aimed at training officers to answer questions that might arise
-àmong front line troops: What are we doing here? Why are we fighting?
-why is <persName id="#RHS18"><note ref="https://www.youtube.com/watch?v=6XnsYZxH2nI">Hitler</note></persName> so dangerous? Is this really my war?</div>
-<div>the administration made a rental arrangement with the <org>Army</org>, leas-
-ing virtually the entire campus to the military. We charged the govern-
-ment 99 cents per day for each person living on campus and 49 cents for
-each soldier living off campus. In <date when="1942-11">November 1942</date>, we advised the fresh-
-men that they would have to vacate <placeName id="#RS15">Graham-Lees dormitory</placeName> by 6 P.M.
-on <date when="28-11">November 28</date>. Students moved their clothes and baggage into private
-homes as the troops moved into the dorm. <persName id="#RHS12">President Gaines</persName> advised his
-students that this arrangement might save the freshmen as much as four
-dollars per month. Classes at the Army school began on <date when="1942-12-7">December 7</date>,
-one year to the day after <placeName id="#RS11">Pearl Harbor</placeName>.</div>
-<div>Other than the construction of <placeName id="#RS16">Washington Annex</placeName> behind <placeName id="#RS17">Washing-
-ton Hall</placeName>, which served as the enlisted men's mess hall, the <org>Army</org> used
-regular campus facilities. <placeName id="#RS18">Tucker Hall</placeName> and <placeName id="#RS19">Robinson Hall</placeName> became the
-headquarters. The finance section moved into <placeName id="#RS20">Newcomb Hall</placeName>. <placeName id="#RS20">Reid Hall</placeName>
-was used for classroom space and a lounge. Dormitories served as bar-
-racks, a PX, and an officer's mess. A home on Letcher Avenue became</div>
-<div> 
-   <pb n="8"/> </div>
-   <img> insert image here </img>
-</div>
+<pb n="4"/> </p>
+<p>
+   next day, <date>Tuesday</date>, uncertainty gave way to a new feeling, one of <soCalled>"coolness and determination,"</soCalled> and the spirit on campus was <q>"Buckle Down.
+</q></p><p>The entire <date>1942</date> winter semester reflected that spirit, and advertising in the <org>Ring-tum-Phi</org> took on a military flavor. To save gasoline and wear
+on tires, road trips ended. To avoid flunking out under the automatic rule, which would lead to an immediate draft, students buckled down to their studies. They did this so that they would have some choice as to how they would spend the war. Others signed up for classes in civilian pilot training. All realized that their lives had been changed. </p><p> Many members of the class of 1942 look back upon <persName id="#RHS12">Dr. Francis Pendleton Gaines<note>Dr. Gaines has served as president at not only Washington and Lee University, but also Wofford College and Wake Forrest University. Also, he is the namesake of one of the WLU freshman dorms. </note></persName>'s presidential farewell to them at graduation as the most moving moment of their days in <placeName id="#LEX1">Lexington</placeName>. <persName id="#RHS12">Dr. Gaines</persName> pointed out
+to them that they were going into a world that they could <q>"not even imagine on that huppy day when you first invested your capacities for learning and development into the safekeeping of <placeName id="#WLU">Washington and Lee</placeName>. . . Muy God bless you and be with you. I should make that prayer for any graduating class, but I assure you that I have in my heart a peculiar sincerity as I utter the words in your behalf."</q></p> <p>He continued to speak, telling them that the task facing them was</p><p> <q>greater . . . than any outgoing class has known for many years. I hope you will believe it is a worthy task. It is my confidence that because of your wisdom and your character you will not spend idle hours in remorse that an older generation brought the world to an unhappy situation which you must straighten out. I am sure that because of your
+faith you will not dishonor yourself by a kind of fatalism in which you say you have just run into bad luck.On the contrary, I have an assurance that you will know, whateverbe the personal sacrifice, that it is your privilege, really and truly, to make a better world. Let me urge that you keep steadfast in your heart a strong purpose for the fulfillment of your own personal dreams, and that whenever this interruption shall cease you will take up again the energetic fulfillment of the plan by which you may live most happily and most usefully. In the meantime, however, as I leave on record this farewell, I remind you that it is a great thing you set forth to do, and I know you will do your part.</q> 
+</p><p>
+   Official government policy wisely urged college students to stay in school for the time being. This helped a number of colleges that otherwise might have collapsed to survive
+the first months of crisis. As late as<date>1943</date>, federal policy was that students should not immediately rush to the colors; rather, they should remain on campus where they could<q>"develop qualities of leadership."</q> Colleges and universities were urged to <q>"provide effective education to meet the needs of technical, scientific,
+and other professional services."</q> All this was easier said than done.</p><p>
+<pb n="5"/> </p>
+<p>
+<placeName id="#RS11">Pearl Harbor</placeName> altered the atmosphere of typical college life swiftly and forever, but structural change came slower and worked itself out
+during early <date>1942</date>. At their <date>February</date> meeting, trustees approved a summer session to accelerate graduation, and for the first time in the school's
+history allowed women to study here during the summer of <date>1942</date>.<img ref="https://github.com/wludh/digital-editions/blob/master/assets/img/womenatWL.pdf"></img> This news made a splash in the press when an <org>Associated Press</org> story was featured in the <org>Memphis Commercial Appeal</org> with a headline: <q>"<placeName id="#WLU">W and L</placeName> Goes Sissy."</q></p>
+<p>
+   Some 286 summer students enrolled in <date when="1942-06">June 1942</date>; twenty-four were women. By the fall of <date>1942</date>, 1B7 students had enlisted. By year's end,
+fourteen alumni had been killed in action, most from the classes of <date>1939</date>through <date>1942</date>. We began the <date>1942</date>-<date><abbr>43</abbr><expand>1943</expand></date> academic year with some 300 fewer students than the normal 900. By the end of the year, we had only 300 students left. Needless to say, campus social life was strictly curtailed.</p><p>In <date when="1942-12">December 1942</date>, the trustees cancelled football for the duration, and within three months the <org>Ring-tum-Phi</org> suspended publication until the war ended. Instead of name bands, local groups played for student dances. Flowers on corsages were replaced by war savings stamps. By that spring the president of the spring dance set had joined up. So had all but one of the junior class officers, and the yearbook that year was a tribute to the more than eighteen hundred alumni who were engaged inthe struggle.</p><p>Graduation <date>1943</date> is still etched in that class's memory. The class had been hard hit by attrition and the accelerated academic program. When the new graduates gathered in front of <placeName id="#RS13"><persName id="#RHS13">Lee</persName> Chapel</placeName> at sunrise after graduation to sing "College Friendships," it was an emotional scene. Moreover, the administrators were facing a prospect of fewer than one hundred students enrolling for the fall term.</p>
+<p> 
+   <persName id="#RHS12">Dr. Gaines</persName> could not afford to remain emotional for long. He faced a crisis. As with many American colleges of the time, we confronted 
+possible extinction. Gaines worked overtime to get some sort of government program here and, aided apparently by <orgname>Army</orgname> Chief of Staff<persName id="#RHS14">General George C. Marshall</persName>, a <placeName id="#VMI"><abbr>VMI<note>According to VMI's website "More than 4,000" alumni answered the call to serve between 1941 and 1945."</note></abbr><expand>Virginia Military Institute</expand></placeName> graduate who had fond memories of <placeName id="#LEX1">Lexington</placeName>, the president succeeded. The program at <placeName id="#WLU">W and L</placeName>, together with the influx of GIs enrolled in the <org>Army Specialized taining Program</org> <abbr>(ASTP)</abbr> at <placeName id="#VMI"><abbr>VMI</abbr><expand>Virginia Military Institute</expand></placeName>, changed the town. One of the participants at<placeName id="#VMI"><abbr>VMI</abbr><expand>Virginia Military Institute</expand></placeName>, <persName id="#RHS15">Gore Vidal</persName>, who later won fame as a writer, studied with <persName id="#RHS16">ColonelCarrington Tutwiler</persName>. Another ersatz <abbr>ASTP</abbr> Keydet was the comedian<persName id="#RHS17">Mel Brooks</persName>. When asked years later what he had done during the war,<persName id="#RHS17" >Mel</persName> responded with zeal: <q>"I went to Virginia Military Institute and
+learned to become a Confederate cavalry officer."</q> </p> 
+<p> 
+   <pb n="6"/> </p>
+<figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article1.jpg"></figure>
+<p>
+<pb n="7"/> </p>
+<p> 
+During much of <date>1942</date>, <persName id="#RHS12">Gaines</persName>, who was always an effective salesman, lobbied the <org>Army</org> to establish some sort of program on campus.He urged the military to consider what an ideal place this campus was for the Army. Classroom space, available faculty, indeed' the whole atmosphere of a college is aimed, as he said, at pushing students to cover<q>"swiftly a large program of intensive study."</q> <placeName id="#LEX1">Lexington</placeName> was the perfect place. Its two colleges had the classrooms-the government would not have to build them. The Army could have full use of the library, gym, swimming pools, tennis courts, and lab space. Furthermore, <placeName id="#LEX1">Lexington</placeName>had medical facilities in place.</p>
+<p> 
+   His case, presented during <date>1942</date> and later when it looked as if the school might move, struck a chord. We signed a contract in mid-<date>1942</date> that insured 
+<placeName id="#WLU">W and L</placeName>'s survival. Thus, <placeName id="#WLU">Washington and Lee</placeName> welcomed the<org>School for Special and Morale Services</org>. The official purpose of the School, which had been located at <placeName id="#RS14">Fort Meade, Maryland</placeName>, was to devise,plan, and supervise <q>"practicable activities for combat troops in Theaters of Operations domestic and overseas,"</q> and to <q>"instruct and train <org>Army</org>personnel in the approved purposes, doctrines, materials, methods and operative procedures in all phases of the duties and responsibilities of the Special Services Branch."</q> That branch consisted of combat officerswho would command units close to the lines and deliver recreation,games, movies, reviews, shows, and other morale support for the fight-ing men.</p>
+<p>
+   A special propaganda room in the library supported that part of the program aimed at training officers to answer questions that might arise among front line troops: What are 
+we doing here? Why are we fighting? why is <persName id="#RHS18"><note ref="https://www.youtube.com/watch?v=6XnsYZxH2nI">Hitler</note></persName> so dangerous? Is this really my war?</p><p>the administration made a rental arrangement with the <org>Army</org>, leasing virtually the entire campus to the military. We charged the government 99 cents per day for each person living on campus and 49 cents for each soldier living off campus. In <date when="1942-11">November 1942</date>, we advised the freshmen that they would have to vacate <placeName id="#RS15">Graham-Lees dormitory</placeName> by 6 P.M. on <date when="28-11">November 28</date>. Students moved their clothes and baggage into private homes as the troops moved into the dorm. <persName id="#RHS12">President Gaines</persName> advised his students that this arrangement might save the freshmen as much as four dollars per month. Classes at the Army school began on <date when="1942-12-7">December 7</date>,one year to the day after <placeName id="#RS11">Pearl Harbor</placeName>.</p>
+<p>Other than the construction of <placeName id="#RS16">Washington Annex</placeName> behind <placeName id="#RS17">Washington Hall</placeName>, which served as the enlisted men's mess hall, the <org>Army</org> used regular campus facilities. <placeName id="#RS18">Tucker Hall</placeName> and <placeName id="#RS19">Robinson Hall</placeName> became the
+headquarters. The finance section moved into <placeName id="#RS20">Newcomb Hall</placeName>. <placeName id="#RS20">Reid Hall</placeName>was used for classroom space and a lounge. Dormitories served as bar-racks, a PX, and an officer's mess. A home on Letcher Avenue became</p>
+<p> 
+   <pb n="8"/> </p>
+   <figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article2.jpg"></figure>
+</body>
 
-<div> 
-   <org>The Officer's Club</org>, and the motor pool was established below the gym
-at the corner of <placeName id="#RS21">Washington</placeName> and <placeName id="#RS22">Nelson Streets</placeName>. The college and the
-school shared <placeName id="#RS10">McCormick Library</placeName>, which also housed, under armed
-guard, a moving van's worth of valuable documents from the <org>U.S.
-National Archives</org>. <placeName id="#RS17">Washington Hall</placeName> was the focus for normal college
-activities.</div>
-<div> Many members of the faculty had already left to join the war effort.
-Others who remained threw themselves into the work of the <org>Army
-School</org>. <persName id="#RHS19">Dean Frank Gilliam</persName> was the first liaison officer. <persName id="#RHS20">Rupert Latture</persName></div>
-<div> 
-   <pb n="9"/> </div>
+<p> 
+   <org>The Officer's Club</org>, and the motor pool was established below the gym at the corner of <placeName id="#RS21">Washington</placeName> and <placeName id="#RS22">Nelson 
+Streets</placeName>. The college and the school shared <placeName id="#RS10">McCormick Library</placeName>, which also housed, under armed guard, a moving van's worth of valuable documents from the <org>U.S. National Archives</org>. <placeName id="#RS17">Washington Hall</placeName> was the focus for normal college activities.</p><p> Many members of the faculty had already left to join the war effort.Others who remained threw themselves into the work of the <org>Army School</org>. <persName id="#RHS19">Dean Frank Gilliam</persName> was the first liaison officer. <persName id="#RHS20">Rupert Latture</persName></p>
+<p> 
+   <pb n="9"/> </p>
 
-   <div> stepped in to become <placeName id="#WLU">W and L</placeName>'s Dean of Students, Director of Housing, and
-Buildings and Grounds Director. <persName id="#RHS21">Dr. Allen Moger</persName> became Director of
-Testing at the <org>Army School</org>.</div>
-<div> 
-   Initially, the personnel included 20 civilians, 60 enlisted men, and
-90 officers. At its peak it employed 125 civilians, 100 enlisted men, and
-90 officers. Over the weeks, quirks smoothed out and difficulties eased,
-and by early <date>1944</date>, the <org>School for Special Services</org> was running full tilt.
-Some twelve hundred young officer trainees moved through the pro-
-gram swiftly, in twenty-eight days, completing some 192 hours of
-instruction.</div>
-<div> 
-   They learned to run a PX, produce variety shows, organize games,
-and conduct physical training. Each Sunday evening they presented
-matinees at <placeName id="#RS25">Doremus Gym</placeName> for local crowds of productions like <title>USA, OK</title>
-or <title>Hi, Yank</title>. Among the participants were <persName id="#RHS22">David Wayne</persName>, who presented
-<placeName id="#RS26">Broadway</placeName>-level shows, and <persName id="#RHS23">Red Skelton</persName>, who kept <persName id="#RHS24">Lexingtonians</persName>
-rolling in the aisles long before he became a famous television comic.
-<persName id="#RHS25">Melvin Douglas</persName> and <persName id="#RHS26">Lanny Ross</persName> thrilled townsfolk with their talents.
-One instructor, <persName id="#RHS27">Norm Lord</persName>, grew to love this place so much, he decided
-to live here after the war.</div>
-<div>
-   Although the School provided some of the best entertainment <placeName id="#LEX1">Lex-
-ington</placeName> has ever enjoyed, its aim was deadly serious. Trainees learned to
-relieve troops of boredom, and keep combat soldiers happy, in touch
-with their families, and informed of war aims and news in a way that
-countered the <org>Axis war       (image over here learn how to get that in)
-machine</org>'s propaganda.
-Although the program was
+   <p> stepped in to become <placeName id="#WLU">W and L</placeName>'s Dean of Students, Director of Housing, and Buildings and Grounds Director. <persName id="#RHS21">Dr. Allen 
+Moger</persName> became Director of Testing at the <org>Army School</org>.</p><p> Initially, the personnel included 20 civilians, 60 enlisted men, and 90 officers. At its peak it employed 125 civilians, 100 enlisted men, and 90 officers. Over the weeks, quirks smoothed out and difficulties eased,and by early <date>1944</date>, the <org>School for Special Services</org> was running full tilt.Some twelve hundred young officer trainees moved through the program swiftly, in twenty-eight days, completing some 192 hours of
+instruction.</p>
+<p> 
+   They learned to run a PX, produce variety shows, organize games,and conduct physical training. Each Sunday evening they presented matinees at <placeName id="#RS25">Doremus Gym
+</placeName> for local crowds of productions like <title>USA, OK</title>or <title>Hi, Yank</title>. Among the participants were <persName id="#RHS22">David Wayne</persName>, 
+who presented<placeName id="#RS26">Broadway</placeName>-level shows, and <persName id="#RHS23">Red Skelton</persName>, who kept <persName id="#RHS24">Lexingtonians</persName>rolling in the aisles long before he became a famous television comic. <persName id="#RHS25">Melvin Douglas</persName> and <persName id="#RHS26">Lanny Ross</persName> thrilled townsfolk with their talents. One instructor, <persName id="#RHS27">Norm Lord</persName>, grew to love this place so much, he decided to live here after the war.</p>
+<p>
+   Although the School provided some of the best entertainment <placeName id="#LEX1">Lexington</placeName> has ever enjoyed, its aim was deadly serious. Trainees learned to
+relieve troops of boredom, and keep combat soldiers happy, in touch with their families, and informed of war aims and news in a way that countered the <org>Axis war       <figure ref="https://github.com/wludh/digital-editions/blob/master/assets/img/article3.jpg"></figure>
+machine</org>'s propaganda. 
+Although the program was 
 strictly military, the atmos-
 phere was open. <persName id="#RHS24">Lexingto-
-nians</persName> enjoyed the concerts,
+nians
+</persName> enjoyed the concerts,
 shows, and symposiums,
 and many local people par-
 ticipated in the programs,
-which in time expanded to
-several sections dealing
-with recreation, orienta-
-tion, education, and per-
-sonnel services, training
-officers to draw up wills,
-handle insurance issues,
-and even ameliorate family
-disputes. In time, the pro-
-gram's increased scope
-required quartering three</div>
-<div>
-<pb n="10"/> </div>
+ which in time expanded to 
+ several sections dealing 
+ with recreation, orienta-
+ tion, education, and per-
+ sonnel services, training
+ officers to draw up wills,
+ handle insurance issues,
+ and even ameliorate family 
+ disputes. In time, the pro-
+ gram's increased scope
+ required quartering three</p>
+<p>
+<pb n="10"/> </p>
 
-<div>
-   or four troopers per dorm room, and the basement of <placeName id="#RS13">Lee Chapel</placeName><note> was recently renovated before the 2023-2024 school year</note>
-used as a lecture hall eight hours each day.</div>
-<div>Some years ago, one student, <persName id="#RHS28">Will Tankersley</persName>, wrote an excellent
-essay on the program, in which he discussed <persName id="#RHS29">Dr. Moger</persName>'s testing meth-
-ods. <persName id="#RHS29">Dr. Moger</persName>, for many years professor of history at <placeName id="#WLU">Washington and
-Lee </placeName>and a prime mover in the <org>Rockbridge Historical Society</org>, ran a test-
-ing program that was both rigorous and humane. Students took up to
-four exams during the course. But the need for personnel was so crucial
-that some men who failed the tests eventually graduated from the pro-
-gram, especially if they had talent. <persName id="#RHS29">Dr. Moger</persName> reported that <persName id="#RHS23">Red Skelton</persName>,
-for example, who never rose above the rank of private because he was
-happy where he was, <q>"couldn't pass any exam devised by the mind of
-man."</q> He was certified, however, because of his show business skills.</div>
-<div> During this period, <persName id="#RHS12">Dr. Gaines</persName>'s task was not easy and his job no
-laughing matter. In addition to trying to keep his now very small college
-afloat and traveling around the country using his oratorical skills in the
-War Bond effort, he found himself constantly having to stroke the <org>Army</org>
-in order to keep it here. His job was made more difficult by some of our
-alumni and by the widespread racial prejudice that marked them and
-plagued that era.</div>
-<div> 
-   Some of our <soCalled>"old grads"</soCalled> grew concerned when they heard that black
-troops were being trained at <placeName id="#WLU">Washington and Lee</placeName>. One of them was a
-<org>Virginia newspaper</org> editor who, in the words of another alumnus who
-strongly supported <persName id="#RHS12">Gaines</persName>, was quite <q>"rabid"</q> on the race issue. The mat-
-ter vexed the president, especially between <date>March</date> and <date>November</date> <date>1943</date>.
-In <date>March</date>, African-American newspapers around the country published
-a story that four Negroes would receive diplomas in <placeName id="#RS13">Lee Chapel</placeName>. The
-story said that <q>"history will be made Saturday when, for the first time,
-four Negroes-the first ever to attend a major Vhite College in the
-South"-will graduate. The paper reported that the men "have been
-attending the old Virginia College and living on campus, along with
-white officers.</q></div>
-<div>Stories like this continued to surface, and, by <date>November</date>, an <placeName id="#RS28">Atlanta</placeName>
-alumnus wrote <persName id="#RHS12">Gaines</persName>, informing him that <q>"loose talk is going around"</q>
-town that colored girls were attending dances at the college and that
-blacks and whites were dancing together in <placeName id="#LEX1">Lexington</placeName>. Some of the let-
-ters were insulting, sharply worded, and, looking back on them now,
-totally inappropriate, if not pig-headed. They also nearly cost <placeName id="#WLU">W and L</placeName> the
-<org>Army School</org>. At least one alumnus stepped over the bounds when he
-protested to <placeName id="#RS29">Washington</placeName> about the presence of black students on cam-
-pus. The general in charge of the program informed <persName id="#RHS12">Gaines</persName> that unless
-he muzzled the protesters, the government would cancel the contract.
-The <org>Army school</org> would be transferred to <placeName id="#RS30">Washington State University</placeName></div>
-<div> 
-   <pb n="11"/> </div>
+<p>
+   or four troopers per dorm room, and the basement of <placeName id="#RS13">Lee Chapel</placeName><note> was recently renovated before the 2023-2024 school year</note> used as 
+a lecture hall eight hours each day.</p><p>Some years ago, one student, <persName id="#RHS28">Will Tankersley</persName>, wrote an excellent essay on the program, in which he discussed <persName id="#RHS29">Dr. Moger</persName>'s testing methods. <persName id="#RHS29">Dr. Moger</persName>, for many years professor of history at <placeName id="#WLU">Washington and Lee </placeName>and a prime mover in the <org>Rockbridge Historical Society</org>, ran a testing program that was both rigorous and humane. Students took up to
+four exams during the course. But the need for personnel was so crucial that some men who failed the tests eventually graduated from the program, especially if they had talent. <persName id="#RHS29">Dr. Moger</persName> reported that <persName id="#RHS23">Red Skelton</persName>, for example, who never rose above the rank of private because he was happy where he was, <q>"couldn't pass any exam devised by the mind of man."</q> He was certified, however, because of his show business skills.</p><p> During this period, <persName id="#RHS12">Dr. Gaines</persName>'s task was not easy and his job no laughing matter. In addition to trying to keep his now very small college afloat and traveling around the country using his oratorical skills in the War Bond effort, he found himself constantly having to stroke the <org>Army</org> in order to keep it here. His job was made more difficult by some of our alumni and by the widespread racial prejudice that marked them and plagued that era.</p>
+<p> 
+   Some of our <soCalled>"old grads"</soCalled> grew concerned when they heard that black troops were being trained at <placeName id="#WLU">Washington and Lee</placeName>. One 
+of them was a <org>Virginia newspaper</org> editor who, in the words of another alumnus who strongly supported <persName id="#RHS12">Gaines</persName>, was quite <q>"rabid"</q> on the race issue. The matter vexed the president, especially between <date>March</date> and <date>November</date> <date>1943</date>. In <date>March</date>, African-American newspapers around the country published a story that four Negroes would receive diplomas in <placeName id="#RS13">Lee Chapel</placeName>. The story said that <q>"history will be made Saturday when, for the first time, four Negroes-the first ever to attend a major White College in the South"-will graduate. The paper reported that the men "have been attending the old Virginia College and living on campus, along with white officers.</q></p> <p>Stories like this continued to surface, and, by <date>November</date>, an <placeName id="#RS28">Atlanta</placeName> alumnus wrote <persName id="#RHS12">Gaines</persName>, informing him that <q>"loose talk is going around"</q> town that colored girls were attending dances at the college and that blacks and whites were dancing together in <placeName id="#LEX1">Lexington</placeName>. Some of the letters were insulting, sharply worded, and, looking back on them now, totally inappropriate, if not pig-headed. They also nearly cost <placeName id="#WLU">W and L</placeName> the <org>Army School</org>. At least one alumnus stepped over the bounds when he protested to <placeName id="#RS29">Washington</placeName> about the presence of black students on campus. The general in charge of the program informed <persName id="#RHS12">Gaines</persName> that unless he muzzled the protesters, the government would cancel the contract.
+The <org>Army school</org> would be transferred to <placeName id="#RS30">Washington State University</placeName></p>
+<p> 
+   <pb n="11"/> </p>
 
-   <div>
-      <persName id="#RHS12">Gaines</persName>, whose skill as a letter writer matched his talents as an ora-
-tor, took on the protesters. His letters developed consistent themes.
-After smoothing any ruffled feathers, he pointed out that the university
-was renting out its campus to a government school and that <placeName id="#WLU">W and L</placeName> had
-no choice as to who attended the program, nor did the school control its
-content. Then he carefully stressed that no <persName id="#RHS24">Lexingtonians</persName>-and they knew the program best-had voiced criticism.</div>
-<div>Then he pulled up his howitzers. He reminded the alumni that the
-country was in a national emergency. He informed them that <q>"Negroes
-as well as Whites"</q> are offering their lives in the nation's service. He
-explained that ours was the only school in the country that offered such
-a program, the aims of which he carefully explained. He stressed that
-<q>"Negro units in our fighting forces need the same kind of morale lead-
-ership in the hands of trained specialists that white forces need. He said
-that numbers of African Americans in <placeName id="#LEX1">Lexington</placeName> were small, but he also
-stressed that they "have to get this training at our school or those Negro
-units would not get that type of leadership."</q> <persName id="#RHS12">Gaines</persName>, who knew the South
-and its problems as well as anyone, was always informative, honest, and
-firm. And in time the issue died down.</div>
-<div> 
-   To appreciate the pressures he faced, remember that during this
-period, through the summer and into the autumn of <date>1943</date>, <persName id="#RHS12">Gaines</persName> was
-<soCalled>"drafted,"</soCalled> as he said, to chair the <org>Virginia War Bonds program</org>. He wrote
-that the scope of the program, which was <q>"to raise the biggest amount of
-money in history"</q> caused him <q>"one uninterrupted headache."</q> When he
-took over the effort during the summer, he found that the two agencies
-in charge-the <org>War Savings Staff</org> and the <org>Victory Loan Committee</org> for
-special drives-were being merged and the combined operation was in
-an <q>"incredible mess."</q> The task meant frequent trips to <placeName id="#RS31">Richmond</placeName> and
-<placeName id="#RS29">Washington</placeName>, and culminated in a massive war bonds campaign that
-began on <date when="1943-20-09">September 20, 1943</date>.</div>
-<div>During this same period, <persName id="#RHS12">Gaines</persName> coped with running his university.
-One student asserted that <placeName id="#WLU">W and L</placeName> had <q>"lost a greater percentage of her stu-
-dent body to the armed forces than any other college."</q> Summing up, he
-said: <q>"Everything changed, everything was halved, quartered, or ruled
-out. Things which had mattered no longer did." He believed that <placeName id="#WLU">W and L</placeName>
-was of all schools "hardest hit by the war."</q></div>
-<div>
-   The number of students attending <placeName id="#WLU">W and L</placeName> during the war seems
-incredibly small by today's standards. From <date>February</date> to <date>August</date> <date>1945</date>,
-we awarded a grand total of eight degrees. The administration's rule of
-thumb seemed to be that the school would remain open so long as there
-were one hundred students in attendance. The typical freshman class
-then numbered some forty boys. The curriculum had to be adjusted and
-efforts made to offer a full freshman and sophomore program in the <org>col-</div>
+   <p>
+      <persName id="#RHS12">Gaines</persName>, whose skill as a letter writer matched his talents as an orator, took on the protesters. His letters developed consistent themes.
+After smoothing any ruffled feathers, he pointed out that the university was renting out its campus to a government school and that <placeName id="#WLU">W and L</placeName> had
+no choice as to who attended the program, nor did the school control its content. Then he carefully stressed that no <persName id="#RHS24">Lexingtonians</persName>-and they knew the program best-had voiced criticism.</p><p>Then he pulled up his howitzers. He reminded the alumni that the country was in a national emergency. He informed them that <q>"Negroes as well as Whites"</q> are offering their lives in the nation's service. Heexplained that ours was the only school in the country that offered such a program, the aims of which he carefully explained. He stressed that <q>"Negro units in our fighting forces need the same kind of morale leadership in the hands of trained specialists that white forces need. He said that numbers of African Americans in <placeName id="#LEX1">Lexington</placeName> were small, but he also stressed that they "have to get this training at our school or those Negro units would not get that type of leadership."</q> <persName id="#RHS12">Gaines</persName>, who knew the South and its problems as well as anyone, was always informative, honest, and firm. And in time the issue died down.</p>
+<p> 
+   To appreciate the pressures he faced, remember that during this period, through the summer and into the autumn of <date>1943</date>, <persName id="#RHS12">Gaines</persName> 
+was <soCalled>"drafted,"</soCalled> as he said, to chair the <org>Virginia War Bonds program</org>. He wrote that the scope of the program, which was <q>"to raise the biggest amount of money in history"</q> caused him <q>"one uninterrupted headache."</q> When he took over the effort during the summer, he found that the two agencies in charge-the <org>War Savings Staff</org> and the <org>Victory Loan Committee</org> for special drives-were being merged and the combined operation was in an <q>"incredible mess."</q> The task meant frequent trips to <placeName id="#RS31">Richmond</placeName> and <placeName id="#RS29">Washington</placeName>, and culminated in a massive war bonds campaign that
+began on <date when="1943-20-09">September 20, 1943</date>.</p><p>During this same period, <persName id="#RHS12">Gaines</persName> coped with running his university. One student asserted that <placeName id="#WLU">W and L</placeName> had <q>"lost a greater percentage of her student body to the armed forces than any other college."</q> Summing up, he said: <q>"Everything changed, everything was halved, quartered, or ruled out. Things which had mattered no longer did." He believed that <placeName id="#WLU">W and L</placeName>
+was of all schools "hardest hit by the war."</q></p>
+<p>
+   The number of students attending <placeName id="#WLU">W and L</placeName> during the war seems incredibly small by today's standards. From <date>February</date> to <date>
+August</date> <date>1945</date>,we awarded a grand total of eight degrees. The administration's rule of thumb seemed to be that the school would remain open so long as there
+were one hundred students in attendance. The typical freshman class then numbered some forty boys. The curriculum had to be adjusted and efforts made to offer a full freshman and sophomore program in the <org>college and Commerce School</org></p>
 
-<div>
-   <pb n="12"/> </div>
+<p>
+   <pb n="12"/> </p>
+
+<p>  from <date>1943</date> to <date>1945</date>. Recruitment material stressed that high school graduates at sixteen or seventeen could make
+their <q>"wisest investment"</q> by attending <placeName id="#WLU">W and L</placeName> between the time they completed high school and reached the selective service age of eighteen.</p><p>All upper level programs-pre-med, pre-engineering, and journalism-depended on demand. In his messages to the students, many of whom were seventeen-year-olds who had completed high school and were waiting to be called, <persName id="#RHS12">Gaines</persName> stressed <q>those things which had stayed the same: our traditions of warmth and friendliness, our emphasis on the individual, the core of our spiritual heritage, and honor. These still mattered. All else had, indeed, changed.</q></p>
+<p> 
+   In <date>December</date> <date>1942</date>, the trustees captured the school's spirit when they voted to discontinue intercollegiate sports <q>"until the war is won . . .thus 
+abandoning the battles of the playing field for the greater fight."</q> great stress was placed on intramurals and physical education. Running an obstacle course became a major pastime for the boys whose big brothers, only months before, had been running down the road.</p>
+<p> 
+   A few students were disappointed by the cutbacks, particularly the drastically reduced social life, lack of big name bands, and curtailed graduation ceremonies. One student 
+used the school newspaper to lament the changes. He insisted that since <q>"he and his classmates faced uncertain futures and were in the last year of school, they ought to go
+out in style with gay dances, caps and gowns . . . and the rest of the things that make up <placeName id="#WLU">Washington and Lee</placeName>."</q></p><p>The case of one fraternity, <org>the Betas</org>, gives the period flavor. On <date when="1942-08-05">May 8, 1943</date>, <org>Alpha Rho chapter of Beta Theta Pi</org> had its last meeting
+and passed out of existence when virtually all the members entered the service. After graduation, a handful of brothers remained behind to close down the house. They stored all chapter records, books, and trophies at a local bank, and loaned out the furniture to <placeName id="#LEX1">Lexington</placeName> homes for safekeeping. The end of an era arrived when the remaining brother turned over the house key to the <org>University Registrar</org>. Two members remained behind for the summer session, but when the last brother
+graduated and joined the <org>Navy</org>, the chapter was gone. <placeName id="#RS33">Red Square</placeName> joined other campus facilities that were tumed over to the <org>Army</org> for use by <org>the School of Special Services</org></p>
+<p> 
+   During the closing months of the war, <placeName id="#WLU">W and L</placeName> began sending out bulletins urging young Americans to consider their <q>"post-war education"</q>
+at <placeName id="#WLU">Washington and Lee</placeName>. In time, <persName id="#RHS12">President Gaines</persName>could report that about one-third of the school's living alumni and one-half of the staff were either in uniform or engaged in war work. Among the alumni, 136 werelost in the war.</p>
+<p>
+   <pb n="13"/> </p>
+
+   <p>
+      During the summer of <date>1945</date>, <placeName id="#WLU">W and L</placeName> began to receive inquiries from former faculty members about jobs at postwar <placeName id="
+#WLU">Washington and Lee</placeName>, and we began to gear up for our largest enrollments in history. But <persName id="#RHS12">Dr. Gaines</persName>, ever mindful of the budget, urged all former professors to stay in uniform as long as they could.</p>
+<p>
+   It is remarkable how quickly the school got back to normal after World War II. Quick demobilization, spurred on by the <soCalled>"Bring Daddy Home by Christmas"</soCalled> 
+campaign, led to a rapid decline in the number of students at the <org>Special Services program</org>. On <date when="1946-06-06">June 6, 1946</date>, the <org>Army</org>
+School pulled up stakes and moved to <placeName id="#RS34">Carlisle, Pennsylvania</placeName><note>Carlisle's population after the 2021 census was 20,144</note>. Twenty-two thousand graduates had completed the <org>Army</org> program.</p>
+<p> 
+   As early as <date>September</date> <date>1945</date>, veterans began to drift back to college. By second semester, they became more numerous, along with transfer students. In 
+<date>April</date> <date>1946</date>, the university sanctioned Rush Week. At this stage, many fraternities, including the <org>Betas</org>, had not taken over their old houses completely, although they used the bars and lounges for weekend parties and for Finals Weekend.</p>
+<p>
+   By <date when ="1945-25-12">Christmas 1945</date>, the veterans had already organized the campus, aided in part by the new phenomenon of the day, the student wife. In record 
+time, it seems, they had renewed fraternal ties, reinvigorated <org>student government</org>, reformed the <org>Assimilation Committee</org>, re-established prestigious organizations like the <org>Cotillion Club</org>, <org>the White Friars</org>, and <org>the "13" Society</org>, and publications like <org>the Calyx</org> and the <org>Ring-tum-Phi</org>.In Red Square, the brothers spent much of the summer of <date>1946</date> repairing the fraternities. Some found that military occupation of Red Square had not been easy on the houses. They returned to discover broken doors, holes and cracks in the walls, wallpaper ripped, paint cracked, and floors scratched and worn. As one returning vet reported, the floors had to be sanded and finished throughout the whole house, because <q>"for two and a half years of GI shoes, without protective covering of any kind, ruined them."</q> When fall term began in <date>1946</date>, the houses were in shape for Rush Week which ended on <date>September 22</date>.</p>
+<p>
+   The <org>Beta</org> alumni secretary, <persName id="#RHS30">Stew Epley</persName>, a decorated <org>Air Corps</org> veteran and later treasurer of <placeName id="#WLU">
+Washington and Lee</placeName>, reported on such things to <org>Alpha Rho chapter alumni</org>. It is clear, however, that hanging over a busy campus, one that was full of life, was a shadow: the fond memories of brothers who had not returned from the war. The <org>Betas</org> lost three: <persName id="#RHS31">Doug Jamieson</persName>, killed in <date>December</date> <date>1944</date> while serving with the <org>78th Division</org>; <persName id="#RHS32">"Hoot" Gibson</persName>, late of the <org>Seventh Army</org>, lost in <placeName id="#RS35">France</placeName>; and <persName id="#RHS33">William Hood</persName>, killed during the Italian campaign.</p>
+<p>
+   Those who did return, or who enrolled for the first time, found a university that was dedicated to <q>"the reconstruction of its normal life and academic program as speedily as possible."</q> An accelerated program,</p>
+<p>
+   <pb n="14"/> </p>
+
+   <p>
+      including summer school, allowed students to begin work in <date>September</date>, <date>February</date>, or <date>June</date>, and in some cases, in the middle of terms, 
+<date>November 15</date>, <date>April 1</date>, or <date>July 20</date>. The school buckled down to give veterans the opportunity to complete college with dispatch, and an average cost for a comfortable year at the college, including tuition, books, room, board, and incidental expenses was tabulated at just over $800.</p><p> In the autumn of <date>1946</date>, the <org>football team</org> reappeared after a four-year hiatus. It reflected the tone of the student body and was made up mainly of freshmen. It faced some powerful competition from schools that had continued football during the war, and it employed a fast-paced, gamble-filled T:formation that scored more points than any
+<placeName id="#WLU">Washington and Lee</placeName> team since 1929. It rolled up the highest offensive yardage totals in the nation-and it only won two games.</p>
+<p> 
+   That team serves as a metaphor for that generation of <placeName id="#WLU">Washington and Lee</placeName> men and the <placeName id="#WLU">W and L</placeName> spirit in 
+general during the war. Like the university during the war, the fellows who came back after the conflict displayed a spirit that runs like a thread through the history of this place: a willingness to scratch, to struggle, and to persevere; to buckle down, to prosper, to survive.
 
 
 
-<div> lege and Commerce School</org> from <date>1943</date> to <date>1945</date>. Recruitment material
-stressed that high school graduates at sixteen or seventeen could make
-their <q>"wisest investment"</q> by attending <placeName id="#WLU">W and L</placeName> between the time they com-
-pleted high school and reached the selective service age of eighteen.</div>
-<div>All upper level programs-pre-med, pre-engineering, and journal-
-ism-depended on demand. In his messages to the students, many of
-whom were seventeen-year-olds who had completed high school and
-were waiting to be called, <persName id="#RHS12">Gaines</persName> stressed <q>those things which had stayed
-the same: our traditions of warmth and friendliness, our emphasis on the
-individual, the core of our spiritual heritage, and honor. These still mat-
-tered. All else had, indeed, changed.</q></div>
-<div> 
-   In <date>December</date> <date>1942</date>, the trustees captured the school's spirit when
-they voted to discontinue intercollegiate sports <q>"until the war is won . . .
-thus abandoning the battles of the playing field for the greater fight."</q>
-Great stress was placed on intramurals and physical education. Running
-an obstacle course became a major pastime for the boys whose big
-brothers, only months before, had been running down the road.</div>
-<div> 
-   A few students were disappointed by the cutbacks, particularly the
-drastically reduced social life, lack of big name bands, and curtailed
-graduation ceremonies. One student used the school newspaper to
-lament the changes. He insisted that since <q>"he and his classmates faced
-uncertain futures and were in the last year of school, they ought to go
-out in style with gay dances, caps and gowns . . . and the rest of the
-things that make up <placeName id="#WLU">Washington and Lee</placeName>."</q></div>
-<div>The case of one fraternity, <org>the Betas</org>, gives the period flavor. On
-<date when="1942-08-05">May 8, 1943</date>, <org>Alpha Rho chapter of Beta Theta Pi</org> had its last meeting
-and passed out of existence when virtually all the members entered the
-service. After graduation, a handful of brothers remained behind to
-close down the house. They stored all chapter records, books, and tro-
-phies at a local bank, and loaned out the furniture to <placeName id="#LEX1">Lexington</placeName> homes
-for safekeeping. The end of an era arrived when the remaining brother
-turned over the house key to the <org>University Registrar</org>. Two members
-remained behind for the summer session, but when the last brother
-graduated and joined the <org>Navy</org>, the chapter was gone. <placeName id="#RS33">Red Square</placeName>
-joined other campus facilities that were tumed over to the <org>Army</org> for use
-by <org>the School of Special Services</org></div>
-<div> 
-   During the closing months of the war, <placeName id="#WLU">W and L</placeName> began sending out bul-
-letins urging young Americans to consider their <q>"post-war education"</q> at
-<placeName id="#WLU">Washington and Lee</placeName>. In time, <persName id="#RHS12">President Gaines</persName>could report that about
-one-third of the school's living alumni and one-half of the staff were
-either in uniform or engaged in war work. Among the alumni, 136 were
-lost in the war.</div>
-<div>
-   <pb n="13"/> </div>
+</p>
+</text>
 
-   <div>
-      During the summer of <date>1945</date>, <placeName id="#WLU">W and L</placeName> began to receive inquiries from
-former faculty members about jobs at postwar <placeName id="#WLU">Washington and Lee</placeName>, and
-we began to gear up for our largest enrollments in history. But <persName id="#RHS12">Dr.
-Gaines</persName>, ever mindful of the budget, urged all former professors to stay
-in uniform as long as they could.</div>
-<div>
-   It is remarkable how quickly the school got back to normal after
-World War II. Quick demobilization, spurred on by the <soCalled>"Bring Daddy
-Home by Christmas"</soCalled> campaign, led to a rapid decline in the number of
-students at the <org>Special Services program</org>. On <date when="1946-06-06">June 6, 1946</date>, the <org>Army</org>
-School pulled up stakes and moved to <placeName id="#RS34">Carlisle, Pennsylvania</placeName>. Twenty-
-two thousand graduates had completed the <org>Army</org> program.</div>
-<div> 
-   As early as <date>September</date> <date>1945</date>, veterans began to drift back to college.
-By second semester, they became more numerous, along with transfer
-students. In <date>April</date> <date>1946</date>, the university sanctioned Rush Week. At this
-stage, many fraternities, including the <org>Betas</org>, had not taken over their old
-houses completely, although they used the bars and lounges for week-
-end parties and for Finals Weekend.</div>
-<div>
-   By <date when ="1945-25-12">Christmas 1945</date>, the veterans had already organized the campus,
-aided in part by the new phenomenon of the day, the student wife. In
-record time, it seems, they had renewed fraternal ties, reinvigorated <org>stu-
-dent government</org>, reformed the <org>Assimilation Committee</org>, re-established
-prestigious organizations like the <org>Cotillion Club</org>, <org>the White Friars</org>, and
-<org>the "13" Society</org>, and publications like <org>the Calyx</org> and the <org>Ring-tum-Phi</org>.In
-Red Square, the brothers spent much of the summer of <date>1946</date> repairing
-the fraternities. Some found that military occupation of Red Square had
-not been easy on the houses. They returned to discover broken doors,
-holes and cracks in the walls, wallpaper ripped, paint cracked, and floors
-scratched and worn. As one returning vet reported, the floors had to be
-sanded and finished throughout the whole house, because <q>"for two and
-a half years of GI shoes, without protective covering of any kind, ruined
-them."</q> When fall term began in <date>1946</date>, the houses were in shape for Rush
-Week which ended on <date>September 22</date>.</div>
-<div>
-   The <org>Beta</org> alumni secretary, <persName id="#RHS30">Stew Epley</persName>, a decorated <org>Air Corps</org> vet-
-eran and later treasurer of <placeName id="#WLU">Washington and Lee</placeName>, reported on such things
-to <org>Alpha Rho chapter alumni</org>. It is clear, however, that hanging over a
-busy campus, one that was full of life, was a shadow: the fond memories
-of brothers who had not returned from the war. The <org>Betas</org> lost three:
-<persName id="#RHS31">Doug Jamieson</persName>, killed in <date>December</date> <date>1944</date> while serving with the <org>78th
-Division</org>; <persName id="#RHS32">"Hoot" Gibson</persName>, late of the <org>Seventh Army</org>, lost in <placeName id="#RS35">France</placeName>; and
-<persName id="#RHS33">William Hood</persName>, killed during the Italian campaign.</div>
-<div>
-   Those who did return, or who enrolled for the first time, found a uni-
-versity that was dedicated to <q>"the reconstruction of its normal life and
-academic program as speedily as possible."</q> An accelerated program,</div>
-<div>
-   <pb n="14"/> </div>
-
-   <div>
-      including summer school, allowed students to begin work in <date>September</date>,
-<date>February</date>, or <date>June</date>, and in some cases, in the middle of terms, <date>November
-15</date>, <date>April 1</date>, or <date>July 20</date>. The school buckled down to give veterans the
-opportunity to complete college with dispatch, and an average cost for a
-comfortable year at the college, including tuition, books, room, board,
-and incidental expenses was tabulated at just over $800.</div>
-<div> 
-   In the autumn of <date>1946</date>, the <org>football team</org> reappeared after a four-
-year hiatus. It reflected the tone of the student body and was made up
-mainly of freshmen. It faced some powerful competition from schools
-that had continued football during the war, and it employed a fast-
-paced, gamble-filled T:formation that scored more points than any
-<placeName id="#WLU">Washington and Lee</placeName> team since 1929. It rolled up the highest offensive
-yardage totals in the nation-and it only won two games.</div>
-<div> 
-   That team serves as a metaphor for that generation of <placeName id="#WLU">Washington
-and Lee</placeName> men and the <placeName id="#WLU">W and L</placeName> spirit in general during the war. Like the uni-
-versity during the war, the fellows who came back after the conflict dis-
-played a spirit that runs like a thread through the history of this place: a
-willingness to scratch, to struggle, and to persevere; to buckle down, to
-prosper, to survive.
-
-
-
-
-</body>
 </TEI>

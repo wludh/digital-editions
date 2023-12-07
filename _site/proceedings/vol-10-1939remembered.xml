@@ -13,13 +13,13 @@
    <editor>Larry I. Bland</editor>
    <sponsor>Rockbridge Historical Society</sponsor>
    <respStmt>
-      <resp>Encoding by:</resp><name>Jeniffer Ventura '25</name>
+      <resp>Encoding by: </resp><name>Jeniffer Ventura '25</name>
    </respStmt>
   </titleStmt>
   
   <editionStmt>
   </editionStmt>
-  <extent>31 KB</extent> <!-- It is going to change the extent of xml file! -->
+  <extent>48.7 KB</extent> <!-- It is going to change the extent of xml file! -->
   <publicationStmt>
    <publisher>Rockbridge Historical Society</publisher>
    <distributor>Washington and Lee University</distributor>
@@ -37,7 +37,7 @@
 
   </seriesStmt>
   <notesStmt>
-   <note>Text encoded as part of DCI 250D: Digital Editions, Fall 2023</note>
+   <note>Text encoded as part of DCI 295D: Digital Editions, Fall 2023</note>
    <note>This text was written from an oral history from different people</note>
   </notesStmt>
   <sourceDesc>
@@ -117,7 +117,7 @@
 
 <person xml:id="RHS-0014">
    <persName>Lewis Tyree</persName>
-   </person>
+</person>
 
 <person xml:id="RHS-0015">
    <persName>Ollinger Crenshaw</persName>
@@ -159,7 +159,7 @@
 <person xml:id="RHS-0022">
    <persName>Robert Hunter</persName>
    <occupation>Professor</occupation>
-   <note>Professor and Alum at <org>Washington and Lee</org></note>
+   <note> Alum at <org>Washington and Lee</org> and Professor at <org>Virginia Military Institute</org></note>
 </person>
 
 <person xml:id="RHS-0023">
@@ -207,6 +207,75 @@
 <person xml:id="RHS-0032">
    <persName>Henry Boley</persName>
    <occupation>Author</occupation>
+</person>
+
+<person xml:id="RHS-0033">
+   <persName>James Lees</persName>
+</person>
+
+<person xml:id="RHS-0034">
+   <persName>Marion Junkin</persName>
+   <occupation>Artist</occupation>
+</person>
+
+<person xml:id="RHS-0035">
+   <persName>Absalom Willis Robertson</persName>
+   <occupation>United States Senator</occupation>
+</person>
+
+<person xml:id="RHS-0036">
+   <persName>G. A. Rhodes</persName>
+   <occupation>Mayor</occupation>
+</person>
+
+<person xml:id="RHS-0037">
+   <persName>Edgar Shannon</persName>
+</person>
+
+<person xml:id="RHS-0038">
+   <persName>Archibald Stuart</persName>
+</person>
+
+<person xml:id="RHS-0039">
+   <persName>Charlie McDowell</persName>
+</person>
+
+<person xml:id="RHS-0040">
+   <persName>Matt Paxton</persName>
+</person>
+
+<person xml:id="RHS-0041">
+   <persName>William Couper</persName>
+   <occupation>College administrator and historian</occupation>
+</person>
+
+<person xml:id="RHS-0042">
+   <persName>Frank Hague</persName>
+   <occupation>Judge</occupation>
+</person>
+
+<person xml:id="RHS-0043">
+   <persName>E. L. Green</persName>
+</person>
+
+<person xml:id="RHS-0044">
+   <persName>Hale Houston</persName>
+</person>
+
+<person xml:id="RHS-0045">
+   <persName>Wayne Morris</persName>
+   <occupation>Actor</occupation>
+</person>
+
+<person xml:id="RHS-0046">
+   <persName>George Marshall</persName>
+   <occupation>General</occupation>
+   <note>General George Marshall was appointed army chief of staff by President Roosevelt</note>
+</person>
+
+<person xml:id="RHS-0047">
+   <persName>Franklin D. Roosevelt</persName>
+   <occupation>President</occupation>
 </person>
 
 <place xml:id="Lex1" type="house">
@@ -370,40 +439,72 @@
       <geo>37.621261594895046, -79.49180182784946</geo>
       </location>
 </place>
+
+<place xml:id="LEX24" type="district">
+   <placeName>Glasgow</placeName>
+      <location>
+      <geo>37.63375041148341, -79.45046424932588</geo>
+      </location>
+</place>
+
+<place xml:id="LEX25" type="district">
+   <placeName>Rockbridge Baths</placeName>
+      <location>
+      <geo>37.92859782436986, -79.40700233669548</geo>
+      </location>
+</place>
+
+<place xml:id="LEX26" type="district">
+   <placeName>Rockbridge County</placeName>
+      <location>
+      <geo>37.80636105772872, -79.51541609325348</geo>
+      </location>
+</place>
+
+<place xml:id="LEX27" type="district">
+   <placeName>McDowell Street</placeName>
+      <location>
+      <geo>37.784017664284264, -79.44692856887362</geo>
+      </location>
+</place>
+
 </standOff>
 <text>
   <front>
-<p>THE Society's Golden Anniversary picnic was held on <date when="1989-07-24">July 24,1989</date>, on the Society's own property behind the <placeName id="#Lex1">Sloan House</placeName>. The program featured brief reminiscences from five people who were acquainted with Lexington and Rockbridge County events in <date when="1939">1939</date> when the Society was founded. <persName id="#RHS-0001">Hunter McClung</persName> grew up in <placeName id="#LEX2">Lexington</placeName>, went to <placeName id="#LEX3">VMI</placeName>, and later returned to practice medicine for many years. <persName id="#RHS-0002">Mary Hope Pusey</persName> came to <placeName id="#LEX2">Lexington</placeName> in <date when="1940">1940</date> as the wife of a <org>Washington and Lee University</org> professor. <persName id="#RHS-0003">Mary Frances Cummings</persName> grew up in <placeName id="#LEX2">Lexington</placeName> and has long been interested in local history. <persName id="#RHS-0021">William "Buck" Buchanan</persName> came to <placeName id="#LEX4">Washington and Lee </placeName> as an undergraduate and later came back to teach. <persName id="#RHS-0022">Robert Hunter</persName> also came to <placeName id="#LEX2">Lexington</placeName> as a <org>Washington and Lee </org> student; he returned to teach history at <placeName id="#LEX3">VMI</placeName>.</p>
+   <pb n="585"/>
+<p>THE Society's Golden Anniversary picnic was held on <date when="1989-07-24">July 24,1989</date>, on the Society's own property behind the <placeName id="#Lex1">Sloan House</placeName>. The program featured brief reminiscences from five people who were acquainted with <placeName id="#LEX2">Lexington</placeName> and <placeName id="#LEX26">Rockbridge County</placeName> events in <date when="1939">1939</date> when the Society was founded. <persName id="#RHS-0001">Hunter McClung</persName> grew up in <placeName id="#LEX2">Lexington</placeName>, went to <placeName id="#LEX3">VMI</placeName>, and later returned to practice medicine for many years. <persName id="#RHS-0002">Mary Hope Pusey</persName> came to <placeName id="#LEX2">Lexington</placeName> in <date when="1940">1940</date> as the wife of a <org>Washington and Lee University</org> professor. <persName id="#RHS-0003">Mary Frances Cummings</persName> grew up in <placeName id="#LEX2">Lexington</placeName> and has long been interested in local history. <persName id="#RHS-0021">William "Buck" Buchanan</persName> came to <placeName id="#LEX4">Washington and Lee </placeName> as an undergraduate and later came back to teach. <persName id="#RHS-0022">Robert Hunter</persName> also came to <placeName id="#LEX2">Lexington</placeName> as a <org>Washington and Lee </org> student; he returned to teach history at <placeName id="#LEX3">VMI</placeName>.</p>
   </front>
   <body>
 
    <div type="section" n="1">
-      <p><persName id="#RHS-0001">Hunter McClung</persName>: I perhaps don't belong here because I was not in <placeName id="#LEX2">Lexington</placeName> very much for ten years, from 1930 to 1941, except when I was at <placeName id="#LEX3">VMI</placeName> between <date when="1931">1931</date> and <date when="1935">1935</date>. I was here long enough to get married in <date when="1939">1939</date>, but then I went to finish medical school in <date when="1939">1939</date> and spent a few years in <placeName id="#Lex5">Philadelphia</placeName> before I came back. But I do remember some things about medicine, being around my father and being interested in the way medicine was practiced in those days.</p>
+      <p><persName id="#RHS-0001">Hunter McClung</persName><note n="11">Dr. O. Hunter McClung, Jr., a Lexington physician for over 40 years, passed away on Saturday, May 23, 1992, at the age of 78. Born on October 17, 1913, in Lexington, Virginia, he was a member of the Lexington Presbyterian Church. For more information visit this <ref target="https://www.findagrave.com/memorial/179442301/oscar-hunter-mcclung">site</ref>!</note>: I perhaps don't belong here because I was not in <placeName id="#LEX2">Lexington</placeName> very much for <num type="cardinal" value="10">ten</num> years, from <date when="1939">1930</date> to <date when="1941">1941</date>, except when I was at <placeName id="#LEX3">VMI</placeName> between <date when="1931">1931</date> and <date when="1935">1935</date>. I was here long enough to get married in <date when="1939">1939</date>, but then I went to finish medical school in <date when="1939">1939</date> and spent a few years in <placeName id="#Lex5">Philadelphia</placeName> before I came back. But I do remember some things about medicine, being around my father and being interested in the way medicine was practiced in those days.</p>
 
       <p><choice><expan>Doctor</expan><abbr>Dr.</abbr></choice><persName id="#RHS-0005">Ned Brush</persName> came here in <date when="1939">1939</date> to practice. <choice><expan>Doctor</expan><abbr>Dr.</abbr></choice> Brooke <persName id="#RHS-0013">Brooke</persName> came a few years before that, and <choice><expan>Doctor</expan><abbr>Dr.</abbr></choice><persName id="#RHS-0006">Ken Byrne</persName>, maybe a year before that. I'm not certain of these dates, but <persName id="#RHS-0007">John Gilmore</persName>, who died about <date when="1942">1942</date>, came about that time also. There were about eight general practitioners in <placeName id="#LEX2">Lexington</placeName>. There were four or five, I believe, in <placeName id="#LEX6">Buena Vista</placeName>, and there was a doctor in <placeName id="#LEX7">Brownsburg</placeName>, <placeName id="#LEX8">Fairfield</placeName>, <placeName id="#LEX9">Natural Bridge Station</placeName>, <placeName id="#LEX10">Collierstown</placeName>, and <placeName id="#LEX11">Raphine</placeName>.</p>
 
+<pb n="586"/>
+
 <figure> <graphic url="1939remembered.png"/><figDesc>Society members and guests line up to get their picnic baskets at the summer meeting, <date when="1989-07-24">July 24, 1989</date>.</figDesc></figure>
 
-      <p>In <date when="1939">1939</date> <placeName id="#LEX12">Jackson Memorial Hospital</placeName>, which had been started by the <org>United Daughters of the Confedency</org> in <date when="1904">1904</date>, had been in operation for <num type="cardinal" value="35">thirty-five</num> years, which is about as long as the present hospital. In <date when="1938">1938</date> the new wing of the old <placeName id="#LEX12">Jackson Memorial Hospital</placeName> was opened. In it were the new operating room and a <num type="ordinal" value="3">third</num>-floor delivery room for babies; previously the babies had been born in the basement. The new wing had a laboratory in the subbasement. Miss <persName id="#RHS-0008">Gwendolyn Howe</persName> was very proud of the fact that they had a good north light which she could use for doing blood sugars in the colorometer. <persName id="#RHS-0008">Gwendolyn</persName> was quite a character.</p>
+      <p>In <date when="1939">1939</date> <placeName id="#LEX12">Jackson Memorial Hospital</placeName><note n="1">In 1906 the Stonewall Jackson House was sold to the United Daughters of the Confederacy and incorporated into the Stonewall Jackson Memorial Hospital. In the 1970s the Historic Lexington Foundation undertook the restoration of the house to make it into a museum. The Hospital is now located off of Spotswood dr.</note>, which had been started by the <org>United Daughters of the Confedency</org><note n="2"> This is the <ref target="https://www.facebook.com/UDCRockbridge/">facebook page</ref> of the organization</note> in <date when="1904">1904</date>, had been in operation for <num type="cardinal" value="35">thirty-five</num> years, which is about as long as the present hospital. In <date when="1938">1938</date> the new wing of the old <placeName id="#LEX12">Jackson Memorial Hospital</placeName> was opened. In it were the new operating room and a <num type="ordinal" value="3">third</num>-floor delivery room for babies; previously the babies had been born in the basement. The new wing had a laboratory in the subbasement. Miss <persName id="#RHS-0008">Gwendolyn Howe</persName> was very proud of the fact that they had a good north light which she could use for doing blood sugars in the colorometer. <persName id="#RHS-0008">Gwendolyn</persName> was quite a character.</p>
 
       <p>The new patient rooms were on the ground floor-the main floor-about ten or <num type="cardinal" value="12">twelve</num> rooms, I suppose. At that time there was no <org>Blue Cross</org> or <num type="ordinal" value="3">third</num>-party insurance. The hospital carried a lot of folks who could not pay and so did the physicians.</p>
 
-      <p>The old hospital was run by the <org>United Daughters of the Confederacy</org>. Miss <persName id="#RHS-0009">Lottie Moore</persName> was the superintendent of nurses and really ran the place mostly, and <persName id="#RHS-0010">Cleveland Davis</persName> was the chairman from the <choice><expan>United Daughters of the Confederacy</expan><abbr><org>UDC</org></abbr></choice>. <persName id="#RHS-0011">Lillian Swink</persName> was the secretary and bookkeeper. One person that some of you<pb n="586"/>will remember was <persName id="#RHS-0012">Sam Morrison</persName>, a black man from <placeName id="#LEX10">Collierstown</placeName> and a lovely person who was the orderly and man of all works. It is really remarkable how much got done with such a small staff. Of course, there wasn't as much demand in those days as there is today.</p>
+      <p>The old hospital was run by the <org>United Daughters of the Confederacy</org>. Miss <persName id="#RHS-0009">Lottie Moore</persName> was the superintendent of nurses and really ran the place mostly, and <persName id="#RHS-0010">Cleveland Davis</persName> was the chairman from the <choice><expan>United Daughters of the Confederacy</expan><abbr><org>UDC</org></abbr></choice>. <persName id="#RHS-0011">Lillian Swink</persName> was the secretary and bookkeeper. One person that some of you <pb n="587"/> will remember was <persName id="#RHS-0012">Sam Morrison</persName>, a black man from <placeName id="#LEX10">Collierstown</placeName> and a lovely person who was the orderly and man of all works. It is really remarkable how much got done with such a small staff. Of course, there wasn't as much demand in those days as there is today.</p>
    </div>
 
 
    <div type="section" n="2">
-      <p><persName id="#RHS-0002">Mary Hope Pusey</persName>: Naturally, my first recollections of <placeName id="#LEX2">Lexington</placeName> are connected with <placeName id="#LEX4">Washington and Lee </placeName>, where my husband had a job. I did not arrive in <placeName id="#LEX2">Lexington</placeName> until <date when="1940">1940</date>, but my husband, then twenty-eight years old and sporting a moustache to conceal his youthful appearance, arrived in <placeName id="#LEX2">Lexington</placeName> as an associate professor and head of the German Department on <date when="1939-09-01">September 1, 1939</date>-the very day that the Nazis launched their blitzkrieg into Poland. This is possibly not the most auspicious date for a Yankee with a strange name like Pusey to make his appearance at <org>General Lee's college</org>.</p>
+      <p><persName id="#RHS-0002">Mary Hope Pusey</persName> <note n="12">Mary Hope Smith Pusey, born on September 28, 1914, in Munday, Texas, passed away in Roanoke, Virginia, on September 15, 1990. She was actively involved in community activities in Lexington, where she spent most of her life, contributing to local PTA functions, volunteer work at the Lexington Presbyterian Church, and various conservation efforts. For more information visit this <ref target="https://www.findagrave.com/memorial/154826815/mary-hope-pusey">site</ref>!</note>: Naturally, my first recollections of <placeName id="#LEX2">Lexington</placeName> are connected with <placeName id="#LEX4">Washington and Lee </placeName>, where my husband had a job. I did not arrive in <placeName id="#LEX2">Lexington</placeName> until <date when="1940">1940</date>, but my husband, then twenty-eight years old and sporting a moustache to conceal his youthful appearance, arrived in <placeName id="#LEX2">Lexington</placeName> as an associate professor <note n="3">The <ref target="https://dspace.wlu.edu/handle/11021/27157">Calyx of 1940</ref> has the picture of Mary Pusey Hope’s husband, who was a faculty member of Washington and Lee.</note> and head of the German Department on <date when="1939-09-01">September 1, 1939</date>-the very day that the Nazis launched their blitzkrieg into Poland. This is possibly not the most auspicious date for a Yankee with a strange name like Pusey to make his appearance at <org>General Lee's college</org>.</p>
 
-      <p> At that time <placeName id="#LEX4">Washington and Lee</placeName> had <num type="cardinal" value="837">837</num> academic students and <num type="cardinal" value="109">109</num> law students. There were <num type="cardinal" value="57">fifty-seven</num> full-time teachers, a situation which was described by the late <persName id="#RHS-0015">Ollinger Crenshaw</persName> as being <q>"one man and one boy for each department."</q></p>
+      <p> At that time <placeName id="#LEX4">Washington and Lee</placeName> had <num type="cardinal" value="837">837</num> academic students and <num type="cardinal" value="109">109</num> law students. There were <num type="cardinal" value="57">fifty-seven</num> full-time teachers, a situation which was described by the late <persName id="#RHS-0015">Ollinger Crenshaw</persName> <note n="4">Crenshaw was an alumni of Washington and Lee University class of 1925 and a faculty member in the history department at Washington and Lee University, 1926-1969. More information about him can be found at the <ref target="https://www.archivesspace.wlu.edu/repositories/5/resources/177">repositories</ref> of Washington and Lee University</note> as being <q>"one man and one boy for each department."</q></p>
 
-      <p>In that era few women had jobs away from home, for a variety of reasons. For one, the country was very poor at that time and they were just so delighted that their husband had a job they didn't even think about having one of their own. I might mention, incidentally, in case you think my husband was rich, he made a salary of $<num type="cardinal" value="3000">3,000</num> a year. For these reasons, most women had volunteer jobs. My first volunteer job was the <org>Lexington Girls Club</org> in what is still known as the <placeName id="#Lex13">old Fish Bait House</placeName> on north Main Street. It is a small, red-brick house in the curve by <org><choice><expan>Virginia Military Insistute</expan><abbr>VMI</abbr></choice></org>. It is a miracle that the house is still standing. The main highway used to come along that way and many trucks failed to maneuver that curve and came right into the house. Fortunately, this did not happen while we were there.</p>
+      <p>In that era few women had jobs away from home, for a variety of reasons. For one, the country was very poor at that time and they were just so delighted that their husband had a job they didn't even think about having one of their own. I might mention, incidentally, in case you think my husband was rich, he made a salary of $<num type="cardinal" value="3000">3,000</num> a year. For these reasons, most women had volunteer jobs. My first volunteer job was the <org>Lexington Girls Club</org> in what is still known as the <placeName id="#Lex13">old Fish Bait House</placeName> on north Main Street <note n="5">Finding information about this house was interesting because I was not able to find a location only mentioned online. I was only able to find information about the house once I spoke with my professor. A street view image of house can be found at this <ref target="https://www.google.com/maps/@37.7894839,-79.4304272,3a,90y,214.33h,81.31t/data=!3m8!1e1!3m6!1sAF1QipP6X03Zq7BZQ0knblW5NPHx47l5lnxMc_pBRcGi!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP6X03Zq7BZQ0knblW5NPHx47l5lnxMc_pBRcGi%3Dw203-h100-k-no-pi-0.5282477-ya243.35489-ro2.4745467-fo100!7i7680!8i3840?entry=ttu">link</ref>!</note>. It is a small, red-brick house in the curve by <org><choice><expan>Virginia Military Insistute</expan><abbr>VMI</abbr></choice></org>. It is a miracle that the house is still standing. The main highway used to come along that way and many trucks failed to maneuver that curve and came right into the house. Fortunately, this did not happen while we were there.</p>
 
       <p><choice><expan>Missus</expan><abbr>Mrs.</abbr></choice> <persName id="#RHS-0014">Lewis Tyree</persName> was in charge and I taught cooking, sewing, folk dancing, and whatever else we could think of. <persName id="#RHS-0016">Jack Roberson</persName> played a mean piano, and while the piano was old and not very good, he really knew how to handle that thing. Unfortunately, this <org>girls club</org> did not survive after World War <num value="2">II</num>, likely because we did not have someone like <persName id="#RHS-0017">Leroy Henderson</persName> to see that it kept going.</p>
 
       <p>I recall the advice given to us by the wonderful doctor at <placeName id="#LEX4">Washington and Lee</placeName>, <choice><expan>Doctor</expan><abbr>Dr.</abbr></choice><persName id="#RHS-0018">Reid White</persName>. He told us that we should be very careful about making any derogatory remarks about anyone in <placeName id="#LEX2">Lexington</placeName>, for they were all related to each other. This was referred to by the late <persName id="#RHS-0015">Ollinger Crenshaw</persName> as the <soCalled>"cousin-wealth of Virginia."</soCalled></p>
 
-      <p>One thing I remember especially was the making and receiving of social calls. All faculty members and their wives made a <num type="cardinal" value="20">twenty</num>-minute call on all new faculty members and their wives, as did other fine citizens of the community. So each evening after dinner, you hurriedly cleaned up the living room and any other part of the house you thought might be seen, turned on the porch light, and sat to wait for the callers to arrive. Ladies, single ones especially, called in the afternoon, and even sometimes in the morning, always leaving their calling cards. Such calls had to be returned very promptly or you were not socially accepted very well here.</p>
+      <p>One thing I remember especially was the making and receiving of social calls. All faculty members and their wives made a <num type="cardinal" value="20">twenty</num>-minute call on all <pb n="588"/> new faculty members and their wives, as did other fine citizens of the community. So each evening after dinner, you hurriedly cleaned up the living room and any other part of the house you thought might be seen, turned on the porch light, and sat to wait for the callers to arrive. Ladies, single ones especially, called in the afternoon, and even sometimes in the morning, always leaving their calling cards. Such calls had to be returned very promptly or you were not socially accepted very well here.</p>
 
       <p>It was rumored that some couples did a little cheating on all of this at times. If they happened to have friends who were making calls and the recipients of these calls happened not to be at home, <num type="cardinal" value="2">two</num> sets of cards were left at the house instead of just one set carried by the callers. I have no proof of this, but it could be a big help in keeping up on your social obligations-if you didn't get caught. Of course, no lady called on a gentleman in those days, so the husband carried a card with his name and his wife's name, as well as a second card with just his name on it.</p>
 
@@ -415,16 +516,18 @@
 
       <p>The telephone numbers were two and three digits but the<choice><expan>Reverend</expan><abbr>Rev.</abbr></choice> <choice><expan>Doctor</expan><abbr>Dr.</abbr></choice><persName id="#RHS-0019">J. J. Murray</persName> had a very special number: <num type="cardinal" value="9">9</num>. This information was received withconsternation when he was in New York or in some other rather large city. They simply couldn't believe a telephone number could possibly be <num type="cardinal" value="9">9</num>.</p>
 
-      <p>The operators-all women-worked very hard. When there was snow and ice, the whole system broke down, and this usually happened in February about Fancy Dress Ball time. Hundreds of young people would arrive in <placeName id="#LEX2">Lexington</placeName> and need to get in touch with their dates as well as with their hostesses-and I mean hostesses, because women always stayed in private residences which were approved houses. I remember this particularly because my husband spent four years being chairman of the dance floor at <placeName id="#LEX4">Washington and Lee</placeName>. With little children, that many dances, and those late hours, believe me, it was rough going.</p>
+      <p>The operators-all women-worked very hard. When there was snow and ice, the whole system broke down, and this usually happened in February about Fancy Dress Ball time <note n="6">Students from Washington and Lee have made <ref target="https://omeka.wlu.edu/specialcollections/s/dci201-fancy-dress/page/home">online exhibits</ref> to examine how this long lived tradition has changed over the years.</note>. Hundreds of young people would arrive in <placeName id="#LEX2">Lexington</placeName> and need to get in touch with their dates as well as with their hostesses-and I mean hostesses, because women always stayed in private residences which were approved houses. I remember this <pb n="589"/> particularly because my husband spent four years being chairman of the dance floor at <placeName id="#LEX4">Washington and Lee</placeName>. With little children, that many dances, and those late hours, believe me, it was rough going.</p>
 
       <p>At that time almost no one owned his own home. We lived in somewhat primitive quarters, but much better than most people. We lived in the lower part of <persName id="#RHS-0020">Miss Annie Jo White's</persName> house on campus, the one with the picture windows-the first picture windows in town, incidentally. But we didn't have all the house. We just had a dining room and bedroom in the same room with a screen in between. We shared the bathroom with four students who lived in the back of the house.</p>
 
       <p>But we lived in a beautiful country and we were associated with a wonderful university and another one nearby. People were friendly, helpful, and compatible, and while war clouds were gathering fast, we were young, hopeful, and happy to be residents of <placeName id="#LEX2">Lexington, Virginia.</placeName></p></div>
 
 <div type="section" n="3">
-   <p><persName id="#RHS-0021">Buck Buchanan</persName> : In <date when="1939">1939</date> I was a sophomore and junior at <placeName id="#LEX4">Washington and Lee</placeName>. Looking back, it seems to me we then had much more contact with the community than the <org>Washington and Lee</org> students now do-for example, with the merchants and the other people who performed various services. Most of the contacts, it seems to me, were with the women of <placeName id="#LEX2">Lexington</placeName>. That is, there were the girls, and we would have liked to have even closer contact with them, but we dealt with their mothers, the land-ladies (I lived with one of the Miss Wades on Preston Street), the ladies in the churches, the faculty wives who were in charge of the social events and who were chaprones-something that has disappeared-and the house-mothers. Altogether it seemed to me that there was very close contact with the lady who ran the boarding house, like Miss <persName id="#RHS-0023">Mary Laird</persName>. And there were several others. Miss <persName id="#RHS-0024">Mary Elizabeth Barclay</persName> ran a boarding house at <placeName id="#LEX16">109 Lee Avenue</placeName>; Miss <persName id="#RHS-0025">Lizzie Graham</persName> on Letcher Avenue. These were people we saw every day.</p>
+   <p><persName id="#RHS-0021">Buck Buchanan</persName> <note n="13">William (Buck) Buchanan, aged 84, passed away on Friday, June 20, 2003, in the Webster Center of Kendal at Lexington. Born on December 25, 1918, in Richmond, he was a Virginian, a graduate of Washington and Lee University, and a U.S. Navy veteran. After pursuing a Ph.D. at Princeton, he became a professor with interests in polling, public opinion, and political statistics. For more information visit this <ref target="https://www.findagrave.com/memorial/86790023/william-vincent-buchanan">site</ref>!</note>: In <date when="1939">1939</date> I was a sophomore and junior at <placeName id="#LEX4">Washington and Lee</placeName>. Looking back, it seems to me we then had much more contact with the community than the <org>Washington and Lee</org> students now do-for example, with the merchants and the other people who performed various services. Most of the contacts, it seems to me, were with the women of <placeName id="#LEX2">Lexington</placeName>. That is, there were the girls, and we would have liked to have even closer contact with them, but we dealt with their mothers, the land-ladies (I lived with one of the Miss Wades on Preston Street), the ladies in the churches, the faculty wives who were in charge of the social events and who were chaprones-something that has disappeared-and the house-mothers. Altogether it seemed to me that there was very close contact with the lady who ran the boarding house, like Miss <persName id="#RHS-0023">Mary Laird</persName>. And there were several others. Miss <persName id="#RHS-0024">Mary Elizabeth Barclay</persName> ran a boarding house at <placeName id="#LEX16">109 Lee Avenue</placeName> <note n="7">The Washington and Lee <ref target="https://www.archivesspace.wlu.edu/repositories/5/archival_objects/7457">repositiories</ref> have more ifnromationa about the house. Also, this <ref target="https://sah-archipedia.org/buildings/VA-02-RB11">site</ref> has information about the the history of the hosue.</note>; Miss <persName id="#RHS-0025">Lizzie Graham</persName> on Letcher Avenue. These were people we saw every day.</p>
 
    <p>My <num type="ordinal" value="2">second</num> observation has to do with <persName id="#RHS-0020">Miss Annie Jo White's</persName> perception in choosing-for that gap in the year when the boys didn't have much to do-to have a fancy dress ball. To me that symbolizes <placeName id="#LEX2">Lexington</placeName> then, in contrast to what it is now. While I can see quite a variety of costume among a group of people who come together at a particular occasion now, then I think we dressed much more more alike at any particular time, but there was much wider variety during the year. The norm for college students in the United States then was to wear sweaters. But <org>Washington and Lee</org> students dressed like Richmond businessmen. That is, the upper classmen did. The freshmen dressed like Richmond businessmen in blue beanies with a white button on top.</p>
+
+<pb n="590"/>
 
    <p>At <choice><expan>Virginia Military Insistute</expan><abbr>VMI</abbr></choice> the students dressed like Civil War soldiers, except on Sundays when they all came out in gold braid, and the faculty all dressed like, and indeed frequently were, army officers.</p>
 
@@ -436,22 +539,41 @@
 
 
 <div type="section" n="4">
-   <p><persName id="#RHS-0022">Bob Hunter</persName>: I was just one year behind <persName id="#RHS-0021">Buck</persName>. I was a freshman in <date when="1938">1938</date> and a sophomore in <date when="1939">1939</date>. There are things that have not changed in <placeName id="#LEX2">Lexington</placeName> since <date when="1939">1939</date>-at least it impresses me that way-and things that have changed. <num type="cardinal" value="4">four</num> things have not changed since <date when="1939">1939</date> that I've noticed. One is the post office. Another is the court house. The third is <placeName id="#LEX19">George Macheras's restaurant</placeName>. And the last is <placeName id="#LEX20">Jackson Avenue</placeName>, a remarkable street. I can think of only <num type="cardinal" value="1">one</num> house on that street that was torn down and replaced with a new house in that <num type="cardinal" value="50">fifty</num> years: <num type="cardinal" value="407">407</num>, next door to <persName id="#RHS-0028">George Brooke</persName>. It was owned by <persName id="#RHS-0029">Almond Coleman</persName> of the <org>Washington and Lee</org> faculty at that time and Mr. Hay tore it down, sold the lumber to <persName id="#RHS-0030">Charlie Barger</persName>, and built a new house. The rest of them are the same houses which have been beautifully cared for and kept up. The avenue is a real museum piece still.</p>
+   <p><persName id="#RHS-0022">Bob Hunter</persName> <note n="14">Col. Robert F. Hunter, aged 79, passed away on June 9, 2000. Born on March 10, 1921, in Charleston, W.Va., he served as a naval aviator during World War II and later joined the Virginia Military Institute faculty, where he worked for 32 years until his retirement in 1986. He was a dedicated member of the Lexington Presbyterian Church, he served in various roles and authored a history of the church in 1991. For more information visit this <ref target="https://www.newspapers.com/article/the-daily-news-leader-robert-fleming-hun/22752455/">site</ref>!</note>: I was just one year behind <persName id="#RHS-0021">Buck</persName>. I was a freshman in <date when="1938">1938</date> and a sophomore in <date when="1939">1939</date>. There are things that have not changed in <placeName id="#LEX2">Lexington</placeName> since <date when="1939">1939</date>-at least it impresses me that way-and things that have changed. <num type="cardinal" value="4">four</num> things have not changed since <date when="1939">1939</date> that I've noticed. One is the post office. Another is the court house. The third is <placeName id="#LEX19">George Macheras's restaurant</placeName> <note n="8">The <ref target="https://historiclexington.omeka.wlu.edu/items/show/8">site</ref> provides information about The Southern Inn, a historic restaurant. It goes back to the long history of the restaurant. I had no idea what restaurant they were mentioned initially until I realized that George Macheras's restaurant is officially called the Southern Inn. It is still around in 2023!</note>. And the last is <placeName id="#LEX20">Jackson Avenue</placeName>, a remarkable street. I can think of only <num type="cardinal" value="1">one</num> house on that street that was torn down and replaced with a new house in that <num type="cardinal" value="50">fifty</num> years: <num type="cardinal" value="407">407</num>, next door to <persName id="#RHS-0028">George Brooke</persName>. It was owned by <persName id="#RHS-0029">Almond Coleman</persName> of the <org>Washington and Lee</org> faculty at that time and <choice><expan>Mister</expan><abbr>Mr.</abbr></choice> Hay tore it down, sold the lumber to <persName id="#RHS-0030">Charlie Barger</persName>, and built a new house. The rest of them are the same houses which have been beautifully cared for and kept up. The avenue is a real museum piece still.</p>
+
+<pb n="591"/>
 
    <p>As far as changes in the schools go, if you stand in front of <placeName id="#LEX21">Lee Chapel</placeName> and look around you and then go down to <org><choice><expan>Virginia Military Insistute</expan><abbr>VMI</abbr></choice></org> and stand in the middle of the parade ground and look around you, at <placeName id="#LEX4">Washington and Lee</placeName> not much has changed. It looks about the same as it did then; there has been a great deal of change, but it has been on the periphery. At <org><choice><expan>Virginia Military Insistute</expan><abbr>VMI</abbr></choice></org> you see change every which way you look. I don't think either institution would have it any other way.</p>
 
    <p><persName id="#RHS-0023">Mary Laird's</persName> boarding house at <placeName id="#LEX17">150 South Main Street</placeName> was a wonderful old gray brick house sitting sideways to the street; you entered through a side porch. She had some of the best food in <placeName id="#LEX2">Lexington</placeName>. I recall her brother very well; Colonel Laird we called him. I don't know whether the "colonel" was honorary or not, but he was old enough to remember <persName id="#RHS-0031">General Hunter's</persName> occupation of <placeName id="#LEX2">Lexington</placeName> in <date when="1864">1864</date>, and he never tired of talking about it.</p>
 
-   <p> I also remember going down the street to Boley's Bookstore in <date when="1939">1939</date>. In the back of the store sat <persName id="#RHS-0032">Henry Boley</persName> autographing copies of his <bibl>Boley's<title>Lexington in Old Virginia</title></bibl>. Being a sophomore, I didn't have sense enough to buy one. I'd like to have that to do over again.</p>
+   <p> I also remember going down the street to Boley's Bookstore in <date when="1939">1939</date>. In the back of the store sat <persName id="#RHS-0032">Henry Boley</persName> autographing copies of his <bibl>Boley's <title>Lexington in Old Virginia</title></bibl>. Being a sophomore, I didn't have sense enough to buy one. I'd like to have that to do over again.</p>
 
    <p>I also remember that the <placeName id="#LEX22">Nelson Street bridge</placeName> was under construction when I came to <placeName id="#LEX2">Lexington</placeName>. Once some <org>Washington and Lee</org> students were crossing it to go to a fraternity house after dark, and the flooring wasn't completed, and one of them went through. Fortunately, it was soft earth about <num type="cardinal" value="20">twenty</num> feet below. He was hurt, but not as badly as he might have been.</p>
 
    <p>Not all <org>Washington and Lee</org> students had automobiles in those days. That's a difference. We traveled a lot by bus, and I remember the bus station behind McCrum 's Drugstore in what is now a parking lot. The buses came and went all day and all night every day of the week in <date when="1939">1939</date>.</p></div>
 
 <div type="section" n="5">
-   <p><persName id="#RHS-0003">Mary Frances Cummings</persName>: Looking back, a great many things have changed. <num type="cardinal" value="1939">Nineteen thirty-nine</num> was before television, penicillin, polio shots, frozen foods, Xerox, plastic, contact lenses, and the pill. It was before radar, credit cards, split atoms, laser beams, ballpoint pens, panty hose, dish washers, clothes dryers, electric blankets, air conditioners, drip dry clothes, security systems, and before man walked on the moon. We thought "fast food" was what you ate during lent. "Outer space" was the back seat in the movie theater. In that time closets were for clothes, not for coming out of. Straight meant a direction. Bunnies were small rabbits, and rabbits were not Volkswagens. Having a meaningful relationship meant getting along with your cousins. Cigarette smoking was fashionable. We were certainly not born before the difference between the sexes was discovered, but we were surely born before the sex change and we were the last generation that was so dumb as to think you needed a husband to have a baby.</p>
+   <p><persName id="#RHS-0003">Mary Frances Cummings</persName> <note n="11">Mary Frances Nicely Cummings, known as Muffin, passed away in Lexington, five days before her 95th birthday on Sunday, September 5, 2010. Born on September 10, 1915, in Rockbridge County, she dedicated her life to community service, volunteering, and her family. After marrying Russell Madison Cummings Sr. in 1939, they raised three sons and were involved in various activities, including owning the Lexington Shoe Hospital and co-directing the Northington Nature Camp. She continued her community involvement as the Executive Secretary of the Rockbridge Tuberculosis Association and Director of Christian Education at Lexington Presbyterian Church. For more information visit this <ref target="https://www.legacy.com/us/obituaries/dailyprogress/name/mary-cummings-obituary?id=27083693">site</ref>!</note>: Looking back, a great many things have changed. <num type="cardinal" value="1939">Nineteen thirty-nine</num> was before television, penicillin, polio shots, frozen foods, Xerox, plastic, contact lenses, and the pill. It was before radar, credit cards, split atoms, laser beams, ballpoint pens, panty hose, dish washers, clothes dryers, electric blankets, air conditioners, drip dry clothes, security systems, and before man walked on the moon. We thought <soCalled>"fast food"</soCalled> was what you ate during lent. <soCalled>"Outer space"</soCalled> was the back seat in the movie theater. In that time closets were for clothes, not for coming out of. Straight meant a direction. Bunnies were small rabbits, and rabbits were not Volkswagens. Having a meaningful relationship meant getting along with your cousins. Cigarette smoking was fashionable. We were certainly not born before the difference between the sexes was discovered, but we were surely born before the sex change and we were the last generation that was so dumb as to think you needed a husband to have a baby.</p>
+
+<pb n="592"/>
 
    <p>On the more serious side, <org>Brownsburg High School</org> had its largest enrollment that year: <num type="cardinal" value="394">394</num>. The <org>Rockbridge County News</org> said that the citizens of <placeName id="#LEX23">Natural Bridge District</placeName> voted on the site for their proposed new high school. But the School Board promised the voters that they would not allow them to make the final decision, that the Board would ultimately decide where the new high school would be. <num type="cardinal" value="1">one</num> area decided to boycott the vote. It turned out that the Board put the school in their area. On November 1O <org>Washington and Lee</org> played the <org>University of Virginia</org> in football, and the next day <org><choice><expan>Virginia Military Insistute</expan><abbr>VMI</abbr></choice></org> played <org>Duke</org>. Try to imagine that weekend in <placeName id="#LEX2">Lexington</placeName>! Also pertaining to schools, the <choice><expan>Parent Teacher Association</expan><abbr>PTA</abbr></choice> and the <choice><expan>Student Council Association</expan><abbr>SCA</abbr></choice> would have <soCalled>"pounding parties"</soCalled> where people brought food to be used for hot lunches in the schools-potatoes, rice, tomatoes, sugar, salt, meat, and other things.</p>
+
+   <p>We did have cars with names like Bentley, but we did not have any cars that had numbers like 240Z, GXL, 4000, 5T6, or XJ6. <persName id="#RHS-0033">James Lees</persName>, the carpet manufacturer in <placeName id="#LEX24">Glasgow</placeName>, was called <org>Blue Ridge Rug Company</org> <note n="9">In 1934, the Blue Ridge Company (James Lees and Sons) constructed a carpet weaving plant on approximately 100 acres of land near the Maury River. Carpet production began in July 1935, and the first order was shipped in September 1935. By the end of 1936, the weaving mill doubled in size, and construction on the Axminster Mill started in 1941 but was delayed until 1945 due to World War II. During the war, the plant shifted to producing canvas duct for the military, with 400 women replacing men who went to fight. The plant operated 24/7. After completing the Axminster Mills in 1945, James Lees and Sons built the yarn mill and dye house, both operational in 1947. The company continued expanding the facility. For mote information click the <ref target="https://glasgowvirginia.org/history">link</ref>!</note> then. Electricity was finally coming to many homes in the <placeName id="#LEX25">Rockbridge Baths</placeName>. And perhaps most astounding of all, there was only one real estate agent in <placeName id="#LEX2">Lexington</placeName> and <placeName id="#LEX26">Rockbridge County</placeName>. <org>Kroger's</org> sausage was <num type="fraction" value="7.5">7 1/2</num> cents a pound and Pender's bread was <num type="cardinal" value="8">8</num> cents a loaf.</p>
+
+   <p>Present-day airport proponents should note that the newspaper said: <q>"If Congress approves the program of airports throughout the country, <placeName id="#LEX2">Lexington</placeName> will be one of the communities to have the modern landing field."</q> <persName id="#RHS-0034">Marion Junkin</persName> exhibited his painting <soCalled>"Crucifix"</soCalled> at the World's Fair in New York. The late <placeName id="#LEX2">Lexington</placeName> <persName id="#RHS-0035">Senator A. Willis Robertson</persName> <note n="1">This <ref target="https://encyclopediavirginia.org/entries/robertson-a-willis-1887-1971/">site</ref> outlines A. Willis Robertson's political career, covering his service in the Virginia Senate, U.S. House of Representatives, and U.S. Senate from 1916 to 1966. A. Willis Robertson is a predominant figure here in Rockbridge!</note> stated that <q>"reduction in spending rather than increase in taxation is the way we should go."</q> He also said that <q>"a national defense program in which we all plan for aggression is eliminated."</q></p>
+
+   <p>At that time we had a mayor who had been a mayor for twenty years, <choice><expan>Mister</expan><abbr>Mr.</abbr></choice> <persName id="#RHS-0036">G. A. Rhodes</persName>. <persName id="#RHS-0037">Edgar Shannon</persName> and <persName id="#RHS-0038">Archibald Stuart</persName>, who was from <placeName id="#LEX6">Buena Vista</placeName>, were initiated into <org>Phi Beta Kappa</org> that year. <persName id="#RHS-0039">Charlie McDowell</persName> and <persName id="#RHS-0040">Matt Paxton</persName> got on the honor role in the third grade in grammar school. <persName id="#RHS-0041">Colonel Couper</persName> completed his <org><choice><expan>Virginia Military Insistute</expan><abbr>VMI</abbr></choice></org> history. <persName id="#RHS-0042">Frank Hague</persName>, who lived on <placeName id="#LEX27">McDowell Street</placeName>, was appointed a judge in New Jersey. Perhaps some of you remember some of the hubbub that New Jersey had over the years with the Hague family.</p> 
+
+   <p>I remember <persName id="#RHS-0032">Henry Boley</persName>'s funeral. Every store in town closed that day for the funeral. It was held late in the afternoon, about <time when="17:00:00">5:00</time>, because there was a rain forecast and it was a stormy day. About ten minutes or so until <time when="17:00:00">5:00</time>, the sky cleared, the sun came out, and it was a beautiful late after-noon for the funeral. As soon as the funeral was over, the sky closed in and it was dreary again.</p>
+
+<pb n="593"/>
+   <p>I had a job at which I was discriminated against. I was told that the rule was that whenever I got married I had to leave the job in <num type="cardinal" value="3">three</num> months. So I had to leave.</p>
+
+   <p>In other aspects of the time, divorces fell off by <num type="cardinal" value="3">three</num> that year, as compared to the year before. Hal Kemp lead the orchestra at Fancy Dress. The theme was <soCalled>"Old Williamsburg"</soCalled> and the costumes were from the year <date when="1716">1716</date>. A market was held on Saturday morning in the Dutch Inn where they sold jonquils, dressed chickens, cakes, fresh eggs, salads, cottage cheese, and bread. <org>Lexington High School</org> pledged to obtain <num type="cardinal" value="500">five hundred</num> to <num type="cardinal" value="1000">one thousand</num> iris roots to beautify the school grounds. An alumnus named <persName id="#RHS-0043">E. L. Green</persName> wrote to the <org>County News</org> about a visit that he had here with <persName id="#RHS-0044">Hale Houston</persName> in what we now call the Campbell House. <choice><expan>Mister</expan><abbr>Mr.</abbr></choice> <persName id="#RHS-0043">Green</persName> said of <choice><expan>Mister</expan><abbr>Mr.</abbr></choice> <persName id="#RHS-0044"> Houston</persName>: <q>"Beautifully kept home, as by a most fastidious lady."</q> <persName id="#RHS-0045">Wayne Morris</persName>, the star of the film <q>"Brother Rat,"</q> visited <placeName id="#LEX2">Lexington</placeName> on his honeymoon in <date when="1939">1939</date>, and General <persName id="#RHS-0046">George Marshall</persName> was appointed army chief of staff by President <persName id="#RHS-0046">Roosevelt</persName>.</p>
+
+   <p>Finally, some other differences between then and now were that grass was something to be mowed and pot was something you cooked in. Coke was a drink. Rock music was a grandma's lullaby. Aids were helpers in the principal's office. We did not have house-husbands, gay rights, computer dating, dual careers, or computer marriages. We were born before daycare centers, group therapy, and nursing homes. We had never heard of FM radio, tape decks, electric typewriters, artificial hearts, yogurt, guys wearing earrings, or word processors. A chip meant a piece of wood. Hardware meant hardware. And software wasn't even a word. The word <soCalled>"making out"</soCalled> was a term that was referred to as how you did on your exam. Pizza, McDonald's, and instant coffee were as yet unknown when the <org>Rockbridge Historical Society</org> began its operations in <date when="1939">1939</date>.</p>
 </div>
 </body>
 </text>

@@ -133,7 +133,7 @@ tei-editor::before {
 	content: "Editor: ";
 	font-weight: bold;
 }
-tei-title::before {
+tei-titleStmt > tei-title::before {
 	content: "Title: ";
 	font-weight: bold;
 }
@@ -142,7 +142,7 @@ tei-publisher::before {
 	font-weight: bold;
 }
 
-tei-body > tei-date::before {
+tei-publicationstmt > tei-date::before {
 	content: "Date: ";
 	font-weight: bold;
 }
