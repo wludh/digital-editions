@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="title" content="Buckle Down Winsocki, Washington and Lee during World War 2 | Digital Editions at W&amp;L">
-    <meta name="description" content="Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.">
+    <meta name="description" content="The story of Washington and Lee university&apos;s expierience with World War 2">
     <meta name="image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Digital Editions at W&amp;L">
     <meta property="og:url" content="http://localhost:4000/digital-editions/proceedings/vol-12-WLWW2.html">
     <meta property="og:title" content="Buckle Down Winsocki, Washington and Lee during World War 2 | Digital Editions at W&amp;L">
-    <meta property="og:description" content="Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.">
+    <meta property="og:description" content="The story of Washington and Lee university&apos;s expierience with World War 2">
     <meta property="og:image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="1200">
@@ -19,7 +19,7 @@
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="http://localhost:4000/digital-editions/proceedings/vol-12-WLWW2.html">
     <meta property="twitter:title" content="Buckle Down Winsocki, Washington and Lee during World War 2 | Digital Editions at W&amp;L">
-    <meta property="twitter:description" content="Old houses in the Valley of Virginia are not so old as those in Tidewater, but there are some of them of very great importance as keystones in history. Red House is one of these.">
+    <meta property="twitter:description" content="The story of Washington and Lee university&apos;s expierience with World War 2">
     <meta property="twitter:site" content="@">
     <meta property="twitter:image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <link rel="shortcut icon" href="/digital-editions/favicon.ico">
@@ -61,6 +61,10 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#">All Texts</a></li>
             <li><a class="dropdown-item" href="/digital-editions/proceedings/">RHS Proceedings</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="/digital-editions/personography.html/">Personography</a></li>
+           <!-- <li><a class="dropdown-item" href="/digital-editions/map.html/">Places + Map</a></li>-->
+
           </ul>
         </li>
 
@@ -129,7 +133,7 @@ var CETEIcean = new CETEI();
   CETEIcean.addBehaviors({"tei":{
         // Overrides the default ptr behavior, displaying a short link
         "persName": [
-          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+          ["[id]", ["<a href=\"http://localhost:4000/digital-editions/personography.html$rw@id\" target=\"_blank\">","</a>"]]
         ],
         "placeName": [
           ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]

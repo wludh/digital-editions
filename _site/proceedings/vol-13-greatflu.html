@@ -61,6 +61,10 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#">All Texts</a></li>
             <li><a class="dropdown-item" href="/digital-editions/proceedings/">RHS Proceedings</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="/digital-editions/personography.html/">Personography</a></li>
+           <!-- <li><a class="dropdown-item" href="/digital-editions/map.html/">Places + Map</a></li>-->
+
           </ul>
         </li>
 
@@ -129,7 +133,7 @@ var CETEIcean = new CETEI();
   CETEIcean.addBehaviors({"tei":{
         // Overrides the default ptr behavior, displaying a short link
         "persName": [
-          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+          ["[id]", ["<a href=\"http://localhost:4000/digital-editions/personography.html$rw@id\" target=\"_blank\">","</a>"]]
         ],
         "placeName": [
           ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]

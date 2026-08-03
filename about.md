@@ -3,10 +3,14 @@ layout: default
 title: About
 ---
 
-I'm baby lyft lo-fi +1 trust fund organic, whatever irony butcher post-ironic cornhole art party mixtape shaman heirloom poke. YOLO raclette flannel actually. Ugh meh migas bicycle rights. Williamsburg tonx pabst, wolf franzen sustainable bushwick. Small batch neutra same asymmetrical seitan. Seltzer.
+Digital Editions at W&L is an effort of [Leyburn Library](https://library.wlu.edu), [Digital Humanities](https://digitalhumanities.wlu.edu), and the [Digital Culture and Information minor](http://go.wlu.edu/dci) to publish edited and annotated texts from our Special Collections and Archives and the collections of our community partners. 
 
-Kickstarter fanny pack shoreditch, man braid flexitarian readymade hot chicken flannel man bun forage sustainable listicle drinking vinegar. Slow-carb church-key vinyl tbh pop-up bitters. Quinoa bitters small batch drinking vinegar gorpcore intelligentsia. Single-origin coffee viral etsy, XOXO squid fanny pack bicycle rights.
+Texts on this site include both transcriptions with minimal editorial intervention as well as editions that have been encoded with TEI XML. Editors include students and library faculty at Washington and Lee University. Students receive training in transcription and editing through their university employment or enrollment in courses like [DCI 295D Digital Editions](https://mackenziekbrooks.github.io/dci295D-f23-digitaleditions/). 
 
-JOMO jawn thundercats put a bird on it twee fanny pack blackbird spyplane godard fashion axe raw denim shabby chic meggings tumblr knausgaard pinterest. Fanny pack direct trade microdosing subway tile next level. Af before they sold out gochujang, ennui single-origin coffee cupping air plant cliche banh mi umami. Sartorial twee big mood gentrify. Slow-carb direct trade try-hard mustache meditation poke gochujang shoreditch tofu forage venmo.
 
-Craft beer 8-bit prism photo booth post-ironic pabst. Pop-up fam ramps selvage pitchfork JOMO schlitz +1 blue bottle. Ennui DIY listicle, cloud bread forage mustache selvage messenger bag pickled. Organic quinoa activated charcoal woke hoodie seitan.
+## Technical 
+
+This site is built with the static site generator [Jekyll](https://jekyllrb.com/), with a customized [Bootstrap derived theme](https://github.com/robertlove/jekyll-bootstrap). When relevant, the site uses [CETEICean](https://github.com/TEIC/CETEIcean), a JavaScript library for display TEI documents in a browser. Currently, the site is published on GitHub Pages. When available, page images are displayed via [IIIF](iiif.io).
+
+Technical development by Mackenzie Brooks, Professor & Digital Humanities Librarian. 
+

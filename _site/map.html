@@ -3,13 +3,13 @@
    <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="title" content="Map Demo | Digital Editions at W&amp;L">
+    <meta name="title" content="Places + Map | Digital Editions at W&amp;L">
     <meta name="description" content="Digital Editions at W&amp;L">
     <meta name="image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Digital Editions at W&amp;L">
     <meta property="og:url" content="http://localhost:4000/digital-editions/map.html">
-    <meta property="og:title" content="Map Demo | Digital Editions at W&amp;L">
+    <meta property="og:title" content="Places + Map | Digital Editions at W&amp;L">
     <meta property="og:description" content="Digital Editions at W&amp;L">
     <meta property="og:image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
     <meta property="og:image:type" content="image/jpg">
@@ -18,7 +18,7 @@
     <meta property="og:image:alt" content="Digital Editions at W&amp;L">
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="http://localhost:4000/digital-editions/map.html">
-    <meta property="twitter:title" content="Map Demo | Digital Editions at W&amp;L">
+    <meta property="twitter:title" content="Places + Map | Digital Editions at W&amp;L">
     <meta property="twitter:description" content="Digital Editions at W&amp;L">
     <meta property="twitter:site" content="@">
     <meta property="twitter:image" content="http://localhost:4000/digital-editions/assets/img/image.jpg">
@@ -35,9 +35,12 @@
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
+       <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+
 
     
-    <title>Digital Editions at W&L | Map Demo</title>
+    <title>Digital Editions at W&L | Places + Map</title>
   
 
   </head>
@@ -69,6 +72,10 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#">All Texts</a></li>
             <li><a class="dropdown-item" href="/digital-editions/proceedings/">RHS Proceedings</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="/digital-editions/personography.html/">Personography</a></li>
+           <!-- <li><a class="dropdown-item" href="/digital-editions/map.html/">Places + Map</a></li>-->
+
           </ul>
         </li>
 
@@ -79,9 +86,259 @@
 </nav>
 
     <div class="container-md">
-      <h1>Map Demo</h1>
+      <h1>Places + Map</h1>
     <div id="map"></div>
+    <hr />
+    <h1>Places</h1>
+
+<ul class="list-group">
+	
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+  <li class="list-group-item">
+<strong> </strong><br />
+ ID: <br />
+ Reference: <a href="" target="_new"></a><br />
+ Occupation: <br />
+ 
+ Found in: <a href="">Link</a>
+</li>
+
+
+</ul>
+
   </div>
+
+  
+
 <footer class="">
   <div class="container-fluid">
     <div class="row">
@@ -111,380 +368,28 @@
       }).addTo(map);
 
 
-function onEachFeature(feature, layer) {
-    // does this feature have a property named popupContent?
-    if (feature.properties && feature.properties.popupContent) {
-        layer.bindPopup(feature.properties.popupContent);
-    }
-}      
-var geojsonFeature = {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Lexington",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Lexington<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.44525267,
-          37.78403962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Rockbridge",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Rockbridge<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4428,
-          37.7861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Jamestown",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Jamestown<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.7744,
-          37.2083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " James River",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " James River<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.4738,
-          37.5249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Lynchburg",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Lynchburg<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1422,
-          37.4138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Winchester",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Winchester<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.1633,
-          39.1857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Staunton",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Staunton<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0717,
-          38.1496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Roanoke",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Roanoke<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9414,
-          37.27
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Danville",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Danville<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.395,
-          36.5859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Buena Vista",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Buena Vista<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3562,
-          37.7347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Clifton Forge",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Clifton Forge<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.8244,
-          37.8235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Covington",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Covington<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9865,
-          37.784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Natural Bridge",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Natural Bridge<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5446,
-          37.6286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Balcony Falls",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Balcony Falls<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4272,
-          37.6052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Eagle Rock",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Eagle Rock<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.8169,
-          37.7072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " V.M.I",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " V.M.I<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.443,
-          37.7885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " University of Virginia",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " University of Virginia<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.5034,
-          38.0359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Boston",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Boston<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0589,
-          42.3601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Seattle",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Seattle<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3321,
-          47.6062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Hampton Roads Bridge Tunnel",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Hampton Roads Bridge Tunnel<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.4267,
-          36.9861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Norfolk",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Norfolk<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.2859,
-          36.8508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Portsmouth",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Portsmouth<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.2983,
-          36.8354
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Chesapeake Bay Bridge",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Chesapeake Bay Bridge<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.3237,
-          38.9755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": " Richmond-Petersburg Turnpike",
-        "Link": "https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html",
-        "popupContent": " Richmond-Petersburg Turnpike<br />from <a href=\"https://wludh.github.io/digital-editions/proceedings/vol-05-highwaystory.html\">A Highway Story</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3986,
-          37.3014
-        ]
-      }
-    }
-  ]
-};
-L.geoJSON(geojsonFeature, {
-    onEachFeature: onEachFeature
-}).addTo(map);
+// Read markers data from data.csv
+$.get('/digital-editions/places.csv', function(csvString) {
+
+    // Use PapaParse to convert string to array of objects
+    var data = Papa.parse(csvString, {
+      header: true, 
+      dynamicTyping: true, 
+      skipEmptyLines: true
+    }).data;
+
+console.log(data)
+data.forEach(function(row) {
+  console.log(row.Name, row.Latitude, row.Longitude);
+        if (row.Latitude == null || row.Longitude == null) return;
+
+        L.marker([row.Latitude, row.Longitude])
+            .bindPopup(row.PopupContent)
+            .addTo(map);
+    });
+
+});
+
     </script>
   </body>
 </html>
