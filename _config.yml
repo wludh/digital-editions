@@ -20,6 +20,8 @@ collections:
     sort_by: order
   texts:
     output: true
+  jones:
+    output: true
 
 # Defaults
 defaults:

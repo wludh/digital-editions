@@ -10,11 +10,9 @@ title: Places + Map
 	{% for place in places %}
   <li class="list-group-item" id="{{person.id}}">
 <strong> {{place.Name}}</strong><br />
- ID: {{person.id}}<br />
- Reference: <a href="{{person.ref}}" target="_new">{{person.ref}}</a><br />
- Occupation: {{person.occupation}}<br />
- {% if person.note %}Note: {{person.note}}<br />{% endif %}
- Found in: <a href="{{person.foundIn | absolute_url }}">Link</a>
+	{{place.Latitude}}, {{place.Longitude}}<br />
+ {% if place.note %}Note: {{person.note}}<br />{% endif %}
+ Found in: <a href="{{place.From | absolute_url }}">Link</a>
 </li>
 
 {% endfor %}

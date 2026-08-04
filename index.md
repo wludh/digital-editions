@@ -5,9 +5,9 @@ layout: default
 
 <blockquote>“In the next fifty years the entirety of our inherited archive of cultural works will have to be reedited within a network of digital storage, access, and dissemination”.
 <br />
-<span id="blockquoteCitation">-Jerome McGann, A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction, 2014.</span></blockquote>
+<span id="blockquoteCitation">- Jerome McGann, A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction, 2014.</span></blockquote>
 
-Digital Editions at W&L is an effort of [Leyburn Library](http://library.wlu.edu), [Digital Humanities](http://digitalhumanities.wlu.edu), and the [Digital Culture and Information minor](http://go.wlu.edu/dci) to publish edited and annotated texts from our Special Collections and Archives and the collections of our community partners. 
+Digital Editions at W&L is an effort of [Leyburn Library](http://library.wlu.edu), [Digital Humanities](http://digitalhumanities.wlu.edu), and the [Digital Culture and Information minor](http://go.wlu.edu/dci) to publish edited and annotated texts from our Special Collections and Archives and the collections of our community partners. <a href="about.html">Learn more about this initiative.</a>
 <div class="row">
 
 {% assign featured = site.documents | where:"featured","true"  %}
@@ -25,3 +25,6 @@ Digital Editions at W&L is an effort of [Leyburn Library](http://library.wlu.edu
 </div>
 {% endfor %}
 </div>
+
+
+<a href="all-texts.html" class="btn btn-info">View all editions</a>

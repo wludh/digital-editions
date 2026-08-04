@@ -8,7 +8,7 @@ volume: thirteen
 order: 02
 author: Eileen T. Hinks
 date: 2005-11-21
-featured: true
+featured: false
 status: live
 image: /assets/img/greatflu.png
 description:  The influenza pandemic of 1918-19 affected even those living in rural areas such as Rockbridge County and its two cities, Lexington and Buena Vista. 
